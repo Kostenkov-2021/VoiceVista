@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Questa operazione non può essere annullata!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Questa operazione non può essere annullata!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Utilizza i servizi di localizzazione in modalità a basso consumo per risparmiare la batteria del telefono.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Distanza suggerimento punto di svolta";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Impossibile cancellare i dati archiviati delle mappe";
+"Unable to Clear Map Data" = "Impossibile cancellare i dati della mappa";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Impossibile connettersi";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista sta attualmente monitorando '%1$@' all'interno di un intervallo di '%2$@'. Quando arrivi in questo intervallo, VoiceVista si attiverà automaticamente e imposterà questo indicatore come audiofaro.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista non è attualmente in grado di connettersi a Internet. È necessaria una connessione Internet quando si cancellano i dati delle mappe archiviati in modo da poter essere aggiornati.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista sta aggiornando i dati della mappa. Riprova più tardi.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista non è attualmente connesso ai tuoi auricolari. Assicurati che gli auricolari siano accesi e vicino al telefono.";

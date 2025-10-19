@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Această operațiune nu poate fi anulată!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Această operațiune nu poate fi anulată!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Aceasta utilizează Serviciile de localizare într-un mod de consum redus pentru a economisi bateria telefonului.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Distanța indicației punctului de întoarcere";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Nu se pot șterge datele stocate pe hartă";
+"Unable to Clear Map Data" = "Nu se pot șterge datele hărții";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Imposibil de conectat";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista monitorizează în prezent „%1$@” într-un interval „%2$@”. Când ajungeți în acest interval, VoiceVista se va trezi automat și se va seta acest marcator ca semnal audio.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista nu se poate conecta în prezent la internet. Este necesară o conexiune la internet când ștergeți datele hărții stocate, astfel încât datele hărții să poată fi reîmprospătate.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista actualizează în prezent datele hărții. Vă rugăm să încercați din nou mai târziu.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista nu este conectat momentan la căștile dvs. Asigurați-vă că căștile sunt pornite și sunt aproape de telefon.";

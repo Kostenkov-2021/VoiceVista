@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Dieser Vorgang kann nicht rückgängig gemacht werden!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Dieser Vorgang kann nicht rückgängig gemacht werden!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "So werden die Ortungsdienste lediglich mit geringer Leistung verwendet, um den Akku des Handys zu schonen.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Abbiegepunkt-Hinweis-Distanz";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Gespeicherte Kartendaten konnten nicht gelöscht werden";
+"Unable to Clear Map Data" = "Kartendaten konnten nicht gelöscht werden";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Verbindung konnte nicht hergestellt werden";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista überwacht jetzt „%1$@“ in einem Umkreis von %2$@. Sobald Sie diesen Bereich erreicht haben, wird der Standby-Modus von VoiceVista automatisch deaktiviert und ein Audiosignal für diese Markierung eingeschaltet.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista kann sich zurzeit nicht mit dem Internet verbinden. Zum Löschen der gespeicherten Kartendaten ist eine Internetverbindung erforderlich, damit die Kartendaten danach aktualisiert werden können.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista aktualisiert derzeit die Kartendaten. Bitte versuchen Sie es später noch einmal.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista ist momentan nicht mit Ihrem Kopfhörer verbunden. Bitte stellen Sie sicher, dass Ihr Kopfhörer eingeschaltet ist und sich in der Nähe Ihres Handys befindet.";

@@ -2196,9 +2196,6 @@
 "This operation cannot be undone!" = "Bu işlem geri alınamaz!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Bu işlem geri alınamaz!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Bu, telefonunuzun pilinden tasarruf etmek için Konum Servislerini düşük güç modunda kullanır.";
 
 /* No comment provided by engineer. */
@@ -2293,7 +2290,7 @@
 "Turnpoint Hint Distance" = "Dönüş Noktası İpucu Mesafesi";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Kayıtlı Harita Verileri Temizlenemiyor";
+"Unable to Clear Map Data" = "Harita Verileri Temizlenemiyor";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Bağlanılamıyor";
@@ -2438,7 +2435,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista şu anda '%2$@' aralığında '%1$@'ı izliyor. Bu aralığa ulaştığınızda, VoiceVista otomatik olarak uyanacak ve bu işaretçiyi bir ses işaretçisi olarak ayarlayacaktır.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista şu anda internete bağlanamıyor. Harita verilerinin yenilenebilmesi için saklanan harita verileri temizlenirken bir internet bağlantısı gereklidir.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista şu anda harita verilerini güncelliyor. Lütfen daha sonra tekrar deneyin.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista şu anda kulaklığınıza bağlı değil. Lütfen kulaklığınızın açık ve telefonunuzun yakınında olduğundan emin olun.";

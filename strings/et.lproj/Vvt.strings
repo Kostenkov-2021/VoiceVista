@@ -2174,9 +2174,6 @@
 "This operation cannot be undone!" = "Seda toimingut ei saa tagasi võtta!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Seda tegevust ei saa tagasi võtta!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "See kasutab telefoni aku säästmiseks asukohateenuseid vähese energiatarbega režiimis.";
 
 /* No comment provided by engineer. */
@@ -2271,7 +2268,7 @@
 "Turnpoint Hint Distance" = "Pöördepunkti vihje kaugus";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Salvestatud kaardiandmeid ei saanud kustutada";
+"Unable to Clear Map Data" = "Kaardiandmeid ei õnnestunud kustutada";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Ühendust ei saanud luua";
@@ -2416,7 +2413,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista jälgib praegu '%1$@' vahemikuga '%2$@'. Sellisele kaugusele jõudes ärkab VoiceVista automaatselt üles ja määrab selle tähise helimajakaks.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista ei suuda praegu Interneti-ühendust luua. Salvestatud kaardiandmete kustutamisel on vaja Interneti-ühendust, et kaardiandmeid saaks värskendada.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista uuendab praegu kaardiandmeid. Palun proovige hiljem uuesti.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista pole praegu kõrvaklappidega ühendatud. Veendu, et kõrvaklapid on telefoni lähedal ja sisse lülitatud.";

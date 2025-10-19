@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "این عملیات قابل لغو نیست!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "این عملیات قابل بازگشت نیست!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "این از خدمات موقعیت‌یابی در حالت کم‌مصرف برای صرفه‌جویی در باتری گوشی شما استفاده می‌کند.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "فاصله راهنمایی نقطه گردش";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "پاک کردن داده‌های نقشه ذخیره شده ناموفق بود";
+"Unable to Clear Map Data" = "پاک کردن داده‌های نقشه امکان‌پذیر نیست";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "اتصال ناموفق بود";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista در حال حاضر در حال نظارت بر «%1$@» در محدوده «%2$@» است. وقتی به این محدوده برسید، VoiceVista به طور خودکار بیدار شده و این نشانگر را به عنوان یک نشانه ی صوتی تنظیم می‌کند.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista در حال حاضر قادر به اتصال به اینترنت نیست. هنگام پاک کردن داده‌های نقشه ذخیره شده، برای اینکه داده‌های نقشه بتوانند تازه‌سازی شوند، اتصال به اینترنت لازم است.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista در حال حاضر در حال به‌روزرسانی داده‌های نقشه است. لطفاً بعداً دوباره امتحان کنید.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista در حال حاضر به هدفون شما متصل نیست. لطفاً مطمئن شوید هدفون شما روشن و نزدیک گوشی شماست.";

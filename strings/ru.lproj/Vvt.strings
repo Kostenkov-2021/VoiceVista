@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Эту операцию нельзя отменить!";
 
 /* No comment provided by engineer. */
-"This operation cannot be undone!" = "Эту операцию нельзя отменить!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "При этом службы геолокации используются в режиме энергосбережения для экономии заряда батареи вашего телефона.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Расстояние подсказки точки поворота";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Невозможно очистить сохранённые данные карт";
+"Unable to Clear Map Data" = "Невозможно очистить данные карты";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Невозможно подключиться";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista в настоящее время отслеживает «%1$@» в диапазоне «%2$@». Когда вы окажетесь в этом диапазоне, VoiceVista автоматически проснётся и установит эту метку в качестве звукового маяка.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista в настоящее время не может подключиться к Интернету. Для очистки сохранённых данных карт требуется подключение к Интернету, чтобы их можно было обновить.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista в настоящее время обновляет данные карты. Повторите попытку позже.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista в настоящее время не подключено к вашим наушникам. Пожалуйста, убедитесь, что ваши наушники включены и находятся рядом с телефоном.";
