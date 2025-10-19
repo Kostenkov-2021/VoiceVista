@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Cette opération ne peut pas être annulée !";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Cette opération est irréversible !";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Celui-ci utilise les services de localisation en mode faible consommation pour économiser la batterie de votre téléphone.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Distance de l’indice de retournement";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Impossible d’effacer les données de carte stockées";
+"Unable to Clear Map Data" = "Impossible d'effacer les données cartographiques";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Impossible de se connecter";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista surveille actuellement « %1$@ » dans une plage « %2$@ ». Lorsque vous arrivez dans cette plage, VoiceVista se réveillera automatiquement et définira ce marqueur comme balise audio.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista ne peut actuellement pas se connecter à Internet. Une connexion Internet est obligatoire en cas d’effacement des données de carte stockées afin que les données de carte puissent être actualisées.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista met actuellement à jour les données cartographiques. Veuillez réessayer ultérieurement.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista n'est actuellement pas connecté à votre casque. Veuillez vous assurer qu'il est allumé et à proximité de votre téléphone.";

@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Tej operacji nie można cofnąć!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Tej operacji nie można cofnąć!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Spowoduje to korzystanie z usług lokalizacyjnych w trybie niskiego zużycia energii, aby oszczędzać baterię telefonu.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Odległość podpowiedzi punktu zwrotnego";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Nie można wyczyścić zapisanych danych mapy";
+"Unable to Clear Map Data" = "Nie można wyczyścić danych mapy";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Nie można połączyć";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista monitoruje obecnie „%1$@” w zakresie „%2$@”. Kiedy znajdziesz się w tym zasięgu, VoiceVista automatycznie się obudzi i ustawi ten znacznik jako sygnał dźwiękowy.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista nie może obecnie połączyć się z Internetem. Podczas czyszczenia zapisanych danych mapy wymagane jest połączenie z Internetem, aby dane mapy mogły zostać odświeżone.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista aktualizuje dane mapy. Spróbuj ponownie później.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista nie jest aktualnie podłączony do Twoich słuchawek. Upewnij się, że słuchawki są włączone i znajdują się w pobliżu telefonu.";

@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Denne handling kan ikke fortrydes!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Denne handling kan ikke fortrydes!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Dette bruger Placeringstjenester i en lavenergitilstand for at spare på telefonens batteri.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Afstand til drejningspunkt";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Lagrede kortdata kan ikke ryddes";
+"Unable to Clear Map Data" = "Kan ikke rydde kortdata";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Der kunne ikke oprettes forbindelse";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista overvåger i øjeblikket '%1$@' inden for et '%2$@'-område. Når du ankommer til dette område, vil VoiceVista automatisk vågne op og indstille denne markør som et lydfyr.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista kan i øjeblikket ikke oprette forbindelse til internettet. Der kræves en internetforbindelse, når du rydder de lagrede kortdata, så kortdataene kan opdateres.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista opdaterer i øjeblikket kortdataene. Prøv igen senere.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista er i øjeblikket ikke forbundet til dine hovedtelefoner. Sørg for, at dine hovedtelefoner er tændte og i nærheden af din telefon.";

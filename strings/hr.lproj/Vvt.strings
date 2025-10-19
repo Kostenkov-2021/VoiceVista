@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Ova operacija se ne može poništiti!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Ova se operacija ne može poništiti!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Ovo koristi usluge lokacije u načinu rada niske potrošnje radi očuvanja baterije vašeg telefona.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Udaljenost savjeta za točku okretišta";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Nije moguće izbrisati pohranjene podatke karte";
+"Unable to Clear Map Data" = "Nije moguće izbrisati podatke karte";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Ne može se povezati";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista trenutno prati '%1$@' unutar raspona '%2$@'. Kada stignete u ovaj raspon, VoiceVista će se automatski probuditi i postaviti ovu oznaku kao audio cilj.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista se trenutno ne može spojiti na internet. Prilikom brisanja pohranjenih podataka karte potrebna je internetska veza kako bi se podaci karte mogli osvježiti.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista trenutno ažurira podatke karte. Pokušajte ponovno kasnije.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista trenutno nije spojen na vaše slušalice. Provjerite jesu li vaše slušalice uključene i blizu vašeg telefona.";

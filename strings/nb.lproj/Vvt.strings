@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Denne operasjonen kan ikke angres!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Denne handlingen kan ikke angres!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Dette bruker posisjonstjenester i en strømsparemodus for å spare telefonens batteri.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Avstand til sving";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Kan ikke slette lagrede kartdata";
+"Unable to Clear Map Data" = "Kan ikke slette kartdata";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Kan ikke koble til";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista overvåker for øyeblikket '%1$@' innenfor et '%2$@'-område. Når du kommer inn i dette området, vil VoiceVista våkne automatisk og sette dette punktet som et lydfyr.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista kan for øyeblikket ikke koble til internett. Internettforbindelse kreves når du tømmer lagrede kartdata, slik at de kan oppdateres.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista oppdaterer kartdataene for øyeblikket. Prøv igjen senere.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista er for øyeblikket ikke koblet til hodetelefonene dine. Sørg for at hodetelefonene er slått på og i nærheten av telefonen.";

@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Aquesta operació no es pot desfer!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Aquesta operació no es pot desfer!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Això utilitza els serveis d'ubicació en un mode de baix consum per estalviar la bateria del telèfon.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Distància de la pista del punt de gir";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "No es poden esborrar les dades del mapa emmagatzemades";
+"Unable to Clear Map Data" = "No es poden esborrar les dades del mapa";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "No es pot connectar";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "El VoiceVista està en mode seguiment a '%1$@' dins d'un interval de '%2$@'. Quan arribis a aquesta distància, el VoiceVista es despertarà automàticament i establirà aquest marcador com a objectiu sonor.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "El VoiceVista no es pot connectar a Internet ara mateix. Es necessita una connexió a Internet quan esborris les dades del mapa emmagatzemades perquè les dades del mapa es puguin actualitzar.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista està actualitzant les dades del mapa. Si us plau, torneu-ho a provar més tard.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "El VoiceVista no es pot connectar als teus auriculars. Mira que els auriculars estiguin engegats i a prop del telèfon.";

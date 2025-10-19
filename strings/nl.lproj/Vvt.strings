@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Deze bewerking kan niet ongedaan worden gemaakt!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Deze bewerking kan niet ongedaan worden gemaakt!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Hierbij wordt gebruik gemaakt van Locatievoorzieningen in een energiebesparende modus om de batterij van uw telefoon te sparen.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Turnpoint Hint Afstand";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Kan de opgeslagen kaartgegevens niet wissen";
+"Unable to Clear Map Data" = "Kaartgegevens kunnen niet worden gewist";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Kan geen verbinding maken";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista monitort momenteel '%1$@' binnen een bereik van '%2$@'. Wanneer je binnen dit bereik arriveert, wordt VoiceVista automatisch wakker en wordt deze markering ingesteld als audiobaken.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista kan momenteel geen verbinding maken met internet. Er is een internetverbinding vereist om de opgeslagen kaartgegevens te wissen zodat de kaartgegevens kunnen worden vernieuwd.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista werkt momenteel de kaartgegevens bij. Probeer het later opnieuw.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista is momenteel niet verbonden met uw hoofdtelefoon. Zorg ervoor dat je koptelefoon is ingeschakeld en in de buurt van je telefoon.";

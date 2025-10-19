@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "Esta operação não pode ser anulada!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Esta operação não pode ser desfeita!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Isso usa os Serviços de Localização em modo de baixo consumo de energia para economizar a bateria do seu telefone.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Distância da dica do ponto de viragem";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Não é Possível Limpar Dados do Mapa Armazenados";
+"Unable to Clear Map Data" = "Não é possível limpar os dados do mapa";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Não é Possível Ligar";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "Atualmente, o VoiceVista está monitorizando '%1$@' dentro de um intervalo '%2$@'. Quando você chegar nesta faixa, o VoiceVista irá ativar automaticamente e definir este marcador como um sinal de áudio.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "O VoiceVista não consegue estabelecer ligação à Internet neste momento. A ligação à Internet é necessária durante a limpeza dos dados do mapa armazenados para que estes possam ser atualizados.";
+"VoiceVista is currently updating the map data. Please try again later." = "O VoiceVista está a atualizar os dados do mapa. Tente novamente mais tarde.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "O VoiceVista não está conectado aos seus fones de ouvido. Certifique-se de que seus fones de ouvido estejam ligados e próximos ao telefone.";

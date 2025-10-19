@@ -1889,9 +1889,6 @@
 "This operation cannot be undone!" = "لا يمكن التراجع عن هذه العملية!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "لا يمكن التراجع عن هذه العملية!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "يستخدم هذا خدمات الموقع في وضع الطاقة المنخفضة للحفاظ على بطارية هاتفك.";
 
 /* No comment provided by engineer. */
@@ -1973,7 +1970,7 @@
 "Turnpoint Hint Distance" = "مسافة تلميح نقطة التحول";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "تعذر محو بيانات الخرائط المخزنة";
+"Unable to Clear Map Data" = "غير قادر على مسح بيانات الخريطة";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "غير قادر على الاتصال";
@@ -2115,7 +2112,7 @@
 "VoiceVista is currently in snooze mode. It will automatically wake up when you leave your current location." = "VoiceVista حاليًا في وضع الغفوة. سوف يستيقظ تلقائيًا عندما تغادر موقعك الحالي.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista غير قادر حاليًا على الاتصال بالإنترنت. يلزم الاتصال بالإنترنت عند مسح بيانات الخريطة المخزنة بحيث يمكن تحديث بيانات الخريطة.";
+"VoiceVista is currently updating the map data. Please try again later." = "يقوم VoiceVista حاليًا بتحديث بيانات الخريطة. يُرجى المحاولة لاحقًا.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista غير متصل حاليًا بسماعات الرأس الخاصة بك. يرجى التأكد من تشغيل سماعات الرأس وقربها من هاتفك.";

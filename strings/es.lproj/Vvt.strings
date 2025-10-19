@@ -2199,9 +2199,6 @@
 "This operation cannot be undone!" = "¡Esta operación no se puede deshacer!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "¡Esta operación no se puede deshacer!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "En este modo se utilizan los servicios de ubicación en un modo de bajo consumo para conservar la batería de tu teléfono.";
 
 /* No comment provided by engineer. */
@@ -2296,7 +2293,7 @@
 "Turnpoint Hint Distance" = "Distancia de aviso de punto de giro";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "No se pueden eliminar los datos de mapas almacenados";
+"Unable to Clear Map Data" = "No se pueden borrar los datos del mapa";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "No se puede conectar";
@@ -2441,7 +2438,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista está monitoreando '%1$@' dentro de un rango de '%2$@'. Cuando llegues a este rango, se activará automáticamente y configurará este marcador como una baliza de audio.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista no puede conectarse a Internet. Es necesario disponer de conexión a Internet para borrar los datos cartográficos almacenados y actualizarlos..";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista está actualizando los datos del mapa. Inténtalo de nuevo más tarde.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista no está actualmente conectado a tus auriculares. Asegúrate de que tus auriculares estén encendidos y cerca de tu teléfono.";

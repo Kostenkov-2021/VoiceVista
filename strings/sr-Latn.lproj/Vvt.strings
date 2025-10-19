@@ -2196,9 +2196,6 @@
 "This operation cannot be undone!" = "Ова операција се не може поништити!";
 
 /* No comment provided by engineer. */
-"This opertaion cannot be undone!" = "Ова операција се не може поништити!";
-
-/* No comment provided by engineer. */
 "This uses Location Services in a low-power mode to conserve your phone's battery." = "Ovo koristi usluge lokacije u režimu slabog napajanja da bi uštedeo bateriju telefona.";
 
 /* No comment provided by engineer. */
@@ -2293,7 +2290,7 @@
 "Turnpoint Hint Distance" = "Okretna tačka Savet Udaljenost";
 
 /* No comment provided by engineer. */
-"Unable to Clear Stored Map Data" = "Nije moguće obrisati podatke uskladištene mape";
+"Unable to Clear Map Data" = "Није могуће обрисати податке мапе";
 
 /* No comment provided by engineer. */
 "Unable to Connect" = "Nije moguće povezati se";
@@ -2438,7 +2435,7 @@
 "VoiceVista is currently monitoring '%1$@' within a '%2$@' range. When you arrive in this range, VoiceVista will automatically wake up and set this marker as an audio beacon." = "VoiceVista trenutno nadgleda '%1$@' u opsegu od '%2$@'. Kada stignete u ovaj opseg, VoiceVista će se automatski probuditi i postaviti ovaj označivač kao audio far.";
 
 /* No comment provided by engineer. */
-"VoiceVista is currently unable to connect to the internet. An internet connection is required when clearing the stored map data so that the map data can be refreshed." = "VoiceVista trenutno ne može da se poveže sa Internetom. Prilikom osvežavanja uskladištenih podataka mape potrebna je Internet veza kako bi podaci mape mogli da se osveže.";
+"VoiceVista is currently updating the map data. Please try again later." = "VoiceVista тренутно ажурира податке мапе. Молимо покушајте поново касније.";
 
 /* No comment provided by engineer. */
 "VoiceVista is not currently connected to your headphones. Please ensure your headphones are turned on and near your phone." = "VoiceVista trenutno nije povezana sa vašim slušalicama. Uverite se da su slušalice uključene i blizu telefona.";
