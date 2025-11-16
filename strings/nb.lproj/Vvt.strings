@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Stedstilgang er nødvendig for å se nærliggende veikryss.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Nøyaktighetsterskel";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Nøyaktighet: %@";
 
 /* No comment provided by engineer. */
@@ -552,6 +555,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Endre ekstern kart-app";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Endre terskel for advarsel om GPS-nøyaktighet";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Endre avstandsintervall for GPS-informasjon";
@@ -2210,6 +2216,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Dette vil koble hodetelefonene fra VoiceVista. Du kan koble til VoiceVista igjen i fremtiden herfra.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Terskler";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "Til %@";
@@ -2482,6 +2491,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Gåscenario";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Varsle brukeren når GPS-nøyaktigheten faller under den definerte terskelen.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Rutepunkt";

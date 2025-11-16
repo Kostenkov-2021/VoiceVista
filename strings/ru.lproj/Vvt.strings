@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Доступ к местоположению необходим для просмотра близлежащих перекрёстков.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Порог точности";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Точность: %@";
 
 /* No comment provided by engineer. */
@@ -552,6 +555,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Изменить приложение внешних карт";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Изменить порог предупреждения о точности GPS";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Изменить интервал объявления информации GPS по расстоянию";
@@ -2210,6 +2216,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Это отключит ваши наушники от VoiceVista. Отсюда вы в любой момент сможете подключиться к VoiceVista в дальнейшем.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Пороги";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "К %@";
@@ -2482,6 +2491,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Сценарий прогулки";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Предупреждать пользователя, когда точность GPS падает ниже определенного порога.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "путевая точка";

@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Juurdepääs asukohale on vajalik lähedalasuvate ristmike sirvimiseks.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Täpsuslävi";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Täpsus: %@";
 
 /* No comment provided by engineer. */
@@ -549,6 +552,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Välise kaardirakenduse muutmine";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Muuda GPS-i täpsuse hoiatusläve";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "GPS-info kauguse vahemiku muutmine";
@@ -2185,6 +2191,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "See katkestab kõrvaklappide ühenduse VoiceVistaga. VoiceVistaga saab tulevikus uuesti ühenduse luua siit.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Künnised";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "Kohta %@";
@@ -2457,6 +2466,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Kõndimise stsenaarium";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Hoiata kasutajat, kui GPS-i täpsus langeb alla määratletud läve.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Teekonnapunkt";

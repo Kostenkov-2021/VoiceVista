@@ -125,6 +125,9 @@
 "Access to location is required to browse nearby intersections." = "Приступ локацији је потребан да бисте прегледали оближње раскрснице.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Праг тачности";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Tačnost: %@";
 
 /* No comment provided by engineer. */
@@ -549,6 +552,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Promena aplikacije 'Spoljne mape'";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Промена прага упозорења о тачности GPS-а";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Promena GPS intervala rastojanja informacija";
@@ -2207,6 +2213,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Ovo će isključiti vaše slušalice sa VoiceVista. Odavde se možete ponovo povezati sa VoiceVistom.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Pragovi";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "Do %@";
@@ -2479,6 +2488,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Sцenario hodanja";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Упозори корисника када тачност GPS-а падне испод дефинисаног прага.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Waypoint";

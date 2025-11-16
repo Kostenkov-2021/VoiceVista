@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Toegang tot de locatie is vereist om nabijgelegen kruispunten te bekijken.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Nauwkeurigheidsdrempel";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Nauwkeurigheid: %@";
 
 /* No comment provided by engineer. */
@@ -552,6 +555,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Wijzig de Externe kaarten app";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Wijzig de drempelwaarde voor GPS-nauwkeurigheidswaarschuwing";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Wijzig het afstandsinterval van GPS-informatie";
@@ -2210,6 +2216,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Hierdoor wordt de verbinding van uw koptelefoon met VoiceVista verbroken. je kunt in de toekomst weer verbinden met VoiceVista vanaf hier.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Drempels";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "Naar %@";
@@ -2482,6 +2491,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Wandelend scenario";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Waarschuw de gebruiker wanneer de GPS-nauwkeurigheid onder de ingestelde drempelwaarde daalt.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Routepunt";
