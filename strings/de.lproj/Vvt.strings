@@ -863,7 +863,7 @@
 "Dynamically simulate your virtual location using track points from a GPX file." = "Simulieren Sie dynamisch Ihren virtuellen Standort mit Trackpunkten aus einer GPX-Datei.";
 
 /* directions.cardinal.east */
-"East" = "Ost";
+"East" = "Osten";
 
 /* No comment provided by engineer. */
 "Edit Marker Name" = "Name der Markierung bearbeiten";
@@ -1533,13 +1533,13 @@
 "None" = "Keine";
 
 /* directions.cardinal.north */
-"North" = "Nord";
+"North" = "Norden";
 
 /* directions.cardinal.north_east */
-"North East" = "Nordost";
+"North East" = "Nordosten";
 
 /* directions.cardinal.north_west */
-"North West" = "Nordwest";
+"North West" = "Nordwesten";
 
 /* No comment provided by engineer. */
 "Not Now" = "Nicht jetzt";
@@ -2013,13 +2013,13 @@
 "Sound Effects List" = "Liste der Soundeffekte";
 
 /* directions.cardinal.south */
-"South" = "Süd";
+"South" = "Süden";
 
 /* directions.cardinal.south_east */
-"South East" = "Südost";
+"South East" = "Südosten";
 
 /* directions.cardinal.south_west */
-"South West" = "Südwest";
+"South West" = "Südwesten";
 
 /* No comment provided by engineer. */
 "Spatial sound from the direction of beacon" = "Räumlicher Ton aus der Richtung des Beacons";
@@ -2508,7 +2508,7 @@
 "We've placed an audio beacon to your right. Listen where it is, and turn your head towards it... Notice how you can do this even when your phone is in your pocket." = "Rechts von Ihnen wurde ein Audiosignal aktiviert. Hören Sie, wo es ist, und drehen Sie Ihren Kopf in seine Richtung... Das funktioniert sogar, wenn Sie Ihr Handy in einer Tasche tragen.";
 
 /* directions.cardinal.west */
-"West" = "West";
+"West" = "Westen";
 
 /* No comment provided by engineer. */
 "What angle is used to detect a turn point?" = "Welcher Winkel wird verwendet, um einen Wendepunkt zu erkennen?";
