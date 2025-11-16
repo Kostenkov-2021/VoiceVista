@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Accesul la locație este necesar pentru a naviga pe intersecțiile din apropiere.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Pragul de precizie";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Precizie: %@";
 
 /* No comment provided by engineer. */
@@ -552,6 +555,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Schimbați aplicația Hărți externe";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Modificați pragul de avertizare pentru precizia GPS";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Modificarea intervalului de distanță al informațiilor GPS";
@@ -2210,6 +2216,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Aceasta vă va deconecta căștile de la VoiceVista. Vă puteți conecta din nou la VoiceVista în viitor de aici.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Praguri";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "La %@";
@@ -2482,6 +2491,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Scenariu de mers pe jos";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Avertizează utilizatorul când precizia GPS scade sub pragul definit.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Punct de drum";

@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Для перегляду найближчих перехресть необхідно надати доступ до геопозиції.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Поріг точності";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Точність: %@";
 
 /* No comment provided by engineer. */
@@ -552,6 +555,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Змінити зовнішню навігаційну програму";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Зміна порогу попередження про точність GPS";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Змінити інтервал оголошення інформації GPS за відстанню";
@@ -2210,6 +2216,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Це від’єднає навушники від VoiceVista. тут ви зможете знову підключити їх до VoiceVista пізніше.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Порогові відстані";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "У напрямку %@";
@@ -2482,6 +2491,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Режим 'Прогулянка'";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Попереджати користувача, коли точність GPS падає нижче визначеного порогового значення.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Маршрутна точка";

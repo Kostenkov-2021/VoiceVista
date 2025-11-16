@@ -23,6 +23,9 @@
 "Access to location is required to browse nearby intersections." = "مطلوب الوصول إلى الموقع لتصفح التقاطعات القريبة.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "عتبة الدقة";
+
+/* No comment provided by engineer. */
 "Activity" = "نشاط";
 
 /* No comment provided by engineer. */
@@ -399,6 +402,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "تغيير تطبيق الخرائط الخارجية";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "تغيير عتبة تحذير دقة نظام تحديد المواقع العالمي (GPS)";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "تغيير الفاصل الزمني لمسافة معلومات GPS";
@@ -1900,6 +1906,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "سيؤدي هذا إلى فصل سماعات الرأس الخاصة بك عن VoiceVista. يمكنك الاتصال بـ VoiceVista مرة أخرى في المستقبل من هنا.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "العتبات";
+
 /* places.footnot.2 */
 "To browse nearby places, access to location is required." = "لتصفح الأماكن المجاورة ، يلزم الوصول إلى الموقع.";
 
@@ -2156,6 +2165,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "سيناريو المشي";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "تحذير المستخدم عندما تنخفض دقة نظام تحديد المواقع العالمي (GPS) إلى ما دون الحد المحدد.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "إحداثية";

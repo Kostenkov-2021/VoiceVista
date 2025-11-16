@@ -128,6 +128,9 @@
 "Access to location is required to browse nearby intersections." = "Se requiere acceso a la ubicación para explorar los cruces cercanos.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Umbral de precisión";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Precisión: %@";
 
 /* No comment provided by engineer. */
@@ -552,6 +555,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Cambiar la aplicación de mapas externa";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "Umbral de advertencia de cambio de precisión del GPS";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "Cambiar el intervalo de distancia de la información del GPS";
@@ -2210,6 +2216,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Esto desconectará los auriculares de VoiceVista. Puedes conectarte a VoiceVista de nuevo en el futuro desde aquí.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Umbrales";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "A %@";
@@ -2482,6 +2491,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Escenario a pie";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "Avisar al usuario cuando la precisión del GPS caiga por debajo del umbral definido.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "Punto de ruta";

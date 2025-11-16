@@ -125,6 +125,9 @@
 "Access to location is required to browse nearby intersections." = "Yakındaki kavşaklara göz atmak için konuma erişim gereklidir.";
 
 /* No comment provided by engineer. */
+"Accuracy Threshold" = "Doğruluk Eşiği";
+
+/* No comment provided by engineer. */
 "Accuracy: %@" = "Doğruluk: %@";
 
 /* No comment provided by engineer. */
@@ -549,6 +552,9 @@
 
 /* No comment provided by engineer. */
 "Change External Maps App" = "Harici Haritalar Uygulamasını Değiştir";
+
+/* No comment provided by engineer. */
+"Change GPS Accuracy Warning Threshold" = "GPS Doğruluk Uyarı Eşiğini Değiştir";
 
 /* No comment provided by engineer. */
 "Change GPS Information Distance Interval" = "GPS Bilgisi Mesafe Aralığını Değiştir";
@@ -2207,6 +2213,9 @@
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Bu, kulaklığınızın VoiceVista ile bağlantısını kesecektir. Gelecekte VoiceVista'ya buradan tekrar bağlanabilirsiniz.";
 
+/* No comment provided by engineer. */
+"Thresholds" = "Eşik";
+
 /* Default route name when create a route from marker or POI detail, %@ is name of a marker or POI
    Text displaying the next intersection that the user will encounter along a selected road, 'To Main St & 2nd Ave' */
 "To %@" = "İle %@";
@@ -2479,6 +2488,9 @@
 
 /* No comment provided by engineer. */
 "Walking Scenario" = "Yürüme Senaryosu";
+
+/* No comment provided by engineer. */
+"Warn the user when GPS accuracy drops below the defined threshold." = "GPS doğruluğu belirlenen eşik değerinin altına düştüğünde kullanıcıyı uyarın.";
 
 /* No comment provided by engineer. */
 "Waypoint" = "ara nokta";
