@@ -773,7 +773,7 @@
 "Destination: %@ ." = "Место назначения: %@ .";
 
 /* No comment provided by engineer. */
-"Details of Route %@" = "Подробности маршрута %@";
+"Details of Route %@" = "Детали маршрута %@";
 
 /* No comment provided by engineer. */
 "Digit By Digit" = "По цифрам";
@@ -2284,10 +2284,10 @@
 "To browse nearby places, access to location is required." = "Чтобы просматривать близлежащие места, требуется доступ к геолокации.";
 
 /* markers.footnote.2 */
-"To calculate distance, access location is required." = "Для расчёта расстояния требуется  доступ к данным геолокации.";
+"To calculate distance, access location is required." = "Для расчёта расстояния необходим доступ к геолокации.";
 
 /* No comment provided by engineer. */
-"To calculate distances, access to location is required." = "Для расчёта расстояния требуется  доступ к геолокации.";
+"To calculate distances, access to location is required." = "Для расчёта расстояния необходим доступ к геолокации.";
 
 /* No comment provided by engineer. */
 "To calculate distances, access to your location is required." = "Для расчёта расстояния необходим доступ к геолокации.";
