@@ -71,7 +71,7 @@
 "%@ roundabout" = "rotonda %@";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ rutes calculades";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ rutes calculades. Trobeu-les a l'última secció d'aquesta pàgina i obriu-ne una per continuar.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ Rutes suprimides";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "'Restablir' tornarà l'aplicació al seu estat recentment instal·lat i aquesta acció no es pot desfer.";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "1 ruta calculada. Troba-la a l'última secció d'aquesta pàgina i obre-la per continuar.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Enrere]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Ajusta la ubicació del waypoint";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Configuració avançada";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "Després d'afegir dreceres de Siri, podràs utilitzar la veu per invocar-les fins i tot quan VoiceVista no s'està executant.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Has arribat";
 
+/* No comment provided by engineer. */
+"Ask" = "Pregunta";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Fes una pregunta";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Pregunta sobre aquesta vista";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Pregunta cada vegada";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Pregunta: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "Estàs a %@";
 
@@ -437,16 +458,16 @@
 "Beacon Arrived" = "Ha arribat el far";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "ESTILS D'ÀUDIO BEACON";
+"Beacon Audio Styles" = "Estils d'àudio Beacon";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "ANGLE DE SO CENTRAL DE BALA";
+"Beacon Central Sound Angle" = "Angle de so central de Beacon";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "Distància de balises";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "ESTILS HÀPTICS BEACON";
+"Beacon Haptic Styles" = "Estils hàptics de Beacon";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "Balisa no iniciada";
@@ -455,7 +476,7 @@
 "Beacon on %@" = "Objectiu a %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "RANGS DE DETECCIÓ DE BALISES";
+"Beacon Sensing Ranges" = "Rangs de detecció de balises";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "S'ha establert l'objectiu a %1$@, %2$@, %3$@ de %4$@";
@@ -467,7 +488,7 @@
 "Beacon Settings" = "Configuració de l'objectiu";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "VOLUM DE L'EFECTE DE SO BEACON";
+"Beacon Sound Effect Volume" = "Volum de l'efecte de so de la balisa";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "Configuració de so Beacon";
@@ -541,11 +562,17 @@
 /* callouts.callouts_on */
 "Callouts On" = "Notificacions de veu activades";
 
+/* No comment provided by engineer. */
+"Camera access is required for Visual Assistance." = "Cal accés a la càmera per a l'assistència visual.";
+
 /* general.alert.cancel */
 "Cancel" = "Cancel·lar";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Cancel·la la connexió";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Captura una nova imatge i la descriu";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "Categoria del PDI";
@@ -567,6 +594,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Canvia el llindar de tancament";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Canvia el tipus de transport per defecte";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Canvia l'estil de direcció";
@@ -608,12 +638,6 @@
 "Change Road Information Distance Interval" = "Canvia l'interval de distància d'informació de la carretera";
 
 /* No comment provided by engineer. */
-"Change rotor links option in General Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Canvia l'opció d'enllaços del rotor a Configuració general per ocultar els 'PDI propers' i enllaços similars a la pestanya Marcadors.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in General Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Canvia l'opció d'enllaços del rotor a Configuració general per mostrar 'PDI propers' i enllaços similars a la pestanya Marcadors.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Canvia l'interval de punts de seguretat";
 
 /* No comment provided by engineer. */
@@ -636,6 +660,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Comprova els auriculars";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Comprovació";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Netejant-ho tot...";
@@ -703,6 +730,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Crea marcadors per a les teves destinacions preferides, punts d'interès en una ruta o qualsevol ubicació que vulguis destacar.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Crea una ruta";
+
 /* beacon.styles.current */
 "Current" = "Actual";
 
@@ -726,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Gestió de dades";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Tipus de transport per defecte";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Definiu els waypoints de ruta";
@@ -762,6 +795,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Has sortit de la rotonda. Ara vas per %@";
+
+/* Visual assistance answer heading */
+"Description" = "Descripció";
 
 /* No comment provided by engineer. */
 "Destination location" = "Ubicació de destinació";
@@ -923,6 +959,12 @@
 "Enqueue If Other Callouts Active" = "Posa a la cua si hi ha altres textos destacats actius";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Introdueix una pregunta sobre la imatge actual";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "Introdueix una pregunta sobre la imatge capturada més recentment.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Entrar i sortir d'efectes de so";
 
 /* search.placeholder */
@@ -938,10 +980,7 @@
 "Error Occurred" = "S'ha produït un error";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Configuració d'experts";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Els experts poden amagar peus de pàgina i enllaços de rotor redundants per reduir les distraccions.";
+"Experienced users can hide hint footers to reduce distractions." = "Els usuaris experimentats poden ocultar els peus de pàgina amb pistes per reduir les distraccions.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Exploreu i feu una idea d'una zona a qualsevol part del món.";
@@ -1015,8 +1054,14 @@
 /* beacon.styles.flare */
 "Flare" = "Flamarada";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Preguntes de seguiment";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Menjar i Begudes";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "Per exemple, quin text és visible?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "Per obtenir la millor experiència, us recomanem que us poseu drets per girar-vos al seu lloc i utilitzar auriculars estèreo.";
@@ -1139,10 +1184,7 @@
 "Hide Hint Footers" = "Amaga els peus de pàgina de la pista";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Amaga els enllaços del rotor a la pestanya Marcadors";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "SONS DE PISTA";
+"Hint Sounds" = "Sons de pista";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Configuració del número de casa";
@@ -1186,6 +1228,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Si heu activat els controls multimèdia a la configuració de les dreceres, podeu prémer el botó de reproducció/pausa dels auriculars per deixar anar també un marcador de molla de pa.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "La captura d'imatge s'ha cancel·lat.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "Imperial (Peus)";
 
@@ -1220,7 +1265,7 @@
 "Import Waypoints as Markers" = "Importa punts de ruta com a marcadors";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "Velocitat de la veu en rutes en vehicles";
+"In Vehicle Speaking Rate" = "Velocitat de parla en vehicle";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Velocitat de la veu en rutes en vehicles";
@@ -1274,9 +1319,6 @@
 "Intersection: %@" = "Intersecció: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "INTERSECCIONS";
-
-/* No comment provided by engineer. */
 "Intersections" = "Interseccions";
 
 /* ui.action_button.intersections */
@@ -1290,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "La Latitud i Longitud no són vàlides";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "Càmera de l'iPhone";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Sembla que la configuració de privadesa impedeix l'ús de Motion & Fitness. Fes els ajustos necessaris a l'aplicació Configuració.";
@@ -1343,6 +1388,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Latitud: %1$@, Longitud: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Aprèn amb podcasts";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "Llista les interseccions per davant";
 
 /* No comment provided by engineer. */
@@ -1372,6 +1420,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Longitud";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Torna a mirar";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Mirant cap endavant";
+
 /* beacon.styles.mallet */
 "Mallet" = "Martellet";
 
@@ -1382,7 +1436,7 @@
 "Mallet (Very Slow)" = "Martellet (molt lent)";
 
 /* No comment provided by engineer. */
-"MAP" = "MAPA";
+"Map" = "Mapa";
 
 /* No comment provided by engineer. */
 "Map Service" = "Servei de mapes";
@@ -1427,7 +1481,7 @@
 "Markers" = "Marcadors";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "MARCADORS I RUTES";
+"Markers & Routes" = "Marcadors i rutes";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "Marcadors per davant";
@@ -1472,7 +1526,7 @@
 "Navigation Instructions" = "Instruccions de navegació";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "RUTES DE NAVEGACIÓ";
+"Navigation Routes" = "Rutes de navegació";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "Rutes de navegació calculades";
@@ -1568,6 +1622,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "No s'ha trobat cap pista en aquest fitxer GPX";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "No s'ha pogut generar cap descripció visual útil.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "No s'han definit waypoints";
 
@@ -1613,14 +1670,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Objectes";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Velocitat de parla a peu";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Velocitat de la veu al caminar";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "Velocitat de la veu al caminar";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Velocitat de la veu al caminar. Com ho trobes?";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "L'assistència visual al dispositiu no està disponible.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Vaja! Alguna cosa ha anat malament.";
@@ -1632,10 +1692,16 @@
 "Open in Google Maps" = "Obrir a Google Maps";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Obre els detalls de la ruta per revisar els passos de navegació i continuar.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Obre Configuració";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Obrir VoiceVista per reprendre els serveis d'ubicació";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Obre la càmera per descriure el que tens davant";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "Etiquetes d'OpenStreetMap";
@@ -1650,7 +1716,7 @@
 "Other Distance" = "Altra Distància";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "ALTRES idiomes";
+"Other Languages" = "Altres idiomes";
 
 /* No comment provided by engineer. */
 "Other Options" = "Altres opcions";
@@ -1659,7 +1725,7 @@
 "Other Sound Effect volume" = "Un altre volum d'efectes de so";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "ALTRES SONS";
+"Other Sounds" = "Altres sons";
 
 /* No comment provided by engineer. */
 "Others" = "Altres";
@@ -1713,9 +1779,6 @@
 "Places" = "Llocs";
 
 /* No comment provided by engineer. */
-"PLACES" = "LLOCS";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "Les dades de llocs provenen d'Apple Maps, OpenStreetMap i Overture Maps.";
 
 /* No comment provided by engineer. */
@@ -1734,28 +1797,25 @@
 "Please try later." = "Si us plau, prova-ho més tard.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "OPCIONS D'ANUNCI DE PDI";
+"POI Announcing Options" = "Opcions d'anunci de PDI";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "RANGS DE DETECCIÓ DE POI";
+"POI Sensing Ranges" = "Rangs de detecció de POI";
 
 /* No comment provided by engineer. */
 "POI Settings" = "Configuració de PDI";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "OPCIONS D'EFECTES DE SO POI";
+"POI Sound Effect Options" = "Opcions d'efectes de so de PDI";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "VOLUM DE L'EFECTE DE SO POI";
+"POI Sound Effect Volume" = "Volum de l'efecte de so de PDI";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "Configuració del so del PDI";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "Opcions de supercategoria de PDI";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "OPCIONS DE SUPERCATEGORIA POI";
 
 /* No comment provided by engineer. */
 "POIs" = "POIs";
@@ -1768,6 +1828,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Preferència";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Preparant l'assistència visual...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "Premeu el botó de reproducció dels auriculars per activar VoiceVista.";
@@ -1804,6 +1867,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "Historial de consultes";
+
+/* No comment provided by engineer. */
+"Question" = "Pregunta";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Surt sense desar";
@@ -1932,7 +1998,7 @@
 "Route Updated to a Circular Journey" = "Ruta canviada a viatge circular";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "WAYPOINTS DE LA RUTA";
+"Route Waypoints" = "Punts de referència de la ruta";
 
 /* routes.title */
 "Routes" = "Rutes";
@@ -2001,6 +2067,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Estableix i desa una distància d'alerta permanent per a cada marcador individualment. Se us notificarà tan aviat com estigui més a prop de la vostra distància definida.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Defineix la destinació per a aquesta ruta.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Estableix la ubicació d'inici per a aquesta ruta.";
+
+/* No comment provided by engineer. */
 "Settings" = "Configuració";
 
 /* No comment provided by engineer. */
@@ -2060,6 +2132,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "Posposat";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Alguns detalls poden ser incerts.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Ordenat per Distància";
 
@@ -2105,6 +2180,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "Iniciar el seguiment";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Inicia la navegació";
+
 /* voice.action.start_route */
 "Start Route" = "Iniciar ruta";
 
@@ -2142,6 +2220,9 @@
 "Stop route" = "Ruta de parada";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Atura l'assistència visual";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Exploració de Carrers";
 
 /* preview.callout.paused */
@@ -2157,22 +2238,19 @@
 "Summary" = "Resum";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "DEFINICIÓ DE SUPERCATEGORIA";
+"Supercategory Definition" = "Definició de supercategoria";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Definicions de supercategories";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "SONS DE SUPERCATEGORIA";
+"Supercategory Sounds" = "Supercategoria Sons";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Ordres circumdants";
 
 /* vicinity.title */
 "Surroundings" = "Voltants";
-
-/* No comment provided by engineer. */
-"SURROUNDINGS" = "ENTORNS";
 
 /* No comment provided by engineer. */
 "Swipe left on the buttons to view additional actions." = "Feu lliscar els botons cap a l'esquerra per veure accions addicionals.";
@@ -2202,13 +2280,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "La balisa tornarà a silenciar-se automàticament quan us acosteu a la destinació i entreu al rang de silenci automàtic.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "La càmera no està disponible en aquest dispositiu.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "No s'ha pogut processar la imatge capturada.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "La distància entre senyals és massa petita.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "El fitxer conté tant waypoints com tracks.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "El primer llançament pot trigar uns segons.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "Els auriculars que has seleccionat no estan disponibles ara mateix. Siusplau, intenta-ho més tard.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "No s'ha pogut analitzar la imatge. Si us plau, torneu-la a mirar.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "La imatge no es podia interpretar amb confiança.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Sembla que l'enllaç no és vàlid.";
@@ -2263,6 +2356,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "Aquest valor és una estimació de la precisió amb què el VoiceVista sap on et trobes en cada moment. Menys de 30 peus és molt bo. Menys de 60 està bé. Una distància més gran està força malament. Les dades d'ubicació s'obtenen millor quan ets fora, i no ets a sota de cap estructura.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "Aquesta sessió d'assistència visual ha finalitzat. Torna a mirar per iniciar una nova sessió.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Això desconnectarà els auriculars del VoiceVista. Pots tornar-los a connectar al VoiceVista en un altre moment des d'aquí.";
@@ -2323,7 +2419,7 @@
 "Transportation" = "Transport";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "OPCIONS DE VIATGE";
+"Trip Options" = "Opcions de viatge";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Resolució de problemes";
@@ -2450,22 +2546,38 @@
 "View Detail" = "Veure més informació";
 
 /* No comment provided by engineer. */
-"VIRTUAL LOCATION" = "UBICACIÓ VIRTUAL";
+"Virtual Location" = "Ubicació virtual";
 
 /* No comment provided by engineer. */
 "Visit Web" = "Visitar web";
 
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Assistència visual";
+
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "VEU I SO";
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "L'assistència visual no pot identificar de manera fiable obstacles, entrades, seients, distàncies o si un camí és segur. Continueu utilitzant el vostre bastó, gos pigall o altres ajudes per a la mobilitat.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "L'Assistència Visual no ha pogut analitzar la imatge. Torna-ho a intentar.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "L'assistència visual s'ha aturat.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "L'Assistència Visual utilitza Apple Vision per detectar objectes a través de la càmera. Les imatges es processen de forma privada al dispositiu i no es pengen ni es comparteixen.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Veu i so";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Configuració de la veu";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "VOLUM DE LA VEU";
+"Voice volume" = "Volum de la veu";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Volum de la veu";
+"Voice Volume" = "Volum de la veu";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Veus i sons";
@@ -2474,7 +2586,7 @@
 "VoiceVista Blog" = "VoiceVista bloc";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "El VoiceVista pot calcular senyals com a referència en funció de les ubicacions d'inici i de destinació.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista pot calcular punts de referència en funció de les ubicacions d'inici i destinació.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "El VoiceVista pot generar una nova ruta inversa amb senyals en ordre invers segons una altra ruta. És possible que hagis d'ajustar els senyals per a la ruta inversa abans de començar la guia.";
@@ -2537,7 +2649,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "El VoiceVista no s'ha pogut connectar als teus auriculars. Siusplau, Intenta-ho més tard.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "VOLUM I ESTIL";
+"Volume & Style" = "Volum i estil";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Tornar a activar";

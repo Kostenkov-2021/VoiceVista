@@ -71,7 +71,7 @@
 "%@ roundabout" = "круговой перекрёсток %@";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "Рассчитано %@ маршрутов";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ Маршруты рассчитаны. Найдите их в последнем разделе этой страницы и откройте один из них, чтобы продолжить.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "удалено %@ Маршрутов";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "Функция «Сброс» вернёт приложение в только что установленное состояние, это действие нельзя отменить!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "Рассчитан 1 маршрут. Найдите его в последнем разделе этой страницы и откройте, чтобы продолжить.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Обратный]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Скорректировать местоположение путевой точки";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Расширенные настройки";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "После добавления быстрых команд Siri вы сможете использовать свой голос для их вызова, даже если VoiceVista не запущена.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Прибытие";
 
+/* No comment provided by engineer. */
+"Ask" = "Просить";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Задайте вопрос";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Спросите об этом виде";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Спрашивайте каждый раз";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Вопросы: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "У %@";
 
@@ -437,16 +458,16 @@
 "Beacon Arrived" = "Прибытие к маяку";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "СТИЛИ ЗВУКА МАЯКА";
+"Beacon Audio Styles" = "Beacon Audio Styles";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "Центральный звуковой угол Бикона";
+"Beacon Central Sound Angle" = "Звуковой угол Бикон-Сентрал";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "Расстояние до маяка";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "Стили тактильного отклика маяка";
+"Beacon Haptic Styles" = "Тактильные стили Beacon";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "Маяк не запущен";
@@ -455,7 +476,7 @@
 "Beacon on %@" = "Маяк у %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "Диапазон обнаружения маяка";
+"Beacon Sensing Ranges" = "Диапазоны обнаружения маяков";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "Маяк установлен у %1$@, на расстоянии %2$@, %3$@ из %4$@";
@@ -467,7 +488,7 @@
 "Beacon Settings" = "Настройки маяка";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "ГРОМКОСТЬ ЗВУКОВОГО ЭФФЕКТА МАЯКА";
+"Beacon Sound Effect Volume" = "Громкость звукового эффекта маяка";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "Настройка звука маяка";
@@ -541,11 +562,17 @@
 /* callouts.callouts_on */
 "Callouts On" = "Объявления включены";
 
+/* No comment provided by engineer. */
+"Camera access is required for Visual Assistance." = "Для оказания визуальной помощи необходим доступ к камере.";
+
 /* general.alert.cancel */
 "Cancel" = "Отменить";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Отменить подключение";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Делает снимок и описывает его.";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "Категория точки интереса";
@@ -567,6 +594,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Изменить порог приближения";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Изменить тип транспорта по умолчанию";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Изменить стиль объявления направлений";
@@ -608,12 +638,6 @@
 "Change Road Information Distance Interval" = "Изменить интервал объявления информации о дороге по расстоянию";
 
 /* No comment provided by engineer. */
-"Change rotor links option in General Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Измените параметр «Связи ротора» в общих настройках, чтобы скрыть «Ближайшие точки интереса» и аналогичные ссылки на вкладке «Маркеры».";
-
-/* No comment provided by engineer. */
-"Change rotor links option in General Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Измените параметр «Связи ротора» в общих настройках, чтобы отображать «Ближайшие точки интереса» и аналогичные ссылки на вкладке «Маркеры».";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Изменить дистанцию объявления для категории\"Безопасность\"";
 
 /* No comment provided by engineer. */
@@ -636,6 +660,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Проверить наушники";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Проверка";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Очистка кеша...";
@@ -703,6 +730,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Создавайте метки для ваших любимых пунктов назначения, путевых точек на маршруте или любых мест, которые вы хотите отметить.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Создать маршрут";
+
 /* beacon.styles.current */
 "Current" = "Текущий";
 
@@ -726,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Управление данными";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Тип транспорта по умолчанию";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Определение путевых точек маршрута";
@@ -762,6 +795,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Съехал с кругового перекрёстка. Теперь по %@";
+
+/* Visual assistance answer heading */
+"Description" = "Описание";
 
 /* No comment provided by engineer. */
 "Destination location" = "Место назначения";
@@ -923,6 +959,12 @@
 "Enqueue If Other Callouts Active" = "Ставить в очередь, если активны другие объявления";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Задайте вопрос о текущем изображении";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "Введите вопрос о самом последнем полученном изображении.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Звуковые эффекты начала и завершения";
 
 /* search.placeholder */
@@ -938,10 +980,7 @@
 "Error Occurred" = "Возникла ошибка";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Расширенные настройки";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Эксперты могут скрыть подсказки и избыточные звенья ротора, чтобы уменьшить отвлекающие факторы.";
+"Experienced users can hide hint footers to reduce distractions." = "Опытные пользователи могут скрывать подсказки внизу страницы, чтобы уменьшить количество отвлекающих факторов.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Исследуйте и получайте представление о местности в любой точке мира.";
@@ -1015,8 +1054,14 @@
 /* beacon.styles.flare */
 "Flare" = "Вспышка";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Дополнительные вопросы";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Еда и напитки";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "Например, какой текст виден?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "Для достижения наилучших впечатлений мы рекомендуем вам встать,  поворачиваться на месте и использовать стереонаушники.";
@@ -1139,10 +1184,7 @@
 "Hide Hint Footers" = "Скрыть нижние колонтитулы подсказок";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Скрыть ссылки ротора на вкладке метки";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "ЗВУКОВЫЕ ПОДСКАЗКИ";
+"Hint Sounds" = "Звуковые подсказки";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Настройки информации о номерах домов";
@@ -1186,6 +1228,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Если вы включили элементы управления мультимедиа в настройках быстрых действий, вы можете нажать кнопку воспроизведения/паузы на наушниках, чтобы добавить метку навигационной цепочки.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "Съемка изображения была отменена.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "Британская (футы)";
 
@@ -1220,7 +1265,7 @@
 "Import Waypoints as Markers" = "Импорт точек маршрута в качестве меток";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "Скорость речи в транспортном средстве";
+"In Vehicle Speaking Rate" = "Скорость речи в транспортном средстве";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Скорость речи в транспортном средстве";
@@ -1274,9 +1319,6 @@
 "Intersection: %@" = "Пересечение: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "ПЕРЕКРЁСТКИ";
-
-/* No comment provided by engineer. */
 "Intersections" = "Перекрёстки";
 
 /* ui.action_button.intersections */
@@ -1290,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "Широта и долгота введены Неверно";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "Камера iPhone";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Похоже, ваши настройки конфиденциальности блокируют использование приложения «Движение и фитнес». Пожалуйста, внесите необходимые изменения в приложении «Настройки».";
@@ -1343,6 +1388,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Широта: %1$@, Долгота: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Учитесь с помощью подкастов";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "Список перекрёстков впереди";
 
 /* No comment provided by engineer. */
@@ -1372,6 +1420,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Долгота";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Посмотрите ещё раз";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Взгляд в будущее";
+
 /* beacon.styles.mallet */
 "Mallet" = "молоток";
 
@@ -1382,7 +1436,7 @@
 "Mallet (Very Slow)" = "Молоток (очень медленно)";
 
 /* No comment provided by engineer. */
-"MAP" = "КАРТА";
+"Map" = "Карта";
 
 /* No comment provided by engineer. */
 "Map Service" = "Картографический сервис";
@@ -1427,7 +1481,7 @@
 "Markers" = "Метки";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "МЕТКИ И МАРШРУТЫ";
+"Markers & Routes" = "Маркеры и маршруты";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "Метки впереди";
@@ -1472,7 +1526,7 @@
 "Navigation Instructions" = "Инструкции по навигации";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "НАВИГАЦИОННЫЕ МАРШРУТЫ";
+"Navigation Routes" = "Маршруты навигации";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "Рассчитаны маршруты навигации";
@@ -1568,6 +1622,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "В этом файле GPX не найден маршрут";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "Создать полезное визуальное описание не удалось.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "Путевые точки не определены";
 
@@ -1613,14 +1670,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Объекты";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Скорость речи при ходьбе";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Скорость речи на пеших маршрутах";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "Скорость речи на пеших маршрутах";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Это тестовое сообщение для данной конфигурации.";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "Визуальная помощь на устройстве недоступна.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Ой! Что-то пошло не так.";
@@ -1632,10 +1692,16 @@
 "Open in Google Maps" = "Открыть в Google Картах";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Откройте подробную информацию о маршруте, чтобы просмотреть этапы навигации и продолжить.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Открыть «Настройки»";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Откройте VoiceVista, чтобы возобновить работу служб геолокации";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Открывает камеру, чтобы описать то, что находится перед вами.";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "Теги OpenStreetMap";
@@ -1650,7 +1716,7 @@
 "Other Distance" = "Другое расстояние";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "ДРУГИЕ ЯЗЫКИ";
+"Other Languages" = "Другие языки";
 
 /* No comment provided by engineer. */
 "Other Options" = "Другие варианты";
@@ -1659,7 +1725,7 @@
 "Other Sound Effect volume" = "Громкость других звуковых эффектов";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "ДРУГИЕ ЗВУКИ";
+"Other Sounds" = "Другие звуки";
 
 /* No comment provided by engineer. */
 "Others" = "Другое";
@@ -1713,9 +1779,6 @@
 "Places" = "Места";
 
 /* No comment provided by engineer. */
-"PLACES" = "МЕСТА";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "Данные о местах поступают из Apple Maps, OpenStreetMap и Overture Maps.";
 
 /* No comment provided by engineer. */
@@ -1734,28 +1797,25 @@
 "Please try later." = "Пожалуйста, попробуйте позже.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "ОПЦИИ ОБЪЯВЛЕНИЯ Точек интереса";
+"POI Announcing Options" = "POI объявляет о вариантах";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "ДИАПАЗОНЫ СРАБАТЫВАНИЯ точки интереса";
+"POI Sensing Ranges" = "Диапазоны обнаружения точек интереса (POI)";
 
 /* No comment provided by engineer. */
 "POI Settings" = "Настройки точек интереса";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "ВАРИАНТЫ ЗВУКОВЫХ ЭФФЕКТОВ точки интереса";
+"POI Sound Effect Options" = "Варианты звуковых эффектов для точек интереса";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "ГРОМКОСТЬ звуковых эффектов точки интереса";
+"POI Sound Effect Volume" = "Громкость звукового эффекта POI";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "Настройки звука точки интереса";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "Опции суперкатегории точки интереса";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "НАСТРОЙКИ СУПЕРКАТЕГОРИИ точки интереса";
 
 /* No comment provided by engineer. */
 "POIs" = "Точки интереса";
@@ -1768,6 +1828,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Предпочтение";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Подготовка визуальных материалов...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "Нажмите кнопку воспроизведения на наушниках, чтобы вывести VoiceVista из спящего режима.";
@@ -1804,6 +1867,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "История запросов";
+
+/* No comment provided by engineer. */
+"Question" = "Вопрос";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Выйти без сохранения";
@@ -1932,7 +1998,7 @@
 "Route Updated to a Circular Journey" = "Тип маршрута изменён на круговой";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "ПУТЕВЫЕ ТОЧКИ МАРШРУТА";
+"Route Waypoints" = "Путевые точки маршрута";
 
 /* routes.title */
 "Routes" = "Маршруты";
@@ -2001,6 +2067,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Установите и сохраните постоянное расстояние оповещения для каждой метки индивидуально. Вы будете уведомлены, как только она окажется ближе заданного вами расстояния.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Укажите пункт назначения для этого маршрута.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Укажите начальную точку для этого маршрута.";
+
+/* No comment provided by engineer. */
 "Settings" = "Настройки";
 
 /* No comment provided by engineer. */
@@ -2060,6 +2132,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "Режим ожидания";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Некоторые детали могут быть неясны.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Отсортировано по расстоянию";
 
@@ -2105,6 +2180,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "Начать отслеживание";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Начать навигацию";
+
 /* voice.action.start_route */
 "Start Route" = "Начать маршрут";
 
@@ -2142,6 +2220,9 @@
 "Stop route" = "Остановить маршрут";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Остановить визуальную помощь";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Просмотр улиц";
 
 /* preview.callout.paused */
@@ -2157,22 +2238,19 @@
 "Summary" = "Краткий отчёт о состоянии маяка";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "Значение СУПЕРКАТЕГОРИИ";
+"Supercategory Definition" = "Определение суперкатегории";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Значения суперкатегорий";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "ЗВУКИ СУПЕРКАТЕГОРИЙ";
+"Supercategory Sounds" = "Звуки суперкатегории";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Команды окрестностей";
 
 /* vicinity.title */
 "Surroundings" = "Окрестности";
-
-/* No comment provided by engineer. */
-"SURROUNDINGS" = "ОКРУЖЕНИЕ";
 
 /* No comment provided by engineer. */
 "Swipe left on the buttons to view additional actions." = "Проведите пальцем влево по кнопкам, чтобы просмотреть дополнительные действия.";
@@ -2202,13 +2280,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "Маяк автоматически снова отключится, когда вы приблизитесь к пункту назначения и войдёте в зону действия автоматического отключения звука.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "Камера на этом устройстве недоступна.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "Полученное изображение не удалось обработать.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "Расстояние между путевыми точками не должно быть слишком маленьким.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "Файл содержит как путевые точки, так и маршруты.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "Первый запуск может занять несколько секунд.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "Выбранные вами наушники в настоящее время недоступны для подключения. Пожалуйста, повторите попытку позже.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "Изображение не удалось проанализировать. Пожалуйста, посмотрите еще раз.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "Изображение не поддавалось однозначной интерпретации.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Ссылка недействительна.";
@@ -2263,6 +2356,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "Это значение является оценкой того, насколько точно VoiceVista знает, где вы находитесь. Менее 30 футов — это хорошо. Менее 60 футов — это нормально. Всё остальное плохо. Данные о местоположении наиболее точны, когда вы находитесь снаружи, а не внутри зданий или около них.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "Данная сессия с использованием визуальных средств завершена. Чтобы начать новую сессию, посмотрите еще раз.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Это отключит ваши наушники от VoiceVista. Отсюда вы в любой момент сможете подключиться к VoiceVista в дальнейшем.";
@@ -2323,7 +2419,7 @@
 "Transportation" = "Транспорт";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "ВАРИАНТЫ ПОЕЗДОК";
+"Trip Options" = "Варианты поездки";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Поиск неисправностей";
@@ -2450,22 +2546,38 @@
 "View Detail" = "Посмотреть детали";
 
 /* No comment provided by engineer. */
-"VIRTUAL LOCATION" = "ВИРТУАЛЬНОЕ МЕСТОПОЛОЖЕНИЕ";
+"Virtual Location" = "Виртуальное местоположение";
 
 /* No comment provided by engineer. */
 "Visit Web" = "Посетить веб-сайт";
 
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Визуальная помощь";
+
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "ГОЛОС И ЗВУК";
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "Система визуальной помощи не может надежно определять препятствия, входы, места для сидения, расстояния или безопасность пути. Продолжайте использовать трость, собаку-поводыря или другие средства передвижения.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "Функция визуальной помощи не смогла проанализировать изображение. Пожалуйста, попробуйте еще раз.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "Визуальная помощь отключена.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Функция визуального распознавания использует Apple Vision для обнаружения объектов через камеру вашего устройства. Ваши изображения обрабатываются конфиденциально на вашем устройстве и не загружаются и не передаются третьим лицам.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Голос и звук";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Настройки голоса";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "ГРОМКОСТЬ ГОЛОСА";
+"Voice volume" = "Громкость голоса";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Громкость голоса";
+"Voice Volume" = "Громкость голоса";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Голоса и звуки";
@@ -2474,7 +2586,7 @@
 "VoiceVista Blog" = "Блог VoiceVista";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista может рассчитывать путевые точки для справки на основе начального и конечного местоположения.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista может рассчитывать опорные точки маршрута на основе начального и конечного местоположений.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "Для вашего удобства VoiceVista может создать новый обратный маршрут с путевыми точками в обратном порядке. Возможно, вам придётся скорректировать путевые точки для обратного маршрута перед началом навигации.";
@@ -2537,7 +2649,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista не удалось подключиться к вашим наушникам. Пожалуйста, повторите попытку позже.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "Громкость звукового стиля";
+"Volume & Style" = "Объём и стиль";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Проснуться сейчас";

@@ -71,7 +71,7 @@
 "%@ roundabout" = "میدان %@";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ مسیر محاسبه شد";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ مسیر محاسبه شد. آنها را در آخرین بخش این صفحه پیدا کنید و برای ادامه، یکی را باز کنید.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ مسیر حذف شد";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "«بازنشانی» برنامه را به حالت اولیه نصب بازمی‌گرداند و این عمل قابل بازگشت نیست!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "۱ مسیر محاسبه شده است. آن را در آخرین بخش این صفحه پیدا کنید و برای ادامه باز کنید.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[معکوس]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "تنظیم مکان نقطه مسیر";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "تنظیمات پیشرفته";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "پس از افزودن میانبرهای سیری، قادر خواهید بود حتی زمانی که VoiceVista در حال اجرا نیست، با صدای خود آنها را فراخوانی کنید.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "رسیده";
 
+/* No comment provided by engineer. */
+"Ask" = "بپرسید";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "سوال بپرسید";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "درباره این دیدگاه بپرسید";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "هر بار بپرس";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "می‌پرسد: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "در %@";
 
@@ -437,16 +458,16 @@
 "Beacon Arrived" = "نشانه ی صوتی رسیده";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "سبک‌های صوتی نشانه ی صوتی";
+"Beacon Audio Styles" = "سبک‌های صوتی بیکن";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "زاویه صدای مرکزی بیکن";
+"Beacon Central Sound Angle" = "زاویه صدای مرکزی بیکن";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "فاصله نشانه ی صوتی";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "سبک‌های لرزشی نشانه ی صوتی";
+"Beacon Haptic Styles" = "سبک‌های لمسی بیکن";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "نشانه ی صوتی شروع نشده است";
@@ -455,7 +476,7 @@
 "Beacon on %@" = "نشانه ی صوتی روی %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "محدوده‌های سنجش نشانه ی صوتی";
+"Beacon Sensing Ranges" = "محدوده‌های حسگر بیکن";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "نشانه ی صوتی روی %1$@ تنظیم شد، %2$@ فاصله، %3$@ از %4$@";
@@ -467,7 +488,7 @@
 "Beacon Settings" = "تنظیمات نشانه ی صوتی";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "حجم صدای افکت صوتی نشانه ی صوتی";
+"Beacon Sound Effect Volume" = "میزان صدای افکت بیکن";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "تنظیمات صدای نشانه ی صوتی";
@@ -541,11 +562,17 @@
 /* callouts.callouts_on */
 "Callouts On" = "اعلان‌های صوتی روشن";
 
+/* No comment provided by engineer. */
+"Camera access is required for Visual Assistance." = "دسترسی به دوربین برای کمک بصری الزامی است.";
+
 /* general.alert.cancel */
 "Cancel" = "لغو";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "لغو اتصال";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "یک تصویر جدید ثبت می‌کند و آن را توصیف می‌کند";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "دسته نقطه مورد علاقه";
@@ -567,6 +594,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "تغییر آستانه نزدیکی";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "تغییر نوع حمل و نقل پیش‌فرض";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "تغییر سبک جهت";
@@ -608,12 +638,6 @@
 "Change Road Information Distance Interval" = "تغییر فاصله زمانی اطلاعات جاده";
 
 /* No comment provided by engineer. */
-"Change rotor links option in General Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "گزینه پیوندهای روتور را در تنظیمات عمومی تغییر دهید تا «نقاط مورد علاقه نزدیک» و پیوندهای مشابه در برگه نشانگرها پنهان شوند.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in General Settings to show 'Nearby POIs' and similar links in the Markers tab." = "گزینه پیوندهای روتور را در تنظیمات عمومی تغییر دهید تا «نقاط مورد علاقه نزدیک» و پیوندهای مشابه در برگه نشانگرها نمایش داده شوند.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "تغییر محدوده نقاط ایمنی";
 
 /* No comment provided by engineer. */
@@ -636,6 +660,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "هدفون خود را بررسی کنید";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "بررسی";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "در حال پاکسازی...";
@@ -703,6 +730,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "برای مقصدهای مورد علاقه، نقاط مسیر در یک مسیر، یا هر مکانی که می‌خواهید اعلام شود، نشانگر ایجاد کنید.";
 
+/* No comment provided by engineer. */
+"Create Route" = "ایجاد مسیر";
+
 /* beacon.styles.current */
 "Current" = "فعلی";
 
@@ -726,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "مدیریت داده‌ها";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "نوع حمل و نقل پیش‌فرض";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "تعریف نقاط مسیر";
@@ -762,6 +795,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "از میدان خارج شدید. اکنون در امتداد %@";
+
+/* Visual assistance answer heading */
+"Description" = "توضیحات";
 
 /* No comment provided by engineer. */
 "Destination location" = "مکان مقصد";
@@ -923,6 +959,12 @@
 "Enqueue If Other Callouts Active" = "در صورت فعال بودن اعلان‌های دیگر، در صف قرار بده";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "سوالی در مورد تصویر فعلی وارد کنید";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "سوالی در مورد آخرین تصویر گرفته شده وارد کنید.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "افکت‌های صوتی ورود و خروج";
 
 /* search.placeholder */
@@ -938,10 +980,7 @@
 "Error Occurred" = "خطا رخ داد";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "تنظیمات پیشرفته";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "کاربران حرفه‌ای می‌توانند پاورقی‌های راهنما و پیوندهای روتور اضافی را برای کاهش حواس‌پرتی پنهان کنند.";
+"Experienced users can hide hint footers to reduce distractions." = "کاربران باتجربه می‌توانند برای کاهش حواس‌پرتی، پاورقی‌های راهنما را پنهان کنند.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "هر منطقه‌ای در جهان را کاوش کرده و حسی از آن به دست آورید.";
@@ -1015,8 +1054,14 @@
 /* beacon.styles.flare */
 "Flare" = "درخشش";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "سوالات تکمیلی";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "غذا و نوشیدنی";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "مثلاً چه متنی قابل مشاهده است؟";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "برای بهترین تجربه، توصیه می‌کنیم بایستید و در جای خود بچرخید و از هدفون استریو استفاده کنید.";
@@ -1139,10 +1184,7 @@
 "Hide Hint Footers" = "پنهان کردن پاورقی‌های راهنما";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "پنهان کردن پیوندهای روتور در زبانه نشانگرها";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "صداهای راهنما";
+"Hint Sounds" = "صداهای راهنما";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "تنظیمات شماره پلاک";
@@ -1186,6 +1228,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "اگر کنترل‌های رسانه را در تنظیمات میانبرها فعال کرده‌اید، می‌توانید دکمه پخش/توقف را روی هدفون خود فشار دهید تا یک نشانگر خرده‌نانی نیز بیندازید.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "ضبط تصویر لغو شد.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "امپریال (فوت)";
 
@@ -1220,7 +1265,7 @@
 "Import Waypoints as Markers" = "وارد کردن نقاط مسیر به عنوان نشانگر";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "سرعت گفتار در وسیله نقلیه";
+"In Vehicle Speaking Rate" = "در میزان صحبت کردن در خودرو";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "سرعت گفتار در وسیله نقلیه";
@@ -1274,9 +1319,6 @@
 "Intersection: %@" = "تقاطع: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "تقاطع‌ها";
-
-/* No comment provided by engineer. */
 "Intersections" = "تقاطع‌ها";
 
 /* ui.action_button.intersections */
@@ -1290,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "عرض و طول جغرافیایی نامعتبر";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "دوربین آیفون";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "به نظر می‌رسد تنظیمات حریم خصوصی شما مانع از استفاده از قابلیت حرکت و تناسب اندام می‌شود. لطفاً تنظیمات لازم را در برنامه تنظیمات انجام دهید.";
@@ -1343,6 +1388,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "عرض جغرافیایی: %1$@، طول جغرافیایی: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "با پادکست‌ها یاد بگیرید";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "لیست تقاطع‌های پیش رو";
 
 /* No comment provided by engineer. */
@@ -1372,6 +1420,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "طول جغرافیایی";
 
+/* Visual assistance capture another image button */
+"Look Again" = "دوباره نگاه کن";
+
+/* Visual assistance loading message */
+"Looking ahead" = "با نگاهی به آینده";
+
 /* beacon.styles.mallet */
 "Mallet" = "پتک";
 
@@ -1382,7 +1436,7 @@
 "Mallet (Very Slow)" = "پتک (بسیار آهسته)";
 
 /* No comment provided by engineer. */
-"MAP" = "نقشه";
+"Map" = "نقشه";
 
 /* No comment provided by engineer. */
 "Map Service" = "خدمات نقشه";
@@ -1427,7 +1481,7 @@
 "Markers" = "نشانگرها";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "نشانگرها و مسیرها";
+"Markers & Routes" = "نشانگرها و مسیرها";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "نشانگرهای پیش رو";
@@ -1472,7 +1526,7 @@
 "Navigation Instructions" = "دستورالعمل‌های ناوبری";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "مسیرهای ناوبری";
+"Navigation Routes" = "مسیرهای ناوبری";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "مسیرهای ناوبری محاسبه شد";
@@ -1568,6 +1622,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "هیچ مسیری در این فایل GPX یافت نشد";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "هیچ توصیف بصری مفیدی نمی‌توانست ایجاد شود.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "هیچ نقطه مسیری تعریف نشده است";
 
@@ -1613,14 +1670,17 @@
 /* No comment provided by engineer. */
 "Objects" = "اشیاء";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "نرخ صحبت کردن در حالت ایستاده";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "سرعت گفتار در حالت پیاده";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "سرعت گفتار در حالت پیاده";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "سرعت گفتار در حالت پیاده. این صدا چطور است؟";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "کمک بصری روی دستگاه در دسترس نیست.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "اوه! مشکلی پیش آمد.";
@@ -1632,10 +1692,16 @@
 "Open in Google Maps" = "باز کردن در نقشه گوگل";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "جزئیات مسیر را باز کنید تا مراحل پیمایش را مرور کرده و ادامه دهید.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "باز کردن تنظیمات";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "برای از سرگیری خدمات موقعیت‌یابی، VoiceVista را باز کنید";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "دوربین را باز می‌کند تا آنچه را که در مقابل شماست توصیف کند";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "برچسب‌های OpenStreetMap";
@@ -1650,7 +1716,7 @@
 "Other Distance" = "فاصله دیگر";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "زبان‌های دیگر";
+"Other Languages" = "زبان‌های دیگر";
 
 /* No comment provided by engineer. */
 "Other Options" = "گزینه‌های دیگر";
@@ -1659,7 +1725,7 @@
 "Other Sound Effect volume" = "حجم صدای افکت‌های دیگر";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "صداهای دیگر";
+"Other Sounds" = "صداهای دیگر";
 
 /* No comment provided by engineer. */
 "Others" = "دیگر";
@@ -1713,9 +1779,6 @@
 "Places" = "مکان‌ها";
 
 /* No comment provided by engineer. */
-"PLACES" = "مکان‌ها";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "داده‌های مکان‌ها از نقشه‌های اپل، OpenStreetMap و Overture Maps می‌آید.";
 
 /* No comment provided by engineer. */
@@ -1734,28 +1797,25 @@
 "Please try later." = "لطفاً بعداً تلاش کنید.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "گزینه‌های اعلام نقاط مورد علاقه";
+"POI Announcing Options" = "گزینه‌های اعلام نقاط مورد علاقه";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "محدوده‌های سنجش نقاط مورد علاقه";
+"POI Sensing Ranges" = "محدوده‌های حسگر POI";
 
 /* No comment provided by engineer. */
 "POI Settings" = "تنظیمات نقاط مورد علاقه";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "گزینه‌های افکت صوتی نقاط مورد علاقه";
+"POI Sound Effect Options" = "گزینه‌های جلوه‌های صوتی POI";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "حجم صدای افکت صوتی نقاط مورد علاقه";
+"POI Sound Effect Volume" = "میزان صدای افکت نقطه تماس (POI)";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "تنظیمات صدای نقاط مورد علاقه";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "گزینه‌های فرا-دسته نقاط مورد علاقه";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "گزینه‌های فرا-دسته نقاط مورد علاقه";
 
 /* No comment provided by engineer. */
 "POIs" = "POIها";
@@ -1768,6 +1828,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "ترجیح";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "آماده سازی کمک بصری ...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "دکمه پخش را روی هدفون خود فشار دهید تا VoiceVista بیدار شود.";
@@ -1804,6 +1867,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "تاریخچه جستجو";
+
+/* No comment provided by engineer. */
+"Question" = "سوال";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "خروج بدون ذخیره";
@@ -1932,7 +1998,7 @@
 "Route Updated to a Circular Journey" = "مسیر به یک سفر دایره‌ای به‌روزرسانی شد";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "نقاط مسیر";
+"Route Waypoints" = "نقاط مسیر";
 
 /* routes.title */
 "Routes" = "مسیرها";
@@ -2001,6 +2067,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "یک فاصله هشدار دائمی برای هر نشانگر به صورت جداگانه تنظیم و ذخیره کنید. به محض اینکه از فاصله تعریف شده شما نزدیکتر شود، به شما اطلاع داده خواهد شد.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "مقصد را برای این مسیر تعیین کنید.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "نقطه شروع این مسیر را تعیین کنید.";
+
+/* No comment provided by engineer. */
 "Settings" = "تنظیمات";
 
 /* No comment provided by engineer. */
@@ -2060,6 +2132,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "در حالت تعویق";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "ممکن است برخی جزئیات نامشخص باشند.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "مرتب شده بر اساس فاصله";
 
@@ -2105,6 +2180,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "شروع نظارت";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "شروع ناوبری";
+
 /* voice.action.start_route */
 "Start Route" = "شروع مسیر";
 
@@ -2142,6 +2220,9 @@
 "Stop route" = "توقف مسیر";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "توقف کمک بصری";
+
+/* No comment provided by engineer. */
 "Street Preview" = "پیش‌نمایش خیابان";
 
 /* preview.callout.paused */
@@ -2157,22 +2238,19 @@
 "Summary" = "خلاصه";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "تعریف فرا-دسته";
+"Supercategory Definition" = "تعریف سوپردسته";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "تعاریف فرا-دسته";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "صداهای فرا-دسته";
+"Supercategory Sounds" = "صداهای فوق‌دسته‌ای";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "دستورات محیط اطراف";
 
 /* vicinity.title */
 "Surroundings" = "محیط اطراف";
-
-/* No comment provided by engineer. */
-"SURROUNDINGS" = "محیط اطراف";
 
 /* No comment provided by engineer. */
 "Swipe left on the buttons to view additional actions." = "برای مشاهده اقدامات اضافی، روی دکمه‌ها به چپ بکشید.";
@@ -2202,13 +2280,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "نشانه ی صوتی با نزدیک شدن شما به مقصد و ورود به محدوده بی‌صدا شدن خودکار، دوباره به طور خودکار بی‌صدا خواهد شد.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "دوربین در این دستگاه موجود نیست.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "تصویر گرفته شده قابل پردازش نبود.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "فاصله بین نقاط مسیر نباید خیلی کم باشد.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "فایل شامل هر دو، نقاط مسیر و مسیرها است.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "اولین پرتاب ممکن است چند ثانیه طول بکشد.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "هدفونی که انتخاب کرده‌اید در حال حاضر برای اتصال در دسترس نیست. لطفاً بعداً دوباره تلاش کنید.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "تصویر قابل تجزیه و تحلیل نیست. لطفاً دوباره نگاه کنید.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "تصویر را نمی شد با اطمینان تفسیر کرد.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "به نظر می‌رسد پیوند نامعتبر است.";
@@ -2263,6 +2356,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "این مقدار تخمینی از دقت VoiceVista در دانستن مکان شماست. کمتر از ۳۰ فوت خوب است. کمتر از ۶۰ فوت قابل قبول است. هر چیز دیگری ضعیف است. داده‌های مکانی زمانی که در فضای باز و زیر هیچ سازه‌ای نباشید، دقیق‌تر هستند.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "این جلسه کمک بینایی به پایان رسیده است. برای شروع جلسه جدید دوباره نگاه کنید.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "این کار هدفون شما را از VoiceVista قطع می‌کند. در آینده می‌توانید دوباره از اینجا به VoiceVista متصل شوید.";
@@ -2323,7 +2419,7 @@
 "Transportation" = "حمل و نقل";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "گزینه‌های سفر";
+"Trip Options" = "گزینه‌های سفر";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "عیب‌یابی";
@@ -2450,22 +2546,38 @@
 "View Detail" = "مشاهده جزئیات";
 
 /* No comment provided by engineer. */
-"VIRTUAL LOCATION" = "مکان مجازی";
+"Virtual Location" = "مکان مجازی";
 
 /* No comment provided by engineer. */
 "Visit Web" = "بازدید از وب‌سایت";
 
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "کمک بصری";
+
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "صدا و صوت";
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "کمک بصری نمی‌تواند موانع، ورودی‌ها، صندلی‌ها، فواصل یا ایمن بودن مسیر را به طور قابل اعتمادی شناسایی کند. به استفاده از عصا، سگ راهنما یا سایر وسایل کمکی حرکتی خود ادامه دهید.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "دستیار بصری نتوانست تصویر را تجزیه و تحلیل کند. لطفاً دوباره امتحان کنید.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "کمک بصری متوقف شد.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "دستیار بصری از Apple Vision برای تشخیص اشیاء از طریق دوربین شما استفاده می‌کند. تصاویر شما به صورت خصوصی در دستگاه شما پردازش می‌شوند و آپلود یا به اشتراک گذاشته نمی‌شوند.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "صدا و تصویر";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "تنظیمات صدا";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "حجم صدای گوینده";
+"Voice volume" = "حجم صدای گوینده";
 
 /* No comment provided by engineer. */
-"Voice volume" = "حجم صدای گوینده";
+"Voice Volume" = "میزان صدا";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "صداها و اصوات";
@@ -2474,7 +2586,7 @@
 "VoiceVista Blog" = "وبلاگ VoiceVista";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista می‌تواند نقاط مسیر را برای مرجع بر اساس مکان‌های شروع و مقصد محاسبه کند.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista می‌تواند نقاط مسیر مرجع را بر اساس مکان‌های مبدا و مقصد محاسبه کند.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "VoiceVista می‌تواند برای راحتی شما یک مسیر معکوس جدید با نقاط مسیر در ترتیب معکوس تولید کند. ممکن است لازم باشد قبل از شروع راهنمایی، نقاط مسیر را برای مسیر معکوس تنظیم کنید.";
@@ -2537,7 +2649,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista قادر به اتصال به هدفون شما نبود. لطفاً بعداً دوباره تلاش کنید.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "حجم صدا و سبک";
+"Volume & Style" = "حجم و سبک";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "همین الان بیدار شو";
