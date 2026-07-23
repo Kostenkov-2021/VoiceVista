@@ -2,6 +2,9 @@
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "ستؤدي 'إعادة تعيين' إلى إعادة التطبيق إلى حالته المثبتة حديثا ، ولا يمكن التراجع عن هذا الإجراء!";
 
 /* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "تم حساب مسار واحد. ستجده في القسم الأخير من هذه الصفحة، وافتحه للمتابعة.";
+
+/* No comment provided by engineer. */
 "[Reverse]" = "[يعكس]";
 
 /* voice.settings.enhanced_available */
@@ -66,6 +69,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "ضبط موقع نقطة الطريق";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "الإعدادات المتقدمة";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "بعد إضافة اختصارات Siri ، ستتمكن من استخدام صوتك لاستدعاءهم حتى عندما لا يكون VoiceVista قيد التشغيل.";
@@ -187,6 +193,18 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "وصل";
 
+/* No comment provided by engineer. */
+"Ask" = "بسأل";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "اطرح سؤالاً";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "استفسر عن هذا المنظر";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "اسأل في كل مرة";
+
 /* Directions using 1  o'clock position. */
 "at 1 o'clock" = "في 01:00";
 
@@ -302,28 +320,28 @@
 "Beacon Arrived" = "وصلت المنارة";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "أنماط الصوت منارة";
+"Beacon Audio Styles" = "أنماط صوت بيكون";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "زاوية الصوت المركزية لـ BEACON";
+"Beacon Central Sound Angle" = "زاوية الصوت المركزية للمنارة";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "مسافة المنارة";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "منارة الأساليب اللمسية";
+"Beacon Haptic Styles" = "أنماط اللمس في الإشارات";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "منارة لم تبدأ";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "نطاقات استشعار المنارة";
+"Beacon Sensing Ranges" = "نطاقات استشعار الإشارات";
 
 /* No comment provided by engineer. */
 "Beacon Settings" = "إعدادات منارة";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "حجم تأثير الصوت منارة";
+"Beacon Sound Effect Volume" = "مستوى صوت المؤثر الضوئي";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "إعداد صوت المنارة";
@@ -391,11 +409,17 @@
 /* callouts.callouts_on */
 "Callouts On" = "وسائل الشرح قيد التشغيل";
 
+/* No comment provided by engineer. */
+"Camera access is required for Visual Assistance." = "يلزم الوصول إلى الكاميرا للمساعدة البصرية.";
+
 /* general.alert.cancel */
 "Cancel" = "يلغي";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "إلغاء الاتصال";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "يلتقط صورة جديدة ويصفها";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "فئة نقطة الاهتمام";
@@ -414,6 +438,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "تغيير الإغلاق حسب الحد";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "تغيير نوع النقل الافتراضي";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "تغيير نمط الاتجاه";
@@ -455,12 +482,6 @@
 "Change Road Information Distance Interval" = "تغيير معلومات الطريق المسافة الفاصلة";
 
 /* No comment provided by engineer. */
-"Change rotor links option in General Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "قم بتغيير خيار روابط الدوار في الإعدادات العامة لإخفاء 'نقاط الاهتمام القريبة' والروابط المماثلة في علامة التبويب 'العلامات'.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in General Settings to show 'Nearby POIs' and similar links in the Markers tab." = "قم بتغيير خيار روابط الدوار في الإعدادات العامة لعرض 'نقاط الاهتمام القريبة' والروابط المماثلة في علامة التبويب 'العلامات'.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "تغيير نطاق نقاط الأمان";
 
 /* No comment provided by engineer. */
@@ -483,6 +504,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "تحقق من سماعات الرأس الخاصة بك";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "التحقق";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "تنظيف الأشياء ...";
@@ -541,6 +565,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "قم بإنشاء علامات لوجهاتك المفضلة أو نقاط الطريق على طريق أو أي مواقع تريدها.";
 
+/* No comment provided by engineer. */
+"Create Route" = "إنشاء مسار";
+
 /* beacon.styles.current */
 "Current" = "حاضِر";
 
@@ -555,6 +582,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "إدارة البيانات";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "نوع النقل الافتراضي";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "تحديد نقاط الطريق";
@@ -585,6 +615,9 @@
 
 /* No comment provided by engineer. */
 "Delete Waypoint" = "حذف نقطة الطريق";
+
+/* Visual assistance answer heading */
+"Description" = "وصف";
 
 /* No comment provided by engineer. */
 "Destination location" = "موقع وجهة";
@@ -719,6 +752,12 @@
 "Enqueue If Other Callouts Active" = "إدراج في قائمة الانتظار إذا كانت هناك مكالمات أخرى نشطة";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "أدخل سؤالاً حول الصورة الحالية";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "أدخل سؤالاً حول الصورة التي تم التقاطها مؤخراً.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "الدخول والخروج من المؤثرات الصوتية";
 
 /* search.placeholder */
@@ -734,10 +773,7 @@
 "Error Occurred" = "حدث خطأ";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "إعدادات الخبراء";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "يمكن للخبراء إخفاء تذييلات التلميح وروابط الدوار الزائدة عن الحاجة لتقليل الانحرافات.";
+"Experienced users can hide hint footers to reduce distractions." = "بإمكان المستخدمين ذوي الخبرة إخفاء تذييلات التلميحات لتقليل عوامل التشتيت.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "استكشف وتعرف على منطقة في أي مكان في العالم.";
@@ -808,8 +844,14 @@
 /* beacon.styles.flare */
 "Flare" = "توهج";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "أسئلة المتابعة";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "طعام شراب";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "على سبيل المثال، ما هو النص المرئي؟";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "للحصول على أفضل تجربة ، نوصيك بالوقوف للدوران في مكانك واستخدام سماعات رأس استريو.";
@@ -920,10 +962,7 @@
 "Hide Hint Footers" = "إخفاء تذييلات التلميح";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "إخفاء روابط الدوار في علامة التبويب 'العلامات'";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "أصوات تلميح";
+"Hint Sounds" = "أصوات التلميح";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "إعدادات رقم المنزل";
@@ -961,6 +1000,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "إذا قمت بتمكين عناصر التحكم في الوسائط في إعدادات الاختصارات ، فيمكنك الضغط على زر التشغيل / الإيقاف المؤقت في سماعات الرأس لإسقاط علامة مسار التنقل أيضا.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "تم إلغاء التقاط الصورة.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "الإمبراطوري (قدم)";
 
@@ -995,7 +1037,7 @@
 "Import Waypoints as Markers" = "استيراد نقاط الطريق كعلامات";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "في معدل التحدث بالسيارة";
+"In Vehicle Speaking Rate" = "معدل التحدث داخل المركبة";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "في معدل التحدث بالسيارة";
@@ -1031,9 +1073,6 @@
 "Intersection Options" = "خيارات التقاطع";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "التقاطعات";
-
-/* No comment provided by engineer. */
 "Intersections" = "التقاطعات";
 
 /* ui.action_button.intersections */
@@ -1047,6 +1086,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "خط الطول والعرض غير صالح";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "كاميرا الآيفون";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "يبدو أن إعدادات الخصوصية لديك تمنع استخدام ميزة الحركة واللياقة البدنية. يُرجى إجراء التعديلات اللازمة في تطبيق الإعدادات.";
@@ -1097,6 +1139,9 @@
 "Latitude or (Latitude, Longitude) or Plus codes" = "Latitude أو (Latitude, Longitude) أو رموز Plus";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "تعلّم من خلال البودكاست";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "قائمة التقاطعات المقبلة";
 
 /* No comment provided by engineer. */
@@ -1126,6 +1171,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "خط الطول";
 
+/* Visual assistance capture another image button */
+"Look Again" = "انظر مرة أخرى";
+
+/* Visual assistance loading message */
+"Looking ahead" = "نظرة مستقبلية";
+
 /* beacon.styles.mallet */
 "Mallet" = "مطرقة";
 
@@ -1136,7 +1187,7 @@
 "Mallet (Very Slow)" = "مطرقة (بطيئة جدا)";
 
 /* No comment provided by engineer. */
-"MAP" = "خريطة";
+"Map" = "رسم خريطة";
 
 /* No comment provided by engineer. */
 "Map Service" = "خدمة الخرائط";
@@ -1178,7 +1229,7 @@
 "Markers" = "علامات";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "العلامات والطرق";
+"Markers & Routes" = "العلامات والمسارات";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "علامات إلى الأمام";
@@ -1217,7 +1268,7 @@
 "Navigation Instructions" = "تعليمات الملاحة";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "طرق الملاحة";
+"Navigation Routes" = "مسارات الملاحة";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "طرق الملاحة المحسوبة";
@@ -1294,6 +1345,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "لم يتم العثور على مسار في ملف GPX هذا";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "لم يكن من الممكن إنشاء وصف مرئي مفيد.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "لم يتم تحديد نقاط الطريق";
 
@@ -1336,14 +1390,17 @@
 /* No comment provided by engineer. */
 "Objects" = "أشياء";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "معدل الكلام سيراً على الأقدام";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "سيرا على الأقدام معدل التحدث";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "معدل التحدث سيرا على الأقدام";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "سيرا على الأقدام معدل التحدث. ما رأيك؟";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "المساعدة البصرية على الجهاز غير متوفرة.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "أُووبس! هناك خطأ ما.";
@@ -1355,10 +1412,16 @@
 "Open in Google Maps" = "افتح في خرائط جوجل";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "افتح تفاصيل المسار لمراجعة خطوات الملاحة والمتابعة.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "افتح الإعدادات";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "افتح VoiceVista لاستئناف خدمات الموقع";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "يفتح الكاميرا ليصف ما هو أمامك";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "العلامات في خريطة الشارع المفتوحة";
@@ -1373,7 +1436,7 @@
 "Other Distance" = "مسافة أخرى";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "لغات اخرى";
+"Other Languages" = "لغات أخرى";
 
 /* No comment provided by engineer. */
 "Other Options" = "خيارات أخرى";
@@ -1382,7 +1445,7 @@
 "Other Sound Effect volume" = "حجم المؤثرات الصوتية الأخرى";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "أصوات أخرى";
+"Other Sounds" = "أصوات أخرى";
 
 /* No comment provided by engineer. */
 "Others" = "آحرون";
@@ -1436,9 +1499,6 @@
 "Places" = "أماكن";
 
 /* No comment provided by engineer. */
-"PLACES" = "اماكن";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "تأتي بيانات الأماكن من خرائط Apple وOpenStreetMap وOverture Maps.";
 
 /* No comment provided by engineer. */
@@ -1457,28 +1517,25 @@
 "Please try later." = "يرجى المحاولة لاحقا.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "خيارات الإعلان عن POI";
+"POI Announcing Options" = "خيارات إعلان نقاط الاهتمام";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "نطاقات استشعار POI";
+"POI Sensing Ranges" = "نطاقات استشعار نقاط الاهتمام";
 
 /* No comment provided by engineer. */
 "POI Settings" = "إعدادات نقاط الاهتمام";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "خيارات تأثير الصوت POI";
+"POI Sound Effect Options" = "خيارات المؤثرات الصوتية لنقاط الاهتمام";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "حجم تأثير الصوت POI";
+"POI Sound Effect Volume" = "مستوى صوت المؤثرات الصوتية لنقاط الاهتمام";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "إعدادات صوت POI";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "خيارات الفئة الفائقة POI";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "خيارات الفئة الفائقة POI";
 
 /* No comment provided by engineer. */
 "POIs" = "نقاط الاهتمام";
@@ -1491,6 +1548,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "التفضيل";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "إعداد المساعدة البصرية...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "اضغط على زر التشغيل في سماعات الرأس لتنشيط VoiceVista.";
@@ -1524,6 +1584,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "سجل الاستعلام";
+
+/* No comment provided by engineer. */
+"Question" = "سؤال";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "قم بإنهاء بدون حفظ";
@@ -1634,7 +1697,7 @@
 "Route Updated to a Circular Journey" = "تم تحديث المسار إلى رحلة دائرية";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "نقاط الطريق";
+"Route Waypoints" = "نقاط مسار الرحلة";
 
 /* routes.title */
 "Routes" = "طرق";
@@ -1703,6 +1766,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "قم بتعيين وحفظ مسافة التنبيه الدائمة لكل علامة على حدة. سيتم إعلامك بمجرد أن يكون أقرب من المسافة المحددة الخاصة بك.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "حدد وجهة هذا المسار.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "حدد موقع البداية لهذا المسار.";
+
+/* No comment provided by engineer. */
 "Settings" = "إعدادات";
 
 /* No comment provided by engineer. */
@@ -1762,6 +1831,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "غفوة";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "قد تكون بعض التفاصيل غير مؤكدة.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "مرتبة حسب المسافة";
 
@@ -1801,6 +1873,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "ابدأ المراقبة";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "بدء التنقل";
+
 /* voice.action.start_route */
 "Start Route" = "ابدأ الطريق";
 
@@ -1832,6 +1907,9 @@
 "Stop route" = "طريق التوقف";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "توقف عن استخدام المساعدة البصرية";
+
+/* No comment provided by engineer. */
 "Street Preview" = "معاينة الشارع";
 
 /* preview.callout.paused */
@@ -1847,22 +1925,19 @@
 "Summary" = "ملخص";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "تعريف الفئة الفائقة";
+"Supercategory Definition" = "تعريف الفئة العليا";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "تعريفات الفئة الفائقة";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "أصوات الفئة الفائقة";
+"Supercategory Sounds" = "أصوات الفئة الفائقة";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "الأوامر المحيطة";
 
 /* vicinity.title */
 "Surroundings" = "محيط";
-
-/* No comment provided by engineer. */
-"SURROUNDINGS" = "المناطق المحيطة";
 
 /* No comment provided by engineer. */
 "Swipe left on the buttons to view additional actions." = "مرر سريعًا إلى اليسار على الأزرار لعرض الإجراءات الإضافية.";
@@ -1892,13 +1967,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "سيتم كتم صوت المرشد تلقائيا مرة أخرى عندما تقترب من الوجهة وتدخل نطاق كتم الصوت التلقائي.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "الكاميرا غير متوفرة في هذا الجهاز.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "تعذر معالجة الصورة الملتقطة.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "يجب ألا تكون المسافة بين نقاط الطريق صغيرة جدًا.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "يحتوي الملف على نقاط الطريق والمسارات.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "قد يستغرق الإطلاق الأول بضع ثوانٍ.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "سماعات الرأس التي حددتها غير متاحة حاليًا للاتصال. الرجاء معاودة المحاولة في وقت لاحق.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "تعذر تحليل الصورة. يرجى إعادة النظر.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "لم يكن من الممكن تفسير الصورة بثقة.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "يبدو أن الرابط غير صالح.";
@@ -1950,6 +2040,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "هذه القيمة هي تقدير لمدى دقة معرفة VoiceVista لمكان تواجدك. أقل من 30 قدم جيد. أقل من 60 قدمًا على ما يرام. وأي شيء آخر فهو فقير. تكون بيانات الموقع أكثر دقة عندما تكون بالخارج وليس تحت أي هياكل.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "انتهت جلسة المساعدة البصرية هذه. انظر مرة أخرى لبدء جلسة جديدة.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "سيؤدي هذا إلى فصل سماعات الرأس الخاصة بك عن VoiceVista. يمكنك الاتصال بـ VoiceVista مرة أخرى في المستقبل من هنا.";
@@ -2003,7 +2096,7 @@
 "Transportation" = "مواصلات";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "خيارات الرحلة";
+"Trip Options" = "خيارات الرحلة";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "استكشاف الأخطاء وإصلاحها";
@@ -2124,22 +2217,38 @@
 "View Detail" = "عرض التفاصيل";
 
 /* No comment provided by engineer. */
-"VIRTUAL LOCATION" = "موقع افتراضي";
+"Virtual Location" = "موقع افتراضي";
 
 /* No comment provided by engineer. */
 "Visit Web" = "زيارة الويب";
 
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "المساعدة البصرية";
+
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "الصوت والصوت";
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "لا تستطيع المساعدة البصرية تحديد العوائق أو المداخل أو أماكن الجلوس أو المسافات أو ما إذا كان المسار آمنًا بشكل موثوق. استمر في استخدام عصاك أو كلبك المرشد أو أي وسيلة مساعدة أخرى على الحركة.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "لم يتمكن نظام المساعدة البصرية من تحليل الصورة. يرجى المحاولة مرة أخرى.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "تم إيقاف المساعدة البصرية.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "تستخدم ميزة المساعدة البصرية تقنية Apple Vision لاكتشاف الأجسام من خلال كاميرا جهازك. تتم معالجة صورك بشكل خاص على جهازك ولا يتم تحميلها أو مشاركتها.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "الصوت والصوت";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "إعدادات الصوت";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "حجم الصوت";
+"Voice volume" = "حجم الصوت";
 
 /* No comment provided by engineer. */
-"Voice volume" = "حجم الصوت";
+"Voice Volume" = "مستوى الصوت";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "الأصوات والأصوات";
@@ -2148,7 +2257,7 @@
 "VoiceVista Blog" = "مدونة فويس فيستا";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "يمكن لـ VoiceVista حساب نقاط الطريق كمرجع بناءً على مواقع البداية والوجهة.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "يمكن لبرنامج VoiceVista حساب نقاط الطريق المرجعية بناءً على مواقع البداية والوجهة.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "يمكن لـ VoiceVista إنشاء مسار عكسي جديد باستخدام نقاط الطريق بترتيب عكسي من أجل راحتك. قد تحتاج إلى ضبط الإحداثيات للمسار المعكوس قبل بدء التوجيه.";
@@ -2208,7 +2317,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "لم يتمكن VoiceVista من الاتصال بسماعات الرأس الخاصة بك. الرجاء معاودة المحاولة في وقت لاحق.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "الحجم والأناقة";
+"Volume & Style" = "الحجم والأسلوب";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "أستيقظ الأن";
