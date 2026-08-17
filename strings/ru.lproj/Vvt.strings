@@ -1274,16 +1274,16 @@
 "In vehicle speaking rate. How does this sound?" = "Это тестовое сообщение для данной конфигурации.";
 
 /* No comment provided by engineer. */
-"In walking mode, ranges define call-out distances for detected POIs in different supercategories. These ranges are multiplied by six in driving mode." = "В режиме ходьбы диапазоны определяют расстояния вызова обнаруженных POI в различных суперкатегориях. В режиме движения эти диапазоны умножаются на шесть.";
+"In walking mode, ranges define call-out distances for detected POIs in different supercategories. These ranges are multiplied by six in driving mode." = "В режиме ходьбы диапазоны определяют расстояния объявления обнаруженных точек интереса в различных суперкатегориях. В режиме движения эти диапазоны умножаются на шесть.";
 
 /* No comment provided by engineer. */
-"In walking mode, the interval defines the distance threshold for house number call-outs. In driving mode, this threshold is multiplied by six." = "В режиме ходьбы интервал определяет пороговое расстояние для вызова номера дома. В режиме вождения этот порог умножается на шесть.";
+"In walking mode, the interval defines the distance threshold for house number call-outs. In driving mode, this threshold is multiplied by six." = "В режиме ходьбы интервал определяет пороговое расстояние для объявления номера дома. В режиме вождения оно умножается на шесть.";
 
 /* No comment provided by engineer. */
-"In walking mode, the interval determines how often GPS information is called out. In driving mode, this distance is multiplied by six." = "В режиме ходьбы интервал определяет, как часто запрашивается информация GPS. В режиме вождения это расстояние умножается на шесть.";
+"In walking mode, the interval determines how often GPS information is called out. In driving mode, this distance is multiplied by six." = "В режиме ходьбы интервал определяет, как часто объявляется информация GPS. В режиме вождения это расстояние умножается на шесть.";
 
 /* No comment provided by engineer. */
-"In walking mode, the interval determines how often road name is called out. In driving mode, this distance is multiplied by six. Be cautious when selecting a small interval, as it can significantly increase battery consumption on your iPhone." = "В пешеходном режиме интервал определяет, как часто выкрикивается название дороги. В режиме вождения это расстояние умножается на шесть. Будьте осторожны при выборе небольшого интервала, так как он может значительно увеличить расход заряда батареи на вашем iPhone.";
+"In walking mode, the interval determines how often road name is called out. In driving mode, this distance is multiplied by six. Be cautious when selecting a small interval, as it can significantly increase battery consumption on your iPhone." = "В пешеходном режиме интервал определяет, как часто объявляется название дороги. В режиме вождения это расстояние умножается на шесть. Будьте осторожны при выборе небольшого интервала, так как он может значительно увеличить расход заряда батареи на вашем iPhone.";
 
 /* No comment provided by engineer. */
 "Include Unnamed Roads" = "Включить неназванные дороги";
@@ -2163,7 +2163,7 @@
 "Speed: %@ miles per hour" = "Скорость: %@ миль в час";
 
 /* No comment provided by engineer. */
-"Sponsor through Github" = "Поддержать через GitHub";
+"Sponsor through Github" = "Поддержать на GitHub";
 
 /* No comment provided by engineer. */
 "Start Beacon" = "Запустить маяк";
@@ -2565,7 +2565,7 @@
 "Visual assistance stopped." = "Визуальная помощь отключена.";
 
 /* No comment provided by engineer. */
-"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Функция визуального распознавания использует Apple Vision для обнаружения объектов через камеру вашего устройства. Ваши изображения обрабатываются конфиденциально на вашем устройстве и не загружаются и не передаются третьим лицам.";
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Функция визуального распознавания использует Apple Vision для обнаружения объектов с помощью камеры вашего устройства. Ваши изображения обрабатываются конфиденциально на вашем устройстве и не загружаются и не передаются третьим лицам.";
 
 /* No comment provided by engineer. */
 "Voice & Sound" = "Голос и звук";
@@ -2643,7 +2643,7 @@
 "VoiceVista supercategories are derived from OpenStreetMap tags." = "Суперкатегории VoiceVista создаются на основе тегов OpenStreetMap.";
 
 /* No comment provided by engineer. */
-"VoiceVista synchronizes data via iCloud between devices. If you encounter issues with iCloud, you can reset the app to its freshly installed state." = "VoiceVista синхронизирует данные между устройствами через iCloud. Если возникнут проблемы с iCloud, вы можете вернуть приложение в исходное состояние.";
+"VoiceVista synchronizes data via iCloud between devices. If you encounter issues with iCloud, you can reset the app to its freshly installed state." = "VoiceVista синхронизирует данные между устройствами с помощью iCloud. Если возникнут проблемы с iCloud, вы можете вернуть приложение в исходное состояние.";
 
 /* No comment provided by engineer. */
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista не удалось подключиться к вашим наушникам. Пожалуйста, повторите попытку позже.";
@@ -2655,7 +2655,7 @@
 "Wake Up Now" = "Возобновить работу";
 
 /* No comment provided by engineer. */
-"Wake Up When I Leave" = "Возобновить работу, когда я уйду";
+"Wake Up When I Leave" = "Возобновить работу при смене местоположения";
 
 /* Motion status: walking
    Type 1 for navigation transport */
