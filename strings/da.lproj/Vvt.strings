@@ -71,7 +71,7 @@
 "%@ roundabout" = "Rundkørslen %@";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ ruter beregnet";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ ruter beregnet. Find dem i den sidste sektion af denne side, og åbn en for at fortsætte.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ Ruter slettet";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "'Nulstil' vender appen tilbage til sin nyinstallerede tilstand, og denne handling kan ikke fortrydes!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "1 rute beregnet. Find den i den sidste sektion af denne side, og åbn den for at fortsætte.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Baglæns]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Juster placeringen af rutepunktet";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Avancerede indstillinger";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "Når du har tilføjet Genveje i Siri, kan du bruge din stemme til at starte dem, selv når VoiceVista ikke kører.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Ankom";
 
+/* No comment provided by engineer. */
+"Ask" = "Spørge";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Stil et spørgsmål";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Spørg om denne visning";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Spørg hver gang";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Spørger: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "Ved %@";
 
@@ -437,16 +458,16 @@
 "Beacon Arrived" = "Lydfyr ankommet";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "BEACON-LYDSTILARTER";
+"Beacon Audio Styles" = "Beacon Audio Styles";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "BEACON CENTRAL LYDVINKEL";
+"Beacon Central Sound Angle" = "Beacon Central Sound Angle";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "Afstand til lydfyr";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "BEACON HAPTISKE STILARTER";
+"Beacon Haptic Styles" = "Beacon Haptic Styles";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "Lydfyr ikke startet";
@@ -455,7 +476,7 @@
 "Beacon on %@" = "Lydfyr på %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "BEACON SENSING RÆKKEVIDDER";
+"Beacon Sensing Ranges" = "Beacon-registreringsområder";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "Lydfyr er indstillet på %1$@, %2$@ væk, %3$@ af %4$@";
@@ -467,7 +488,7 @@
 "Beacon Settings" = "Indstillinger for lydfyr";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "BEACON LYDEFFEKT LYDSTYRKE";
+"Beacon Sound Effect Volume" = "Lydstyrke for lydeffekt fra Beacon";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "indstil for lydfyr";
@@ -542,13 +563,16 @@
 "Callouts On" = "Annoncering til";
 
 /* No comment provided by engineer. */
-"Callouts Only When in Surroundings Tab" = "Automatisk Annoncering kun når fanen Omgivelser er valgt";
+"Camera access is required for Visual Assistance." = "Kameraadgang er påkrævet for visuel assistance.";
 
 /* general.alert.cancel */
 "Cancel" = "Annuller";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Annuller tilslutning";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Tager et nyt billede og beskriver det";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "Kategori af interessepunktet";
@@ -570,6 +594,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Skift Luk efter-tærskel";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Skift standard transporttype";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Skift retningsangivelse";
@@ -611,12 +638,6 @@
 "Change Road Information Distance Interval" = "Skift annoncering af veje";
 
 /* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Skift mulighed for rotorlinks i Genvejsindstillinger for at skjule 'POI'er i nærheden' og lignende links på fanen Markører.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Skift mulighed for rotorlinks i Genvejsindstillinger for at vise 'POI'er i nærheden' og lignende links på fanen Markører.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Skift afstand til sikkerhedspunkter";
 
 /* No comment provided by engineer. */
@@ -639,6 +660,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Kontrollér dine hovedtelefoner";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Kontrol";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Rydder op i ting...";
@@ -706,6 +730,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Opret markører for dine yndlingsdestinationer, waypoints på en rute eller andre steder, du vil have kaldt.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Opret rute";
+
 /* beacon.styles.current */
 "Current" = "Igangværende";
 
@@ -729,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Datastyring";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Standard transporttype";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Definer rutewaypoints";
@@ -765,6 +795,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Forlod rundkørsel. Nu langs %@";
+
+/* Visual assistance answer heading */
+"Description" = "Beskrivelse";
 
 /* No comment provided by engineer. */
 "Destination location" = "Destinationsplacering";
@@ -926,6 +959,12 @@
 "Enqueue If Other Callouts Active" = "Sæt i kø, hvis andre billedforklaringer er aktive";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Indtast et spørgsmål om det aktuelle billede";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "Indtast et spørgsmål om det senest optagne billede.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Gå ind og ud af lydeffekter";
 
 /* search.placeholder */
@@ -941,10 +980,7 @@
 "Error Occurred" = "Der opstod en fejl";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Ekspert-indstillinger";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Eksperter kan skjule tipfødder og overflødige rotorlinks for at reducere distraktioner.";
+"Experienced users can hide hint footers to reduce distractions." = "Erfarne brugere kan skjule hint-fodnote for at reducere distraktioner.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Udforsk og få en fornemmelse af et område overalt i verden.";
@@ -1018,8 +1054,14 @@
 /* beacon.styles.flare */
 "Flare" = "Lysglimt";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Opfølgende spørgsmål";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Mad og drikke";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "For eksempel, hvilken tekst er synlig?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "For at få den bedste oplevelse anbefaler vi, at du rejser dig op for at dreje på plads og bruger stereohovedtelefoner.";
@@ -1142,10 +1184,7 @@
 "Hide Hint Footers" = "Skjul tip-sidefødder";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Skjul rotorlinks i fanebladet Markører";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "TIP LYDE";
+"Hint Sounds" = "Hintlyde";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Indstillinger for husnummer";
@@ -1189,6 +1228,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Hvis du har aktiveret mediekontroller i genvejsindstillingerne, kan du trykke på afspil/pause-knappen på dine hovedtelefoner for at gemme en brødkrummemarkør.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "Billedoptagelsen blev annulleret.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "Britisk (fod)";
 
@@ -1223,7 +1265,7 @@
 "Import Waypoints as Markers" = "Importer waypoints som markører";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "vælg hastighed for annoncering i bil";
+"In Vehicle Speaking Rate" = "Talehastighed i køretøjet";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Talehastighed for annoncering i bill";
@@ -1277,9 +1319,6 @@
 "Intersection: %@" = "Vejkryds: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "VEJKRYDS";
-
-/* No comment provided by engineer. */
 "Intersections" = "Kryds";
 
 /* ui.action_button.intersections */
@@ -1293,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "Ugyldig bredde- og længdegrad";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "iPhone-kamera";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Det ser ud til, at dine privatlivsindstillinger forhindrer brugen af Motion & Fitness. Foretag de nødvendige justeringer i appen Indstillinger.";
@@ -1346,6 +1388,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Latitud: %1$@, Længdegrad: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Lær med podcasts";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "Liste vejkryds forude";
 
 /* No comment provided by engineer. */
@@ -1375,6 +1420,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Længde";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Se igen";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Ser fremad";
+
 /* beacon.styles.mallet */
 "Mallet" = "Hammer";
 
@@ -1385,7 +1436,7 @@
 "Mallet (Very Slow)" = "Hammer (meget langsom)";
 
 /* No comment provided by engineer. */
-"MAP" = "KORT";
+"Map" = "Kort";
 
 /* No comment provided by engineer. */
 "Map Service" = "Korttjeneste";
@@ -1430,7 +1481,7 @@
 "Markers" = "Mærker";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "MARKERINGER & RUTER";
+"Markers & Routes" = "Markører og ruter";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "Mærker forude";
@@ -1475,7 +1526,7 @@
 "Navigation Instructions" = "Instruktioner til navigation";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "NAVIGATIONSRUTER";
+"Navigation Routes" = "Navigationsruter";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "ruter beregnet";
@@ -1571,6 +1622,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "Der blev ikke fundet noget spor i denne GPX-fil";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "Der kunne ikke genereres nogen brugbar visuel beskrivelse.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "Ingen waypoints defineret";
 
@@ -1616,14 +1670,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Objekter";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Talehastighed til fods";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Talehastighed til fods";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "TIL FODS TALERATE";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Talehastighed til fods. Hvordan lyder det her?";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "Visuel assistance på enheden er ikke tilgængelig.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Ups! Noget gik galt.";
@@ -1635,10 +1692,16 @@
 "Open in Google Maps" = "Åbn i Google Maps";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Åbn rutedetaljer for at gennemgå navigationstrinene og fortsætte.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Åbn indstillinger";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Åbn VoiceVista for at genoptage Lokalitetstjenester";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Åbner kameraet for at beskrive, hvad der er foran dig";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "OpenStreetMap-tags";
@@ -1653,7 +1716,7 @@
 "Other Distance" = "Anden afstand";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "ANDRE SPROG";
+"Other Languages" = "Andre sprog";
 
 /* No comment provided by engineer. */
 "Other Options" = "Andre muligheder";
@@ -1662,7 +1725,7 @@
 "Other Sound Effect volume" = "Anden lydeffekt lydstyrke";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "ANDRE LYDE";
+"Other Sounds" = "Andre lyde";
 
 /* No comment provided by engineer. */
 "Others" = "Andre";
@@ -1716,9 +1779,6 @@
 "Places" = "Steder";
 
 /* No comment provided by engineer. */
-"PLACES" = "STEDER";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "Stedsdata kommer fra Apple Maps, OpenStreetMap og Overture Maps.";
 
 /* No comment provided by engineer. */
@@ -1737,28 +1797,25 @@
 "Please try later." = "Prøv venligst senere.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "POI ANNONCERING AF MULIGHEDER";
+"POI Announcing Options" = "Indstillinger for POI-annoncering";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "POI-SENSOR-RÆKKEVIDDER";
+"POI Sensing Ranges" = "POI-registreringsområder";
 
 /* No comment provided by engineer. */
 "POI Settings" = "POI-indstillinger";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "MULIGHEDER FOR POI-LYDEFFEKTER";
+"POI Sound Effect Options" = "Indstillinger for POI-lydeffekter";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "POI-LYDEFFEKT LYDSTYRKE";
+"POI Sound Effect Volume" = "POI-lydeffektlydstyrke";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "Indstillinger for POI-lyd";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "POI Supercategory Muligheder";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "POI SUPERCATEGORY MULIGHEDER";
 
 /* No comment provided by engineer. */
 "POIs" = "POI'er";
@@ -1771,6 +1828,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Præference";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Forbereder visuel assistance...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "Tryk på afspilningsknappen på dine hovedtelefoner for at vække VoiceVista.";
@@ -1807,6 +1867,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "Forespørgselshistorik";
+
+/* No comment provided by engineer. */
+"Question" = "Spørgsmål";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Afslut uden at gemme";
@@ -1935,7 +1998,7 @@
 "Route Updated to a Circular Journey" = "Rute opdateret til en cirkulær rejse";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "rutepunkter";
+"Route Waypoints" = "Rutevejpunkter";
 
 /* routes.title */
 "Routes" = "Ruter";
@@ -2004,6 +2067,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Indstil og gem en permanent advarselsafstand for hver markør individuelt. Du får besked, så snart det er tættere på end din definerede afstand.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Angiv destinationen for denne rute.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Angiv startstedet for denne rute.";
+
+/* No comment provided by engineer. */
 "Settings" = "Indstillinger";
 
 /* No comment provided by engineer. */
@@ -2063,6 +2132,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "Slumrer";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Nogle detaljer kan være usikre.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Sorteret efter afstand";
 
@@ -2108,6 +2180,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "Start overvågning";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Start navigation";
+
 /* voice.action.start_route */
 "Start Route" = "Start rute";
 
@@ -2145,6 +2220,9 @@
 "Stop route" = "Stop rute";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Stop visuel assistance";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Street Preview";
 
 /* preview.callout.paused */
@@ -2154,28 +2232,22 @@
 "Style Settings" = "Indstillinger for stil";
 
 /* No comment provided by engineer. */
-"Subscribe Now" = "Tilmeld dig nu";
-
-/* No comment provided by engineer. */
 "Subscription Status" = "Status for abonnement";
 
 /* No comment provided by engineer. */
 "Summary" = "Resumé";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "DEFINITION AF SUPERKATEGORI";
+"Supercategory Definition" = "Definition af superkategori";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Superkategori definitioner";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "SUPERKATEGORI LYDE";
+"Supercategory Sounds" = "Superkategori Lyde";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Omgivende kommandoer";
-
-/* No comment provided by engineer. */
-"Surrounding Settings" = "Indstil  automatisk annonceringer";
 
 /* vicinity.title */
 "Surroundings" = "Omgivelser";
@@ -2208,13 +2280,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "Beaconen vil automatisk slå lyden fra igen, når du nærmer dig destinationen og går ind i Auto-Mute-området.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "Kameraet er ikke tilgængeligt på denne enhed.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "Det optagne billede kunne ikke behandles.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "Afstanden mellem waypoints bør ikke være for lille.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "Filen indeholder både waypoints og spor.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "Den første opstart kan tage et par sekunder.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "De valgte hovedtelefoner er i øjeblikket ikke tilgængelige for tilslutning. Prøv igen senere.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "Billedet kunne ikke analyseres. Se venligst igen.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "Billedet kunne ikke fortolkes med sikkerhed.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Linket ser ud til at være ugyldigt.";
@@ -2269,6 +2356,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "Denne værdi er et skøn over, hvor præcist VoiceVista ved, hvor du befinder dig. Mindre end 30 fod er godt. Mindre end 60 fod er ok. Alt andet er dårligt. Placeringsdata er mest nøjagtige, når de er udenfor og ikke under nogen strukturer.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "Denne visuelle assistancesession er afsluttet. Se igen for at starte en ny session.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Dette afbryder forbindelsen til hovedtelefonerne fra VoiceVista. Du kan oprette forbindelse til VoiceVista igen i fremtiden herfra.";
@@ -2329,7 +2419,7 @@
 "Transportation" = "Transport";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "TURE MULIGHEDER";
+"Trip Options" = "Rejsemuligheder";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Fejlfinding";
@@ -2456,19 +2546,38 @@
 "View Detail" = "Se detaljer";
 
 /* No comment provided by engineer. */
-"Visit Web" = "Besøg Web";
+"Virtual Location" = "Virtuel placering";
 
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "STEMME & LYD";
+"Visit Web" = "Besøg Web";
+
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Visuel assistance";
+
+/* No comment provided by engineer. */
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "Visuel assistance kan ikke pålideligt identificere forhindringer, indgange, siddepladser, afstande eller om en sti er sikker. Fortsæt med at bruge din stok, førerhund eller andet mobilitetshjælpemiddel.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "Visuel assistance kunne ikke analysere billedet. Prøv igen.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "Visuel assistance er stoppet.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Visuel assistance bruger Apple Vision til at registrere objekter via dit kamera. Dine billeder behandles privat på din enhed og uploades eller deles ikke.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Stemme og lyd";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Stemmeindstillinger";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "STEMME LYDSTYRKE";
+"Voice volume" = "Stemmelydstyrke";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Stemmelydstyrke";
+"Voice Volume" = "Stemmelydstyrke";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Stemmer og lyde";
@@ -2477,7 +2586,7 @@
 "VoiceVista Blog" = "VoiceVista Blog";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista kan beregne waypoints til reference baseret på start- og destinationsplaceringerne.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista kan beregne referencewaypoints baseret på start- og destinationsplaceringer.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "VoiceVista kan generere en ny omvendt rute med waypoints i omvendt rækkefølge for din bekvemmelighed. Du skal muligvis justere waypoints for den omvendte rute, før du starter vejledningen.";
@@ -2525,7 +2634,7 @@
 "VoiceVista is searching for your AirPods. Ensure they are connected to your phone." = "VoiceVista søger efter AirPods. Sørg for, at de er tilsluttet til din telefon.";
 
 /* No comment provided by engineer. */
-"VoiceVista only announces automatic callouts when in the surroundings tab. To modify this setting, navigate to the Settings tab." = "VoiceVista annoncerer kun automatiske billedforklaringer, når du er på fanen Omgivelser. Hvis du vil ændre denne indstilling, skal du gå til fanen Indstillinger.";
+"VoiceVista only announces automatic callouts when in the surroundings tab." = "VoiceVista annoncerer kun automatiske opkald, når du er i fanen Omgivelser.";
 
 /* No comment provided by engineer. */
 "VoiceVista stores map data to reduce data and battery consumption. Clearing stored map data will require VoiceVista to re-download the data." = "VoiceVista gemmer kortdata for at reducere data og batteriforbrug. Sletning af gemte kortdata kræver, at VoiceVista downloader dataene igen.";
@@ -2540,7 +2649,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista kunne ikke oprette forbindelse til dine hovedtelefoner. Prøv igen senere.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "VOLUMEN & STIL";
+"Volume & Style" = "Volumen og stil";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Aktivér nu";
@@ -2616,9 +2725,6 @@
 "With the enqueue option off, intersection callouts will interrupt any current callouts." = "Når kø-indstillingen er slået fra, vil skæringsudlysninger afbryde eventuelle aktuelle opslag.";
 
 /* No comment provided by engineer. */
-"With the tab option enabled, VoiceVista announces callouts only in the Surroundings tab. When disabled, it announces callouts at all times." = "Når indstillingen er aktiveret, vil automatisk annoncering kun være aktivt når fanen Omgivelser er valgt. Slår man indstillingen fra vil automatisk annoncering ske over alt i appen.";
-
-/* No comment provided by engineer. */
 "With verbose mode off, the same road name will not be repeated after an intersection." = "Med annoncering ved ændring af vejnavn slået fra, vil det samme vejnavn ikke blive gentaget efter et vejkryds.";
 
 /* No comment provided by engineer. */
@@ -2668,9 +2774,6 @@
 
 /* No comment provided by engineer. */
 "You can use the actions rotor on the buttons of the Surroundings tab to perform additional actions." = "Vælg handlinger i rotoren for at få adgang til flere funktioner på knapperne på omgivelser fanen";
-
-/* No comment provided by engineer. */
-"You can use the actions rotor on the buttons to perform additional actions." = "Vælg  handlinger i voiceover rotoren for at få adgang til flere indstillinger";
 
 /* No comment provided by engineer. */
 "You can't delete a marker while it is the current beacon." = "Du kan ikke slette et mærke, mens den er aktiveret som  lydfyr.";

@@ -71,7 +71,7 @@
 "%@ roundabout" = "%@ kružni tok";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ izračunatih ruta";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "Izračunato je %@ ruta. Pronađite ih u posljednjem odjeljku ove stranice i otvorite jednu za nastavak.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ Rute izbrisane";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "'Reset' će vratiti aplikaciju u svježe instalirano stanje, a ta se radnja ne može poništiti!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "Izračunata je 1 ruta. Pronađite je u posljednjem odjeljku ove stranice i otvorite je za nastavak.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Natrag]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Podesite lokaciju putne točke";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Napredne postavke";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "Nakon dodavanja Siri prečaca, moći ćete koristiti svoj glas za njihovo pozivanje čak i kada VoiceVista nije pokrenuta.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Stigao";
 
+/* No comment provided by engineer. */
+"Ask" = "Pitajte";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Postavite pitanje";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Pitajte o ovom prikazu";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Pitaj svaki put";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Pita: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "U %@";
 
@@ -437,16 +458,16 @@
 "Beacon Arrived" = "Stigli ste na cilj";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "BEACON AUDIO STILOVI";
+"Beacon Audio Styles" = "Stilovi zvuka Beacon";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "SREDIŠNJI ZVUKOVNI KUT MAGNOZITA";
+"Beacon Central Sound Angle" = "Središnji kut zvuka Beacon-a";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "Udaljenost svjetionika";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "SVJETIONIK TAKTILNI STILOVI";
+"Beacon Haptic Styles" = "Haptički stilovi svjetionika";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "Svjetionik nije pokrenut";
@@ -455,7 +476,7 @@
 "Beacon on %@" = "Cilj na %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "RASPONI SENZORA SVJETIONIKA";
+"Beacon Sensing Ranges" = "Domet detekcije signala";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "Cilj postavljen na %1$@, %2$@ daleko, %3$@ od %4$@";
@@ -467,7 +488,7 @@
 "Beacon Settings" = "Postavke cilja";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "GLASNOĆA ZVUČNOG EFEKTA SVJETIONIKA";
+"Beacon Sound Effect Volume" = "Glasnoća zvučnog efekta svjetionika";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "Postavka zvuka cilja";
@@ -542,13 +563,16 @@
 "Callouts On" = "Najave uključene";
 
 /* No comment provided by engineer. */
-"Callouts Only When in Surroundings Tab" = "Dodatni opisi samo kada ste na kartici Okruženje";
+"Camera access is required for Visual Assistance." = "Za vizualnu pomoć potreban je pristup kameri.";
 
 /* general.alert.cancel */
 "Cancel" = "Otkazati";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Odustani od povezivanja";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Snima novu sliku i opisuje je";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "Kategorija točke interesa";
@@ -570,6 +594,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Promijeni Zatvori po pragu";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Promjena zadane vrste prijevoza";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Promjena stila smjera";
@@ -611,12 +638,6 @@
 "Change Road Information Distance Interval" = "Promjena intervala udaljenosti informacija o cesti";
 
 /* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Promijenite opciju veza rotora u postavkama prečaca da sakrijete 'Obližnje točke interesa' i slične veze na kartici Oznake.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Promijenite opciju veza rotora u postavkama prečaca da biste prikazali 'Točke interesa u blizini' i slične veze na kartici Oznake.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Promijenite raspon sigurnosnih točaka";
 
 /* No comment provided by engineer. */
@@ -639,6 +660,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Provjerite svoje slušalice";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Provjera";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Čišćenje stvari...";
@@ -706,6 +730,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Stvorite markere za svoja omiljena odredišta, međutočke na ruti ili bilo koju lokaciju za koju želite najavu.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Izradi rutu";
+
 /* beacon.styles.current */
 "Current" = "Trenutno";
 
@@ -729,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Upravljanje podacima";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Zadana vrsta prijevoza";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Definiranje međutočaka rute";
@@ -765,6 +795,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Napušten kružni tok. Sada ste u %@";
+
+/* Visual assistance answer heading */
+"Description" = "Opis";
 
 /* No comment provided by engineer. */
 "Destination location" = "Lokacija odredišta";
@@ -926,6 +959,12 @@
 "Enqueue If Other Callouts Active" = "Stavi u red čekanja ako su aktivni drugi oblačići";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Unesite pitanje o trenutnoj slici";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "Unesite pitanje o najnovijoj snimljenoj slici.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Zvučni efekti ulaska i izlaska";
 
 /* search.placeholder */
@@ -941,10 +980,7 @@
 "Error Occurred" = "Došlo je do pogreške";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Stručne postavke";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Stručnjaci mogu sakriti podnožja savjeta i suvišne veze rotora kako bi smanjili smetnje.";
+"Experienced users can hide hint footers to reduce distractions." = "Iskusni korisnici mogu sakriti podnožja s nagovještajima kako bi smanjili ometanje.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Istražite i steknite osjećaj područja bilo gdje u svijetu.";
@@ -1018,8 +1054,14 @@
 /* beacon.styles.flare */
 "Flare" = "Baklja";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Dodatna pitanja";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Hrana & piće";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "Na primjer, koji je tekst vidljiv?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "Za najbolje iskustvo preporučujemo da ustanete kako biste se okrenuli i koristili stereo slušalice.";
@@ -1142,10 +1184,7 @@
 "Hide Hint Footers" = "Sakrij podnožja savjeta";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Sakrij veze rotora na kartici markera";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "HINT ZVUCI";
+"Hint Sounds" = "Zvukovi nagovještaja";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Postavke kućnog broja";
@@ -1189,6 +1228,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Ako ste omogućili kontrole medija u postavkama prečaca, možete pritisnuti gumb za reprodukciju/pauziranje na slušalicama da biste ispustili i oznaku krušne mrvice.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "Snimanje slike je otkazano.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "Imperial (stope)";
 
@@ -1223,7 +1265,7 @@
 "Import Waypoints as Markers" = "Uvezite međutočke kao oznake";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "BRZINA GOVORA U VOZILU";
+"In Vehicle Speaking Rate" = "Brzina govora u vozilu";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Brzina govora u vozilu";
@@ -1277,9 +1319,6 @@
 "Intersection: %@" = "Raskrižje: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "SJECIŠTA";
-
-/* No comment provided by engineer. */
 "Intersections" = "Raskrižja";
 
 /* ui.action_button.intersections */
@@ -1293,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "Nevažeća zemljopisna širina i dužina";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "Kamera iPhonea";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Čini se da vaše postavke privatnosti sprječavaju korištenje značajke Motion & Fitness. Molimo vas da izvršite potrebne prilagodbe u aplikaciji Postavke.";
@@ -1346,6 +1388,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Zemljopisna širina: %1$@, zemljopisna dužina: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Učite uz podcaste";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "Navedite raskrižja ispred sebe";
 
 /* No comment provided by engineer. */
@@ -1375,6 +1420,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Zemljopisna dužina";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Pogledaj ponovno";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Pogled unaprijed";
+
 /* beacon.styles.mallet */
 "Mallet" = "Malj";
 
@@ -1385,7 +1436,7 @@
 "Mallet (Very Slow)" = "Malj (vrlo sporo)";
 
 /* No comment provided by engineer. */
-"MAP" = "KARTA";
+"Map" = "Karta";
 
 /* No comment provided by engineer. */
 "Map Service" = "Usluga karte";
@@ -1430,7 +1481,7 @@
 "Markers" = "Oznake";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "OZNAKE I RUTE";
+"Markers & Routes" = "Markeri i rute";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "Oznake naprijed";
@@ -1475,7 +1526,7 @@
 "Navigation Instructions" = "Upute za navigaciju";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "PLOVIDBE RUTE";
+"Navigation Routes" = "Navigacijske rute";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "Navigacijske rute izračunate";
@@ -1571,6 +1622,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "U ovoj GPX datoteci nije pronađen trag";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "Nije bilo moguće generirati koristan vizualni opis.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "Nema definiranih međutočaka";
 
@@ -1616,14 +1670,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Predmeti";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Brzina govora pješice";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Brzina govora pješice";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "BRZINA GOVORA Pješice";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Brzina govora pješice. Kako ovo zvuči?";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "Vizualna pomoć na uređaju nije dostupna.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Ups! Nešto je pošlo po zlu.";
@@ -1635,10 +1692,16 @@
 "Open in Google Maps" = "Otvorite u Google kartama";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Otvorite detalje rute kako biste pregledali korake navigacije i nastavili.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Otvori postavke";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Otvorite VoiceVista da nastavite s uslugama lokacije";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Otvara kameru kako bi opisala što je ispred vas";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "Oznake OpenStreetMap";
@@ -1653,7 +1716,7 @@
 "Other Distance" = "Druga udaljenost";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "DRUGI JEZICI";
+"Other Languages" = "Drugi jezici";
 
 /* No comment provided by engineer. */
 "Other Options" = "Ostale opcije";
@@ -1662,7 +1725,7 @@
 "Other Sound Effect volume" = "Glasnoća ostalih zvučnih efekata";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "OSTALI ZVUCI";
+"Other Sounds" = "Drugi zvukovi";
 
 /* No comment provided by engineer. */
 "Others" = "Drugi";
@@ -1716,9 +1779,6 @@
 "Places" = "Mjesta";
 
 /* No comment provided by engineer. */
-"PLACES" = "MJESTA";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "Podaci o mjestima dolaze iz Apple Maps, OpenStreetMap i Overture Maps.";
 
 /* No comment provided by engineer. */
@@ -1737,28 +1797,25 @@
 "Please try later." = "Molimo pokušajte kasnije.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "OPCIJE OBJAVE POI-A";
+"POI Announcing Options" = "Opcije najave točaka interesa";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "RASPONI SENZORA POI";
+"POI Sensing Ranges" = "Rasponi detekcije POI-a";
 
 /* No comment provided by engineer. */
 "POI Settings" = "POI postavke";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "OPCIJE POI ZVUČNIH EFEKATA";
+"POI Sound Effect Options" = "Opcije zvučnih efekata za POI";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "GLASNOĆA POI ZVUČNOG EFEKTA";
+"POI Sound Effect Volume" = "Glasnoća zvučnog efekta za POI";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "Postavke zvuka POI";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "Opcije POI Superkategorije";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "OPCIJE POI SUPERKATEGORIJE";
 
 /* No comment provided by engineer. */
 "POIs" = "POI-ji";
@@ -1771,6 +1828,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Prednost";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Priprema vizualne pomoći...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "Pritisnite gumb za reprodukciju na slušalicama da biste probudili VoiceVista.";
@@ -1807,6 +1867,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "Povijest upita";
+
+/* No comment provided by engineer. */
+"Question" = "Pitanje";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Završi bez spremanja";
@@ -1935,7 +1998,7 @@
 "Route Updated to a Circular Journey" = "Ruta ažurirana na kružno putovanje";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "TOČKE RUTE";
+"Route Waypoints" = "Točke rute";
 
 /* routes.title */
 "Routes" = "Rute";
@@ -2004,6 +2067,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Postavite i spremite trajnu udaljenost upozorenja za svaku oznaku pojedinačno. Bit ćete obaviješteni čim bude bliže od vaše definirane udaljenosti.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Postavite odredište za ovu rutu.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Postavite početnu lokaciju za ovu rutu.";
+
+/* No comment provided by engineer. */
 "Settings" = "postavke";
 
 /* No comment provided by engineer. */
@@ -2063,6 +2132,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "Snoozing";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Neki detalji mogu biti neizvjesni.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Poredano po udaljenosti";
 
@@ -2108,6 +2180,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "Započni praćenje";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Pokreni navigaciju";
+
 /* voice.action.start_route */
 "Start Route" = "Početak rute";
 
@@ -2145,6 +2220,9 @@
 "Stop route" = "Zaustavi rutu";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Zaustavi vizualnu pomoć";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Pregled ulice";
 
 /* preview.callout.paused */
@@ -2154,28 +2232,22 @@
 "Style Settings" = "Postavke stila";
 
 /* No comment provided by engineer. */
-"Subscribe Now" = "Pretplatite se sada";
-
-/* No comment provided by engineer. */
 "Subscription Status" = "Stanje pretplate";
 
 /* No comment provided by engineer. */
 "Summary" = "Sažetak";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "DEFINICIJA SUPERKATEGORIJE";
+"Supercategory Definition" = "Definicija superkategorije";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Definicije superkategorija";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "SUPERKATEGORIJA ZVUCI";
+"Supercategory Sounds" = "Superkategorija Zvukovi";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Okolne naredbe";
-
-/* No comment provided by engineer. */
-"Surrounding Settings" = "Okolne postavke";
 
 /* vicinity.title */
 "Surroundings" = "Okruženje";
@@ -2208,13 +2280,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "Svjetionik će se automatski ponovno isključiti kada se približite odredištu i uđete u raspon automatskog isključivanja zvuka.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "Kamera nije dostupna na ovom uređaju.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "Snimljena slika nije mogla biti obrađena.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "Udaljenost između točaka ne smije biti premala.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "Datoteka sadrži i međutočke i tragove.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "Prvo pokretanje može potrajati nekoliko sekundi.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "Slušalice koje ste odabrali trenutno nisu dostupne za povezivanje. Molimo pokušajte ponovo kasnije.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "Slika se nije mogla analizirati. Molimo pogledajte ponovno.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "Slika se nije mogla s pouzdanjem protumačiti.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Čini se da veza nije važeća.";
@@ -2269,6 +2356,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "Ova vrijednost je procjena koliko točno VoiceVista zna gdje se nalazite. Manje od 30 stopa je dobro. Manje od 60 stopa je u redu. Sve drugo je jadno. Podaci o lokaciji najtočniji su kada su vani, a ne ispod bilo kakvih građevina.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "Ova je sesija vizualne pomoći završila. Ponovno pogledajte za početak nove sesije.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Ovo će prekinuti vezu vaših slušalica s VoiceVista. Odavde se u budućnosti možete ponovo povezati s VoiceVista.";
@@ -2329,7 +2419,7 @@
 "Transportation" = "Prijevoz";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "OPCIJE PUTOVANJA";
+"Trip Options" = "Mogućnosti putovanja";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Rješavanje problema";
@@ -2456,19 +2546,38 @@
 "View Detail" = "vidi detalje";
 
 /* No comment provided by engineer. */
-"Visit Web" = "Posjetite Web";
+"Virtual Location" = "Virtualna lokacija";
 
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "GLAS I ZVUK";
+"Visit Web" = "Posjetite Web";
+
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Vizualna pomoć";
+
+/* No comment provided by engineer. */
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "Vizualna pomoć ne može pouzdano identificirati prepreke, ulaze, mjesta za sjedenje, udaljenosti ili je li put siguran. Nastavite koristiti štap, psa vodiča ili drugo pomagalo za kretanje.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "Vizualna pomoć nije mogla analizirati sliku. Pokušajte ponovno.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "Vizualna pomoć je zaustavljena.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Vizualna pomoć koristi Apple Vision za otkrivanje objekata putem vaše kamere. Vaše se slike obrađuju privatno na vašem uređaju i ne prenose se niti dijele.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Glas i zvuk";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Glasovne postavke";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "GLASNOĆA GLASA";
+"Voice volume" = "Glasnoća glasa";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Glasnoća glasa";
+"Voice Volume" = "Glasnoća glasa";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Glasovi i zvukovi";
@@ -2477,7 +2586,7 @@
 "VoiceVista Blog" = "VoiceVista Blog";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista može izračunati međutočke za referencu na temelju početne i odredišne lokacije.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista može izračunati referentne točke na temelju početne i odredišne lokacije.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "VoiceVista može generirati novu obrnutu rutu s međutočkama obrnutim redoslijedom radi vaše udobnosti. Možda ćete morati prilagoditi međutočke za obrnutu rutu prije pokretanja navođenja.";
@@ -2525,7 +2634,7 @@
 "VoiceVista is searching for your AirPods. Ensure they are connected to your phone." = "VoiceVista traži vaše AirPodove. Provjerite jesu li povezani s vašim telefonom.";
 
 /* No comment provided by engineer. */
-"VoiceVista only announces automatic callouts when in the surroundings tab. To modify this setting, navigate to the Settings tab." = "VoiceVista najavljuje automatske pozive samo kada je na kartici okoline. Da biste izmijenili ovu postavku, idite na karticu Postavke.";
+"VoiceVista only announces automatic callouts when in the surroundings tab." = "VoiceVista najavljuje automatske pozive samo kada ste na kartici s okruženjem.";
 
 /* No comment provided by engineer. */
 "VoiceVista stores map data to reduce data and battery consumption. Clearing stored map data will require VoiceVista to re-download the data." = "VoiceVista pohranjuje podatke karte kako bi smanjio potrošnju podataka i baterije. Brisanje pohranjenih kartografskih podataka zahtijevat će da VoiceVista ponovno preuzme podatke.";
@@ -2540,7 +2649,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista se nije mogla povezati s vašim slušalicama. Molimo pokušajte ponovo kasnije.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "VOLUMEN I STIL";
+"Volume & Style" = "Volumen i stil";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Probudi se sada";
@@ -2616,9 +2725,6 @@
 "With the enqueue option off, intersection callouts will interrupt any current callouts." = "S isključenom opcijom stavljanja u red čekanja, oblačići raskrižja će prekinuti sve trenutne oblačiće.";
 
 /* No comment provided by engineer. */
-"With the tab option enabled, VoiceVista announces callouts only in the Surroundings tab. When disabled, it announces callouts at all times." = "Kada je opcija kartice omogućena, VoiceVista najavljuje dodatne opise samo na kartici Okruženje. Kada je onemogućen, najavljuje dodatne opise u svakom trenutku.";
-
-/* No comment provided by engineer. */
 "With verbose mode off, the same road name will not be repeated after an intersection." = "S isključenim opširnim načinom rada, isti naziv ceste neće se ponavljati nakon raskrižja.";
 
 /* No comment provided by engineer. */
@@ -2668,9 +2774,6 @@
 
 /* No comment provided by engineer. */
 "You can use the actions rotor on the buttons of the Surroundings tab to perform additional actions." = "Možete koristiti rotor radnji na gumbima kartice Okruženje za izvođenje dodatnih radnji.";
-
-/* No comment provided by engineer. */
-"You can use the actions rotor on the buttons to perform additional actions." = "Rotor akcija na gumbima možete koristiti za izvođenje dodatnih radnji.";
 
 /* No comment provided by engineer. */
 "You can't delete a marker while it is the current beacon." = "Ne možete izbrisati oznaku dok je trenutni svjetionik.";

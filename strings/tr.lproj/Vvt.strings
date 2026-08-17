@@ -68,7 +68,7 @@
 "%@ roundabout" = "%@ dönel kavşak";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ rota hesaplandı";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ rota hesaplandı. Bunları bu sayfanın son bölümünde bulabilir ve devam etmek için birini açabilirsiniz.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ Rotalar Silindi";
@@ -102,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "'Sıfırla', uygulamayı yeni yüklenen durumuna geri döndürür ve bu işlem geri alınamaz!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "1 rota hesaplandı. Bu rotayı sayfanın son bölümünde bulabilir ve devam etmek için açabilirsiniz.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Tersi]";
@@ -171,6 +174,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Yol Noktası Konumunu Ayarla";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Gelişmiş Ayarlar";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "Siri Kısayollarını ekledikten sonra, VoiceVista çalışmıyorken bile sesinizi kullanarak bunları çağırabileceksiniz.";
@@ -313,6 +319,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Ulaşmış";
 
+/* No comment provided by engineer. */
+"Ask" = "Sormak";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Soru Sor";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Bu manzara hakkında bilgi isteyin.";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Her Seferinde Sor";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Soruyor: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "%@ konumunda";
 
@@ -434,16 +455,16 @@
 "Beacon Arrived" = "İşaret Ulaştı";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "BEACON SES STILLERI";
+"Beacon Audio Styles" = "Beacon Audio Stilleri";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "BEACON MERKEZİ SES AÇISI";
+"Beacon Central Sound Angle" = "Beacon Merkezi Ses Açısı";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "İşaret Mesafesi";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "BEACON DOKUNSAL STILLERI";
+"Beacon Haptic Styles" = "Beacon Haptik Stilleri";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "İşaret Başlatılmadı";
@@ -452,7 +473,7 @@
 "Beacon on %@" = "%@ üzerinde işaretçi";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "İŞARET ALGILAMA MESAFELERI";
+"Beacon Sensing Ranges" = "İşaret Algılama Menzilleri";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "İşaret, %1$@, %2$@ uzakta, %3$@ / %4$@ üzerinde ayarlandı";
@@ -464,7 +485,7 @@
 "Beacon Settings" = "İşaret Ayarları";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "BEACON SES EFEKTI SES SEVIYESI";
+"Beacon Sound Effect Volume" = "İşaret fişeği ses efekti ses seviyesi";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "İşaret Sesi Ayarı";
@@ -539,13 +560,16 @@
 "Callouts On" = "Açıklamalar Açık";
 
 /* No comment provided by engineer. */
-"Callouts Only When in Surroundings Tab" = "Yalnızca Çevre sekmesindeyken belirtme çizgileri";
+"Camera access is required for Visual Assistance." = "Görsel yardım için kamera erişimi gereklidir.";
 
 /* general.alert.cancel */
 "Cancel" = "İptal etmek";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Bağlantıyı İptal Et";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Yeni bir görüntü yakalar ve onu tanımlar.";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "İÇN Kategorisi";
@@ -567,6 +591,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Eşiğe Göre Kapat'ı Değiştir";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Varsayılan Taşıma Türünü Değiştir";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Yön Stilini Değiştir";
@@ -608,12 +635,6 @@
 "Change Road Information Distance Interval" = "Yol Bilgilerini Değiştir Mesafe Aralığı";
 
 /* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Kısayol Ayarları'ndaki rotor bağlantıları seçeneğini, İşaretçiler sekmesindeki 'Yakındaki POI'leri ve benzer bağlantıları gizleyecek şekilde değiştirin.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Kısayol Ayarları'ndaki rotor bağlantıları seçeneğini, İşaretçiler sekmesinde 'Yakındaki POI'leri' ve benzer bağlantıları gösterecek şekilde değiştirin.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Güvenlik Noktaları Aralığını Değiştir";
 
 /* No comment provided by engineer. */
@@ -636,6 +657,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Kulaklıklarınızı Kontrol Edin";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Kontrol Etme";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Bir şeyleri temizlemek...";
@@ -703,6 +727,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Favori hedefleriniz, bir rota üzerindeki ara noktalar veya çağrılmasını istediğiniz herhangi bir konum için işaretçiler oluşturun.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Rota Oluştur";
+
 /* beacon.styles.current */
 "Current" = "Akım";
 
@@ -726,6 +753,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Veri Yönetimi";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Varsayılan Taşıma Türü";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Rota Ara Noktalarını Tanımlayın";
@@ -762,6 +792,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Döner kavşaktan ayrıldı. Şimdi %@ boyunca";
+
+/* Visual assistance answer heading */
+"Description" = "Tanım";
 
 /* No comment provided by engineer. */
 "Destination location" = "Varış yeri";
@@ -923,6 +956,12 @@
 "Enqueue If Other Callouts Active" = "Diğer Çağrılar Aktifse Sıraya Ekle";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Mevcut görüntüyle ilgili bir soru girin.";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "En son çekilen görüntüyle ilgili bir soru girin.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Ses efektlerine girme ve çıkma";
 
 /* search.placeholder */
@@ -938,10 +977,7 @@
 "Error Occurred" = "Hata oluştu";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Uzman Ayarları";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Uzmanlar, dikkat dağıtıcı unsurları azaltmak için ipucu altbilgilerini ve yedek rotor bağlantılarını gizleyebilir.";
+"Experienced users can hide hint footers to reduce distractions." = "Deneyimli kullanıcılar, dikkat dağıtıcı unsurları azaltmak için ipucu altbilgilerini gizleyebilirler.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Dünyanın herhangi bir yerindeki bir alanı keşfedin ve hissedin.";
@@ -1015,8 +1051,14 @@
 /* beacon.styles.flare */
 "Flare" = "Parlama";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Takip Soruları";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Yiyecek içecek";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "Örneğin, hangi metin görünür durumda?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "En iyi deneyim için, yerine dönmek için ayağa kalkmanızı ve stereo kulaklık kullanmanızı öneririz.";
@@ -1139,10 +1181,7 @@
 "Hide Hint Footers" = "İpucu Altbilgilerini Gizle";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Rotor Bağlantılarını İşaretleyiciler Sekmesinde Gizle";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "İPUCU SESLER";
+"Hint Sounds" = "İpucu Sesleri";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Ev Numarası Ayarları";
@@ -1186,6 +1225,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Kısayol ayarlarında medya denetimlerini etkinleştirdiyseniz, bir içerik haritası işaretçisi bırakmak için kulaklığınızdaki oynat/duraklat düğmesine de basabilirsiniz.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "Görüntü yakalama işlemi iptal edildi.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "İmparatorluk (Ayak)";
 
@@ -1220,7 +1262,7 @@
 "Import Waypoints as Markers" = "Yol Noktalarını İşaretleyici Olarak İçe Aktar";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "ARAÇ İÇİ KONUŞMA ORANI";
+"In Vehicle Speaking Rate" = "Araç İçi Konuşma Hızı";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Araç içi konuşma hızı";
@@ -1274,9 +1316,6 @@
 "Intersection: %@" = "Kavşak: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "KAVŞAK";
-
-/* No comment provided by engineer. */
 "Intersections" = "Kavşaklar";
 
 /* ui.action_button.intersections */
@@ -1290,6 +1329,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "Geçersiz Enlem ve Boylam";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "iPhone Kamerası";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Gizlilik ayarlarınızın Hareket ve Fitness kullanımını engellediği anlaşılıyor. Lütfen Ayarlar uygulamasında gerekli düzenlemeleri yapın.";
@@ -1343,6 +1385,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Enlem: %1$@, Boylam: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Podcast'lerle öğrenin";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "İlerideki Kavşakları Listele";
 
 /* No comment provided by engineer. */
@@ -1372,6 +1417,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Boylam";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Tekrar Bakın";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Geleceğe bakış";
+
 /* beacon.styles.mallet */
 "Mallet" = "tokmak";
 
@@ -1382,7 +1433,7 @@
 "Mallet (Very Slow)" = "Tokmak (Çok Yavaş)";
 
 /* No comment provided by engineer. */
-"MAP" = "HARİTA";
+"Map" = "Harita";
 
 /* No comment provided by engineer. */
 "Map Service" = "Harita Servisi";
@@ -1427,7 +1478,7 @@
 "Markers" = "İşaretçiler";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "İŞARETLER & ROTALAR";
+"Markers & Routes" = "İşaretler ve Rotalar";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "İlerideki İşaretler";
@@ -1472,7 +1523,7 @@
 "Navigation Instructions" = "Navigasyon Talimatları";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "NAVİGASYON ROTALARI";
+"Navigation Routes" = "Seyir Rotaları";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "Hesaplanan Navigasyon Rotaları";
@@ -1568,6 +1619,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "Bu GPX dosyasında parça bulunamadı";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "Kullanışlı bir görsel açıklama oluşturulamadı.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "Tanımlanmış Yol Noktası Yok";
 
@@ -1613,14 +1667,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Nesneler";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Ayak Üzerinde Konuşma Oranı";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Ayakta konuşma hızı";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "YAYIN KONUŞMA HIZI";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Ayakta konuşma hızı. Bu kulağa nasıl geliyor?";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "Cihaz üzerinde görsel yardım özelliği bulunmamaktadır.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Hata! Bir şeyler yanlış gitti.";
@@ -1632,10 +1689,16 @@
 "Open in Google Maps" = "Google Haritalar'da aç";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Rota ayrıntılarını açarak navigasyon adımlarını inceleyin ve devam edin.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Ayarlar'ı açın";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Konum Servislerini sürdürmek için VoiceVista'yı açın";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Önünüzde ne olduğunu tarif etmek için kamerayı açar.";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "OpenStreetMap Etiket";
@@ -1650,7 +1713,7 @@
 "Other Distance" = "Diğer Mesafe";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "DİĞER DİLLER";
+"Other Languages" = "Diğer Diller";
 
 /* No comment provided by engineer. */
 "Other Options" = "Diğer Seçenekler";
@@ -1659,7 +1722,7 @@
 "Other Sound Effect volume" = "Diğer Ses Efekti ses seviyesi";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "DİĞER SESLER";
+"Other Sounds" = "Diğer Sesler";
 
 /* No comment provided by engineer. */
 "Others" = "Diğerleri";
@@ -1713,9 +1776,6 @@
 "Places" = "Yer";
 
 /* No comment provided by engineer. */
-"PLACES" = "YERLER";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "Yer verileri Apple Haritalar, OpenStreetMap ve Overture Haritalardan gelir.";
 
 /* No comment provided by engineer. */
@@ -1734,28 +1794,25 @@
 "Please try later." = "Lütfen daha sonra tekrar deneyin.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "POI DUYURU SEÇENEKLERI";
+"POI Announcing Options" = "POI Seçeneklerini Duyuruyor";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "POI ALGILAMA MESAFELERI";
+"POI Sensing Ranges" = "POI Algılama Aralıkları";
 
 /* No comment provided by engineer. */
 "POI Settings" = "POI Ayarları";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "POI SES EFEKTI SEÇENEKLERI";
+"POI Sound Effect Options" = "POI Ses Efekti Seçenekleri";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "POI SES EFEKTI SES SEVIYESI";
+"POI Sound Effect Volume" = "POI Ses Efekti Ses Seviyesi";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "POI Ses Ayarları";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "POI Üst Kategori Seçenekleri";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "POI ÜST KATEGORI SEÇENEKLERI";
 
 /* No comment provided by engineer. */
 "POIs" = "POI'ler";
@@ -1768,6 +1825,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Tercih";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Görsel Asistan Hazırlanıyor...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "VoiceVista'yı uyandırmak için kulaklığınızdaki oynat düğmesine basın.";
@@ -1804,6 +1864,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "Sorgu Geçmişi";
+
+/* No comment provided by engineer. */
+"Question" = "Soru";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Kaydetmeden Çık";
@@ -1932,7 +1995,7 @@
 "Route Updated to a Circular Journey" = "Rota Dairesel Yolculuk olarak Güncellendi";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "ROTA ARA NOKTALARI";
+"Route Waypoints" = "Rota Ara Noktaları";
 
 /* routes.title */
 "Routes" = "Rotalar";
@@ -2001,6 +2064,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Her işaretleyici için ayrı ayrı kalıcı bir uyarı mesafesi ayarlayın ve kaydedin. Tanımladığınız mesafeye yaklaştığında bildirim alacaksınız.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Bu rota için varış noktasını belirleyin.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Bu rota için başlangıç konumunu belirleyin.";
+
+/* No comment provided by engineer. */
 "Settings" = "Ayarlar";
 
 /* No comment provided by engineer. */
@@ -2060,6 +2129,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "erteleme";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Bazı ayrıntılar belirsiz olabilir.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Mesafeye göre sıralanmış";
 
@@ -2105,6 +2177,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "İzlemeye Başla";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Navigasyona Başla";
+
 /* voice.action.start_route */
 "Start Route" = "Rotayı Başlat";
 
@@ -2142,6 +2217,9 @@
 "Stop route" = "Rotayı durdur";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Görsel Yardımı Durdur";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Sokak Önizlemesi";
 
 /* preview.callout.paused */
@@ -2151,28 +2229,22 @@
 "Style Settings" = "Stil Ayarları";
 
 /* No comment provided by engineer. */
-"Subscribe Now" = "Şimdi Abone Olun";
-
-/* No comment provided by engineer. */
 "Subscription Status" = "Abonelik Durumu";
 
 /* No comment provided by engineer. */
 "Summary" = "Özet";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "ÜST KATEGORI TANIMI";
+"Supercategory Definition" = "Üst Kategori Tanımı";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Süper Kategori Tanımları";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "ÜST KATEGORİ SESLER";
+"Supercategory Sounds" = "Üst Kategori Sesleri";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Çevreleyen Komutlar";
-
-/* No comment provided by engineer. */
-"Surrounding Settings" = "Çevre Ayarları";
 
 /* vicinity.title */
 "Surroundings" = "çevre";
@@ -2205,13 +2277,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "Hedefe yaklaştığınızda ve Otomatik Sessize Alma aralığına girdiğinizde işaret otomatik olarak tekrar sessize alınacaktır.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "Bu cihazda kamera özelliği bulunmamaktadır.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "Çekilen görüntü işlenemedi.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "Ara noktalar arasındaki mesafe çok küçük olmamalıdır.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "Dosya hem rota noktalarını hem de parkurları içeriyor.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "İlk çalıştırma birkaç saniye sürebilir.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "Seçtiğiniz kulaklıklar şu anda bağlantı için uygun değil. Lütfen daha sonra tekrar deneyiniz.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "Görüntü analiz edilemedi. Lütfen tekrar bakın.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "Görüntü güvenilir bir şekilde yorumlanamadı.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Bağlantı geçersiz görünüyor.";
@@ -2266,6 +2353,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "Bu değer, VoiceVista'nın nerede olduğunuzu ne kadar doğru bildiğinin bir tahminidir. 30 feet'ten az iyidir. 60 feet'ten az sorun yok. Diğer her şey kötüdür. Konum verileri, dışarıdayken ve herhangi bir yapının altında olmadığında en doğrudur.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "Bu görsel destek oturumu sona erdi. Yeni bir oturum başlatmak için tekrar bakın.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Bu, kulaklığınızın VoiceVista ile bağlantısını kesecektir. Gelecekte VoiceVista'ya buradan tekrar bağlanabilirsiniz.";
@@ -2326,7 +2416,7 @@
 "Transportation" = "Toplu taşıma";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "GEZİ SEÇENEKLERİ";
+"Trip Options" = "Seyahat Seçenekleri";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Sorun giderme";
@@ -2453,19 +2543,38 @@
 "View Detail" = "ayrıntılara bakın";
 
 /* No comment provided by engineer. */
-"Visit Web" = "Web'i ziyaret edin";
+"Virtual Location" = "Sanal Konum";
 
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "SES & SES";
+"Visit Web" = "Web'i ziyaret edin";
+
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Görsel Yardım";
+
+/* No comment provided by engineer. */
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "Görsel Yardım, engelleri, girişleri, oturma yerlerini, mesafeleri veya bir yolun güvenli olup olmadığını güvenilir bir şekilde belirleyemez. Bastonunuzu, rehber köpeğinizi veya diğer hareketlilik yardımcılarınızı kullanmaya devam edin.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "Görsel Yardım görüntüyü analiz edemedi. Lütfen tekrar deneyin.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "Görsel destek durduruldu.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Görsel Yardım, kameranız aracılığıyla nesneleri algılamak için Apple Vision'ı kullanır. Görüntüleriniz cihazınızda özel olarak işlenir ve yüklenmez veya paylaşılmaz.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Ses ve Müzik";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Ses Ayarları";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "SES SEVİYESİ";
+"Voice volume" = "Ses seviyesi";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Ses seviyesi";
+"Voice Volume" = "Ses Seviyesi";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Sesler ve Sesler";
@@ -2474,7 +2583,7 @@
 "VoiceVista Blog" = "VoiceVista Blogu";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista, başlangıç ve varış konumlarına göre referans için ara noktaları hesaplayabilir.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista, başlangıç ve varış noktalarına göre referans ara noktalarını hesaplayabilir.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "VoiceVista, size kolaylık sağlamak için yol noktalarının ters sırada olduğu yeni bir ters rota oluşturabilir. Yönlendirmeye başlamadan önce ters rota için yol noktalarını ayarlamanız gerekebilir.";
@@ -2522,7 +2631,7 @@
 "VoiceVista is searching for your AirPods. Ensure they are connected to your phone." = "VoiceVista, AirPod'larınızı arıyor. Telefonunuza bağlı olduklarından emin olun.";
 
 /* No comment provided by engineer. */
-"VoiceVista only announces automatic callouts when in the surroundings tab. To modify this setting, navigate to the Settings tab." = "VoiceVista, otomatik belirtme çizgilerini yalnızca çevre sekmesindeyken duyurur. Bu ayarı değiştirmek için Ayarlar sekmesine gidin.";
+"VoiceVista only announces automatic callouts when in the surroundings tab." = "VoiceVista, otomatik sesli bildirimleri yalnızca çevre sekmesindeyken yapar.";
 
 /* No comment provided by engineer. */
 "VoiceVista stores map data to reduce data and battery consumption. Clearing stored map data will require VoiceVista to re-download the data." = "VoiceVista, verileri ve pil tüketimini azaltmak için harita verilerini saklar. Saklanan harita verilerinin temizlenmesi, VoiceVista'nın verileri yeniden indirmesini gerektirecektir.";
@@ -2537,7 +2646,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista kulaklığınıza bağlanamadı. Lütfen daha sonra tekrar deneyiniz.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "HACIM VE STİL";
+"Volume & Style" = "Hacim ve Stil";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Şimdi uyan";
@@ -2613,9 +2722,6 @@
 "With the enqueue option off, intersection callouts will interrupt any current callouts." = "Sıraya ekleme seçeneği kapalıyken, kesişim açıklamaları geçerli açıklamaları kesintiye uğratır.";
 
 /* No comment provided by engineer. */
-"With the tab option enabled, VoiceVista announces callouts only in the Surroundings tab. When disabled, it announces callouts at all times." = "Sekme seçeneği etkinleştirildiğinde, VoiceVista açıklama metinlerini yalnızca Çevre sekmesinde duyurur. Devre dışı bırakıldığında, belirtme çizgilerini her zaman duyurur.";
-
-/* No comment provided by engineer. */
 "With verbose mode off, the same road name will not be repeated after an intersection." = "Ayrıntılı mod kapalıyken, bir kavşaktan sonra aynı yol adı tekrarlanmayacaktır.";
 
 /* No comment provided by engineer. */
@@ -2665,9 +2771,6 @@
 
 /* No comment provided by engineer. */
 "You can use the actions rotor on the buttons of the Surroundings tab to perform additional actions." = "Ek eylemler gerçekleştirmek için Çevre sekmesindeki düğmelerdeki eylem rotorunu kullanabilirsiniz.";
-
-/* No comment provided by engineer. */
-"You can use the actions rotor on the buttons to perform additional actions." = "Ek eylemler gerçekleştirmek için düğmelerdeki eylemler rotorunu kullanabilirsiniz.";
 
 /* No comment provided by engineer. */
 "You can't delete a marker while it is the current beacon." = "Geçerli işaret olan bir işaretçiyi silemezsiniz.";

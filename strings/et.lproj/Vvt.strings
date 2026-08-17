@@ -71,7 +71,7 @@
 "%@ roundabout" = "%@ ringtee";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ teekonda arvutatud";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ marsruuti arvutatud. Leidke need selle lehe viimasest osast ja avage üks jätkamiseks.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ teekonda kustutatud";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "'Lähtestamine' viib äpi värskelt paigaldatud olekusse ja seda tegevust ei saa tagasi võtta!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "1 marsruut arvutatud. Leidke see selle lehe viimasest osast ja avage see jätkamiseks.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Ümberpööramine]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Teekonnapunkti asukoha kohandamine";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Täpsemad seaded";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "Pärast Siri otseteede lisamist saad kasutada oma häält nende käivitamiseks isegi siis, kui VoiceVista ei tööta.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Kohal";
 
+/* No comment provided by engineer. */
+"Ask" = "Küsi";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Esita küsimus";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Küsi selle vaate kohta";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Küsi iga kord";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Küsib: %@";
+
 /* Directions using 1  o'clock position. */
 "at 1 o'clock" = "kella 1 suunas";
 
@@ -434,16 +455,16 @@
 "Beacon Arrived" = "Majakas saabus";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "MAJAKA HELILAADID";
+"Beacon Audio Styles" = "Majaka heli stiilid";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "Majaka keskne helinurk";
+"Beacon Central Sound Angle" = "Majaka keskne helinurk";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "Majaka kaugus";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "MAJAKA HAPTILISED LAADID";
+"Beacon Haptic Styles" = "Majaka haptilised stiilid";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "Majakas pole käivitatud";
@@ -452,7 +473,7 @@
 "Beacon on %@" = "Majakas kohas %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "MAJAKATE TAJUMISE VAHEMIKUD";
+"Beacon Sensing Ranges" = "Majaka tuvastamise ulatused";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "Majakaks on %1$@, %2$@ kaugusel, punkt %3$@ kokku %4$@";
@@ -464,7 +485,7 @@
 "Beacon Settings" = "Majaka seaded";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "MAJAKA HELIEFEKTI HELITUGEVUS";
+"Beacon Sound Effect Volume" = "Majaka heliefekti helitugevus";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "Majaka heli seaded";
@@ -539,13 +560,16 @@
 "Callouts On" = "Teated sees";
 
 /* No comment provided by engineer. */
-"Callouts Only When in Surroundings Tab" = "Teated ainult vahekaardil Ümbrus";
+"Camera access is required for Visual Assistance." = "Visuaalse abi osutamiseks on vaja kaamera ligipääsu.";
 
 /* general.alert.cancel */
 "Cancel" = "Tühista";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Tühista ühendamine";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Jäädvustab uue pildi ja kirjeldab seda";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "Huvipunkti kategooria";
@@ -567,6 +591,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Sulgemisläve muutmine";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Muuda vaike-transporditüüpi";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Muuda suuna laadi";
@@ -608,12 +635,6 @@
 "Change Road Information Distance Interval" = "Tee info vahemaa vahemiku muutmine";
 
 /* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Muuda otseteede seadetes rootori linkide valikut, et peita 'Läheduses olevad huvipunktid' ja sarnased lingid vahekaardilt tähised.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Muuda otseteede seadetes rootori linkide valikut, et kuvada vahekaardil Tähised 'Läheduses olevad huvipunktid' ja sarnaseid linke.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Ohutuskohtade vahemiku muutmine";
 
 /* No comment provided by engineer. */
@@ -636,6 +657,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Kõrvaklappide kontrollimine";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Kontrollimine";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Asjade koristamine...";
@@ -700,6 +724,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Loo tähised lemmiksihtkohtade, teekondade vahepunktide või mis tahes asukohtade jaoks, millest soovid kuulda.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Loo marsruut";
+
 /* beacon.styles.current */
 "Current" = "Hetke";
 
@@ -723,6 +750,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Andmete haldamine";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Vaikimisi transpordiliik";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Marsruudi teekonnapunktide määratlemine";
@@ -759,6 +789,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Lahkusid ringteelt. Nüüd liigud mööda %@";
+
+/* Visual assistance answer heading */
+"Description" = "Kirjeldus";
 
 /* No comment provided by engineer. */
 "Destination location" = "Sihtkoht";
@@ -911,6 +944,12 @@
 "Enqueue If Other Callouts Active" = "Pane järjekorda, kui muud teated on aktiivsed";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Sisesta küsimus praeguse pildi kohta";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "Sisesta küsimus viimati jäädvustatud pildi kohta.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Sisenemise ja väljumise heliefektid";
 
 /* search.placeholder */
@@ -926,10 +965,7 @@
 "Error Occurred" = "Ilmnes tõrge";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Ekspertide seaded";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Eksperdid saavad segajate vähendamiseks peita vihjejalused ja üleliigsed rootori lingid.";
+"Experienced users can hide hint footers to reduce distractions." = "Kogenud kasutajad saavad tähelepanu hajutamise vähendamiseks vihjejalused peita.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Avasta ja tunneta piirkonda kõikjal maailmas.";
@@ -1003,8 +1039,14 @@
 /* beacon.styles.flare */
 "Flare" = "Signaaltuli";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Järelküsimused";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Söök ja jook";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "Näiteks, milline tekst on nähtav?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "Parima kogemuse saamiseks soovitame tõusta püsti, end kohal pöörata ja kasutada stereokõrvaklappe.";
@@ -1124,10 +1166,7 @@
 "Hide Hint Footers" = "Peida vihje jalused";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Peida rootori lingid vahekaardil Tähised";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "VIHJEHELID";
+"Hint Sounds" = "Vihje helid";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Majanumbri seaded";
@@ -1171,6 +1210,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Kui oled kiirklahvide sätetes meedia juhtnupud lubanud, saad vajutada kõrvaklappide esitus-/pausinuppu, et määrata ka leivapurupunkt.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "Pildi jäädvustamine tühistati.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "inglise (jalad)";
 
@@ -1205,7 +1247,7 @@
 "Import Waypoints as Markers" = "Impordi teekonnapunktid tähistena";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "Kõnekiirus sõidukis";
+"In Vehicle Speaking Rate" = "Sõidukis kõnekiirus";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Kõnekiirus sõidukis";
@@ -1259,9 +1301,6 @@
 "Intersection: %@" = "Ristmik: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "Ristmikud";
-
-/* No comment provided by engineer. */
 "Intersections" = "Ristmikud";
 
 /* ui.action_button.intersections */
@@ -1275,6 +1314,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "Sobimatu laius ja pikkus";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "iPhone'i kaamera";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Paistab, et teie privaatsusseaded takistavad liikumis- ja treeningteabe kasutamist. Palun tehke seadete rakenduses vajalikud muudatused.";
@@ -1328,6 +1370,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Laius: %1$@, Pikkus: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Õpi taskuhäälingutega";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "Loetle eesolevaid ristmikke";
 
 /* No comment provided by engineer. */
@@ -1357,6 +1402,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Pikkus";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Vaata uuesti";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Tulevikku vaadates";
+
 /* beacon.styles.mallet */
 "Mallet" = "Mallet";
 
@@ -1367,7 +1418,7 @@
 "Mallet (Very Slow)" = "Mallet (väga aeglane)";
 
 /* No comment provided by engineer. */
-"MAP" = "KAART";
+"Map" = "Kaart";
 
 /* No comment provided by engineer. */
 "Map Service" = "Kaarditeenus";
@@ -1412,7 +1463,7 @@
 "Markers" = "Tähised";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "Tähised ja teekonnad";
+"Markers & Routes" = "Tähised ja marsruudid";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "Tähised ees";
@@ -1457,7 +1508,7 @@
 "Navigation Instructions" = "Liikumise juhised";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "Liikumisteekonnad";
+"Navigation Routes" = "Navigeerimismarsruudid";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "Arvutatud liikumisteekonnad";
@@ -1549,6 +1600,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "Sellest GPX-failist ei leitud ühtegi rada";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "Kasulikku visuaalset kirjeldust ei õnnestunud genereerida.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "Teekonnapunkte pole määratud";
 
@@ -1594,14 +1648,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Objektid";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Jalgsi kõnekiirus";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Rääkimiskiirus kõndimisel";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "Rääkimiskiirus kõndimisel";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Rääkimiskiirus kõndimisel. Kuidas kõlab?";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "Seadme visuaalne abi pole saadaval.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Ups! Midagi läks valesti.";
@@ -1613,10 +1670,16 @@
 "Open in Google Maps" = "Google Mapsis avamine";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Navigeerimisetappide ülevaatamiseks ja jätkamiseks avage marsruudi üksikasjad.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Ava seaded";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Asukohateenuste jätkamiseks ava VoiceVista";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Avab kaamera, et kirjeldada teie ees olevat";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "OpenStreetMapi sildid";
@@ -1631,7 +1694,7 @@
 "Other Distance" = "Muu kaugus";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "MUUD KEELED";
+"Other Languages" = "Teised keeled";
 
 /* No comment provided by engineer. */
 "Other Options" = "Muud valikud";
@@ -1640,7 +1703,7 @@
 "Other Sound Effect volume" = "Muu heliefekti helitugevus";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "MUUD HELID";
+"Other Sounds" = "Muud helid";
 
 /* No comment provided by engineer. */
 "Others" = "Muud";
@@ -1694,9 +1757,6 @@
 "Places" = "Kohad";
 
 /* No comment provided by engineer. */
-"PLACES" = "Kohad";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "Asukohtade andmed pärinevad Apple Mapsist, OpenStreetMapist ja Overture Mapsist.";
 
 /* No comment provided by engineer. */
@@ -1715,28 +1775,25 @@
 "Please try later." = "Proovi hiljem.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "POI TEATAB VALIKUTEST";
+"POI Announcing Options" = "Huvipunktide teatamise valikud";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "Huvipunktide tuvastamise vahemikud";
+"POI Sensing Ranges" = "POI tuvastamise vahemikud";
 
 /* No comment provided by engineer. */
 "POI Settings" = "Huvipunktide seaded";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "Huvipunktide HELIEFEKTIDE VALIKUD";
+"POI Sound Effect Options" = "Huvipunkti heliefektide valikud";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "Huvipunktide HELIEFEKTI HELITUGEVUS";
+"POI Sound Effect Volume" = "Huvipunkti heliefekti helitugevus";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "Huvipunktide heliseaded";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "Huvipunktide superkategooria valikud";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "Huvipunktide SUPERKATEGOORIA VALIKUD";
 
 /* No comment provided by engineer. */
 "POIs" = "POI-d";
@@ -1749,6 +1806,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Eelistus";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Visuaalse abi ettevalmistamine...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "VoiceVista äratamiseks vajuta kõrvaklappide esitusnuppu.";
@@ -1785,6 +1845,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "Päringu ajalugu";
+
+/* No comment provided by engineer. */
+"Question" = "Küsimus";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Välju salvestamata";
@@ -1913,7 +1976,7 @@
 "Route Updated to a Circular Journey" = "Teekond on uuendatud ringlevale teekonnale";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "Teekonna TEEKONNAPUNKTID";
+"Route Waypoints" = "Marsruudi teekonnapunktid";
 
 /* routes.title */
 "Routes" = "Teekonnad";
@@ -1982,6 +2045,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Määra ja salvesta iga tähise jaoks eraldi püsiv hoiatuskaugus. Rakendus teavitab kohe, kui oled määratud kaugusest lähemal.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Määrake selle marsruudi sihtkoht.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Määrake selle marsruudi alguspunkt.";
+
+/* No comment provided by engineer. */
 "Settings" = "Seaded";
 
 /* No comment provided by engineer. */
@@ -2041,6 +2110,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "Tukastamine";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Mõned detailid võivad olla ebakindlad.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Sorditud kauguse järgi";
 
@@ -2086,6 +2158,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "Alusta jälgimist";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Alusta navigeerimist";
+
 /* voice.action.start_route */
 "Start Route" = "Alusta teekonda";
 
@@ -2120,6 +2195,9 @@
 "Stop route" = "Peata teekond";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Peata visuaalne abi";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Tänava eelvaade";
 
 /* preview.callout.paused */
@@ -2129,28 +2207,22 @@
 "Style Settings" = "Stiili seaded";
 
 /* No comment provided by engineer. */
-"Subscribe Now" = "Telli nüüd";
-
-/* No comment provided by engineer. */
 "Subscription Status" = "Tellimuse olek";
 
 /* No comment provided by engineer. */
 "Summary" = "Kokkuvõte";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "SUPERKATEGOORIA MÄÄRATLUS";
+"Supercategory Definition" = "Ülemkategooria definitsioon";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Superkategooria määratlused";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "SUPERKATEGOORIA HELID";
+"Supercategory Sounds" = "Superkategooria helid";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Ümbritseva käsud";
-
-/* No comment provided by engineer. */
-"Surrounding Settings" = "Ümbritseva seaded";
 
 /* vicinity.title */
 "Surroundings" = "Ümbrus";
@@ -2183,13 +2255,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "Majakas vaigistub automaatselt uuesti, kui lähened sihtkohale ja sisened automaatse vaigistamise vahemikku.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "Kaamera pole sellel seadmel saadaval.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "Jäädvustatud pilti ei saanud töödelda.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "Teekonnapunktide vaheline kaugus ei tohiks olla liiga väike.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "Fail sisaldab nii teekonnapunkte kui ka radasid.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "Esimene käivitamine võib võtta paar sekundit.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "Valitud kõrvaklapid pole praegu ühendamiseks saadaval. Proovi hiljem uuesti.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "Pilti ei õnnestunud analüüsida. Palun vaadake uuesti.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "Pilti ei saanud enesekindlalt tõlgendada.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Link näib olevat sobimatu.";
@@ -2244,6 +2331,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "See väärtus on hinnang selle kohta, kui täpselt VoiceVista teab, kus asud. Vähem kui 30 jalga on hea. Vähem kui 60 jalga on ok. Kõik muu on kehv. Asukohaandmed on kõige täpsemad väljas ja mitte ühegi struktuuri all.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "See visuaalse abi seanss on lõppenud. Uue seansi alustamiseks vaadake uuesti.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "See katkestab kõrvaklappide ühenduse VoiceVistaga. VoiceVistaga saab tulevikus uuesti ühenduse luua siit.";
@@ -2304,7 +2394,7 @@
 "Transportation" = "Transport";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "REISI VALIKUD";
+"Trip Options" = "Reisivalikud";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Tõrkeotsing";
@@ -2431,19 +2521,38 @@
 "View Detail" = "Vaata üksikasju";
 
 /* No comment provided by engineer. */
-"Visit Web" = "Külasta veebilehte";
+"Virtual Location" = "Virtuaalne asukoht";
 
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "HÄÄL JA HELI";
+"Visit Web" = "Külasta veebilehte";
+
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Visuaalne abi";
+
+/* No comment provided by engineer. */
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "Visuaalne abi ei suuda usaldusväärselt tuvastada takistusi, sissepääse, istekohti, vahemaid ega seda, kas rada on ohutu. Jätka kepi, juhtkoera või muu liikumisabivahendi kasutamist.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "Visuaalne abi ei saanud pilti analüüsida. Palun proovige uuesti.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "Visuaalne abi on peatatud.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Visuaalne abi kasutab Apple Visioni, et teie kaamera abil objekte tuvastada. Teie pilte töödeldakse teie seadmes privaatselt ning neid ei laadita üles ega jagata.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Hääl ja heli";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Hääle seaded";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "HÄÄLE HELITUGEVUS";
+"Voice volume" = "Hääle helitugevus";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Hääle helitugevus";
+"Voice Volume" = "Hääle helitugevus";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Hääled ja helid";
@@ -2452,7 +2561,7 @@
 "VoiceVista Blog" = "VoiceVista ajaveeb";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista saab toetamiseks arvutada teekonnapunkte algus- ja sihtkoha põhjal.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista saab arvutada võrdluspunkte algus- ja sihtkoha põhjal.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "VoiceVista saab mugavuse huvides genereerida uue tagasisuunas mineva teekonna , mille teekonnapunktid on vastupidises järjekorras. On võimalik, et pead enne juhistega alustamist kohandama ümberpööratud teekonna teekonnapunkte.";
@@ -2500,7 +2609,7 @@
 "VoiceVista is searching for your AirPods. Ensure they are connected to your phone." = "VoiceVista otsib AirPodse. Veendu, et need oleksid sinu telefoniga ühendatud.";
 
 /* No comment provided by engineer. */
-"VoiceVista only announces automatic callouts when in the surroundings tab. To modify this setting, navigate to the Settings tab." = "VoiceVista annab automaatseid teateid ainult siis, kui oled ümbruse vahekaardil. Selle sätte muutmiseks liigu vahekaardile Sätted.";
+"VoiceVista only announces automatic callouts when in the surroundings tab." = "VoiceVista annab automaatsetest väljakutsetest teada ainult siis, kui on ümbruse vahekaart.";
 
 /* No comment provided by engineer. */
 "VoiceVista stores map data to reduce data and battery consumption. Clearing stored map data will require VoiceVista to re-download the data." = "VoiceVista salvestab kaardiandmed, et vähendada andmete ja aku tarbimist. Salvestatud kaardiandmete kustutamiseks peab VoiceVista andmed uuesti alla laadima.";
@@ -2515,7 +2624,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista ei suutnud kõrvaklappidega ühendust luua. Proovi hiljem uuesti.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "Helitugevus ja laad";
+"Volume & Style" = "Volüüm ja stiil";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Ärka kohe üles";
@@ -2591,9 +2700,6 @@
 "With the enqueue option off, intersection callouts will interrupt any current callouts." = "Kui järjekorra valik on välja lülitatud, katkestavad ristmike teated kõik praegused teated.";
 
 /* No comment provided by engineer. */
-"With the tab option enabled, VoiceVista announces callouts only in the Surroundings tab. When disabled, it announces callouts at all times." = "Kui vahekaardi valik on lubatud, annab VoiceVista teateid ainult vahekaardil Ümbrus. Kui see on keelatud, annab see alati teateid.";
-
-/* No comment provided by engineer. */
 "With verbose mode off, the same road name will not be repeated after an intersection." = "Kui jutukuse laad on välja lülitatud, ei korrata pärast ristmikku sama tee nime.";
 
 /* No comment provided by engineer. */
@@ -2643,9 +2749,6 @@
 
 /* No comment provided by engineer. */
 "You can use the actions rotor on the buttons of the Surroundings tab to perform additional actions." = "Täiendavate toimingute tegemiseks saad kasutada vahekaardi Ümbrus nuppudel toimingute rootorit.";
-
-/* No comment provided by engineer. */
-"You can use the actions rotor on the buttons to perform additional actions." = "Täiendavate toimingute tegemiseks saad kasutada nuppudel toimingute rootorit.";
 
 /* No comment provided by engineer. */
 "You can't delete a marker while it is the current beacon." = "Tähist ei saa kustutada, kui see on praegune majakas.";

@@ -71,7 +71,7 @@
 "%@ roundabout" = "Rotonda di %@";
 
 /* %@ is count of calculated routes */
-"%@ routes calculated" = "%@ percorsi calcolati";
+"%@ routes calculated. Find them in the last section of this page and open one to continue." = "%@ percorsi calcolati. Li trovi nell'ultima sezione di questa pagina; aprine uno per continuare.";
 
 /* %@ is count of deleted routes */
 "%@ Routes Deleted" = "%@ Percorsi eliminati";
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "'Reset' will revert the app to its freshly installed state, and this action cannot be undone!" = "'Reimposta' ripristinerà l'app allo stato originale e questa azione non può essere annullata!";
+
+/* No comment provided by engineer. */
+"1 route calculated. Find it in the last section of this page, and open it to continue." = "È stato calcolato 1 percorso. Lo trovi nell'ultima sezione di questa pagina; aprilo per proseguire.";
 
 /* No comment provided by engineer. */
 "[Reverse]" = "[Reverse]";
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Waypoint Location" = "Regola la posizione del waypoint";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Impostazioni avanzate";
 
 /* No comment provided by engineer. */
 "After adding Siri Shortcuts, you will be able to use your voice to invoke them even when VoiceVista is not running." = "Dopo aver aggiunto Comandi rapidi di Siri, sarai in grado di usare la tua voce per richiamarli anche quando VoiceVista non è in esecuzione.";
@@ -316,6 +322,21 @@
 /* settings.arrival.style.arrived */
 "Arrived" = "Arrivato";
 
+/* No comment provided by engineer. */
+"Ask" = "Chiedere";
+
+/* Visual assistance custom question button */
+"Ask a Question" = "Poni una domanda";
+
+/* Visual assistance question dialog title */
+"Ask About This View" = "Chiedi informazioni su questa vista";
+
+/* No comment provided by engineer. */
+"Ask Every Time" = "Chiedi ogni volta";
+
+/* Visual assistance suggestion hint */
+"Asks: %@" = "Chiede: %@";
+
 /* Notification, %@ is a point of interest, 'At Starbucks' */
 "At %@" = "Presso %@";
 
@@ -437,16 +458,16 @@
 "Beacon Arrived" = "Audiofaro raggiunto";
 
 /* beaconSetting.audioStyle */
-"BEACON AUDIO STYLES" = "STILI AUDIO AUDIOFARO";
+"Beacon Audio Styles" = "Stili audio Beacon";
 
 /* No comment provided by engineer. */
-"BEACON CENTRAL SOUND ANGLE" = "ANGOLO SONORO CENTRALE DEL FARO";
+"Beacon Central Sound Angle" = "Angolo sonoro centrale del faro";
 
 /* No comment provided by engineer. */
 "Beacon Distance" = "Distanza audiofaro";
 
 /* beaconSetting.hapticStyle */
-"BEACON HAPTIC STYLES" = "Tipi di feedback aptico AUDIOFARO";
+"Beacon Haptic Styles" = "Stili aptici Beacon";
 
 /* No comment provided by engineer. */
 "Beacon Not Started" = "Audiofaro non avviato";
@@ -455,7 +476,7 @@
 "Beacon on %@" = "Audiofaro su %@";
 
 /* No comment provided by engineer. */
-"BEACON SENSING RANGES" = "DISTANZE RILEVAMENTO AUDIOFARO";
+"Beacon Sensing Ranges" = "Portata di rilevamento dei beacon";
 
 /* Callout indicating the current waypoint has changed, %1$@ waypoint name, %2$@ distance to waypoint, %3$@ waypoint index, %4$@ total number of waypoints.  'Beacon set on control 1. 450 feet away. 1 of 4.' */
 "Beacon set on %1$@, %2$@ away, %3$@ of %4$@" = "L'audiofaro è stato impostato su %1$@, a %2$@ di distanza, %3$@ di %4$@";
@@ -467,7 +488,7 @@
 "Beacon Settings" = "Impostazioni audiofaro";
 
 /* No comment provided by engineer. */
-"BEACON SOUND EFFECT VOLUME" = "VOLUME SUONO AUDIOFARO";
+"Beacon Sound Effect Volume" = "Volume dell'effetto sonoro del faro";
 
 /* No comment provided by engineer. */
 "Beacon Sound Setting" = "Impostazione suono audiofaro";
@@ -542,13 +563,16 @@
 "Callouts On" = "Avvisi attivati";
 
 /* No comment provided by engineer. */
-"Callouts Only When in Surroundings Tab" = "Avvisi solo nella scheda Dintorni";
+"Camera access is required for Visual Assistance." = "L'accesso alla telecamera è necessario per l'assistenza visiva.";
 
 /* general.alert.cancel */
 "Cancel" = "Annulla";
 
 /* No comment provided by engineer. */
 "Cancel Connecting" = "Annulla connessione";
+
+/* No comment provided by engineer. */
+"Captures a new image and describes it" = "Cattura una nuova immagine e la descrive";
 
 /* No comment provided by engineer. */
 "Category of the POI" = "Categoria del POI";
@@ -570,6 +594,9 @@
 
 /* No comment provided by engineer. */
 "Change Close By Threshold" = "Modifica soglia di icinanza";
+
+/* No comment provided by engineer. */
+"Change Default Transport Type" = "Modifica il tipo di trasporto predefinito";
 
 /* No comment provided by engineer. */
 "Change Direction Style" = "Cambia stile di direzione";
@@ -611,12 +638,6 @@
 "Change Road Information Distance Interval" = "Cambia l'intervallo per la distanza delle informazioni stradali";
 
 /* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to hide 'Nearby POIs' and similar links in the Markers tab." = "Modificare l'opzione dei collegamenti del rotore nelle Impostazioni dei collegamenti per nascondere i 'POI nelle vicinanze' e collegamenti simili nella scheda Marcatori.";
-
-/* No comment provided by engineer. */
-"Change rotor links option in Shortcuts Settings to show 'Nearby POIs' and similar links in the Markers tab." = "Modificare l'opzione dei collegamenti del rotore nelle Impostazioni dei collegamenti rapidi per visualizzare 'POI nelle vicinanze' e collegamenti simili nella scheda Marcatori.";
-
-/* No comment provided by engineer. */
 "Change Safety Spots Range" = "Modifica il raggio per i punti di sicurezza";
 
 /* No comment provided by engineer. */
@@ -639,6 +660,9 @@
 
 /* No comment provided by engineer. */
 "Check Your Headphones" = "Controlla gli auricolari";
+
+/* Visual assistance follow-up loading message */
+"Checking" = "Controllo";
 
 /* No comment provided by engineer. */
 "Cleaning things up..." = "Pulizia in corso...";
@@ -706,6 +730,9 @@
 /* markers.footnote.1 */
 "Create markers for your favorite destinations, waypoints on a route, or any locations you want calledout." = "Crea indicatori per le tue destinazioni preferite, per i waypoint lungo un percorso o per qualsiasi posizione di cui vuoi essere avvisato quando la raggiungi.";
 
+/* No comment provided by engineer. */
+"Create Route" = "Crea percorso";
+
 /* beacon.styles.current */
 "Current" = "Corrente";
 
@@ -729,6 +756,9 @@
 
 /* No comment provided by engineer. */
 "Data Management" = "Gestione dei dati";
+
+/* No comment provided by engineer. */
+"Default Transport Type" = "Tipo di trasporto predefinito";
 
 /* No comment provided by engineer. */
 "Define Route Waypoints" = "Definizione dei waypoint del percorso";
@@ -765,6 +795,9 @@
 
 /* Callout that occurs when the user is currently in a roundabout and selects a road that leaves the roundabout, %@ is the name of the street that the user is turning on */
 "Departed roundabout. Now along %@" = "Sei uscito dalla rotonda. Ora sei in %@";
+
+/* Visual assistance answer heading */
+"Description" = "Descrizione";
 
 /* No comment provided by engineer. */
 "Destination location" = "Località di destinazione";
@@ -926,6 +959,12 @@
 "Enqueue If Other Callouts Active" = "Accoda se vi sono altri avvisi attivi";
 
 /* No comment provided by engineer. */
+"Enter a question about the current image" = "Inserisci una domanda sull'immagine corrente";
+
+/* Visual assistance question dialog message */
+"Enter a question about the most recently captured image." = "Inserisci una domanda relativa all'immagine acquisita più di recente.";
+
+/* No comment provided by engineer. */
 "Enter and Exit Sound Effects" = "Segnali acustici prima e dopo l'annuncio";
 
 /* search.placeholder */
@@ -941,10 +980,7 @@
 "Error Occurred" = "Errore";
 
 /* No comment provided by engineer. */
-"Expert Settings" = "Impostazioni avanzate";
-
-/* No comment provided by engineer. */
-"Experts can hide hint footers and redundant rotor links to reduce distractions." = "Gli utenti avanzati possono nascondere i suggerimenti a piè di pagina e i collegamenti ridondanti del rotore per ridurre le distrazioni.";
+"Experienced users can hide hint footers to reduce distractions." = "Gli utenti esperti possono nascondere i suggerimenti a piè di pagina per ridurre le distrazioni.";
 
 /* No comment provided by engineer. */
 "Explore and get a sense of an area anywhere in the world." = "Esplora e fatti un'idea di un'area in qualsiasi parte del mondo.";
@@ -1018,8 +1054,14 @@
 /* beacon.styles.flare */
 "Flare" = "Bagliore";
 
+/* Visual assistance suggestions heading */
+"Follow-up Questions" = "Domande di approfondimento";
+
 /* No comment provided by engineer. */
 "Food & Drink" = "Cibi e bevande";
+
+/* Visual assistance question example */
+"For example, what text is visible?" = "Ad esempio, quale testo è visibile?";
 
 /* No comment provided by engineer. */
 "For the best experience, we recommend that you stand up to turn in place and use stereo headphones." = "Per un'esperienza ottimale, ti consigliamo di alzarti per girarti sul posto e utilizzare cuffie stereo.";
@@ -1142,10 +1184,7 @@
 "Hide Hint Footers" = "Nascondi suggerimenti a piè di pagina";
 
 /* No comment provided by engineer. */
-"Hide Rotor Links in Markers Tab" = "Nascondi i collegamenti del rotore nella scheda degli indicatori";
-
-/* No comment provided by engineer. */
-"HINT SOUNDS" = "SUONI DI AIUTO";
+"Hint Sounds" = "Suoni di suggerimento";
 
 /* No comment provided by engineer. */
 "House Number Settings" = "Impostazioni per i numeri civici";
@@ -1189,6 +1228,9 @@
 /* No comment provided by engineer. */
 "If you've enabled media controls in the shortcuts settings, you can press the play/pause button on your headphones to drop a breadcrumb marker as well." = "Se hai abilitato i controlli multimediali nelle impostazioni delle scorciatoie, puoi premere il pulsante di riproduzione/pausa sulle cuffie per rilasciare anche un indicatore di breadcrumb.";
 
+/* No comment provided by engineer. */
+"Image capture was cancelled." = "L'acquisizione dell'immagine è stata annullata.";
+
 /* settings.general.units.feet */
 "Imperial (Feet)" = "Britannico (piedi)";
 
@@ -1223,7 +1265,7 @@
 "Import Waypoints as Markers" = "Importa waypoint come indicatori";
 
 /* voiceSetting.in_vehicle_rate */
-"IN VEHICLE SPEAKING RATE" = "Velocità della voce in un mezzo di trasporto";
+"In Vehicle Speaking Rate" = "Velocità di conversazione in veicolo";
 
 /* No comment provided by engineer. */
 "In vehicle speaking rate" = "Velocità della voce in un mezzo di trasporto";
@@ -1277,9 +1319,6 @@
 "Intersection: %@" = "Incrocio: %@";
 
 /* No comment provided by engineer. */
-"INTERSECTIONS" = "INCROCI";
-
-/* No comment provided by engineer. */
 "Intersections" = "Incroci";
 
 /* ui.action_button.intersections */
@@ -1293,6 +1332,9 @@
 
 /* No comment provided by engineer. */
 "Invalid Latitude and Longitude" = "Latitudine e longitudine non valide";
+
+/* No comment provided by engineer. */
+"iPhone Camera" = "Fotocamera dell'iPhone";
 
 /* No comment provided by engineer. */
 "It appears that your privacy settings are preventing the use of motion & fitness. Please make the necessary adjustments in the Settings app." = "Sembra che le tue impostazioni sulla privacy impediscano l'utilizzo di Motion & Fitness. Apporta le modifiche necessarie nell'app Impostazioni.";
@@ -1346,6 +1388,9 @@
 "Latitude: %1$@, Longitude: %2$@" = "Latitudine: %1$@, Longitudine: %2$@";
 
 /* No comment provided by engineer. */
+"Learn with Podcasts" = "Impara con i podcast";
+
+/* No comment provided by engineer. */
 "List Intersections Ahead" = "Elenca gli incroci davanti a te";
 
 /* No comment provided by engineer. */
@@ -1375,6 +1420,12 @@
 /* No comment provided by engineer. */
 "Longitude" = "Longitudine";
 
+/* Visual assistance capture another image button */
+"Look Again" = "Guarda di nuovo";
+
+/* Visual assistance loading message */
+"Looking ahead" = "Guardando al futuro";
+
 /* beacon.styles.mallet */
 "Mallet" = "Percussione";
 
@@ -1385,7 +1436,7 @@
 "Mallet (Very Slow)" = "Percussione (molto lento)";
 
 /* No comment provided by engineer. */
-"MAP" = "MAPPA";
+"Map" = "Mappa";
 
 /* No comment provided by engineer. */
 "Map Service" = "Servizio di mappe";
@@ -1430,7 +1481,7 @@
 "Markers" = "Indicatori";
 
 /* No comment provided by engineer. */
-"MARKERS & ROUTES" = "INDICATORI E PERCORSI";
+"Markers & Routes" = "Indicatori e percorsi";
 
 /* No comment provided by engineer. */
 "Markers Ahead" = "Indicatori davanti a te";
@@ -1475,7 +1526,7 @@
 "Navigation Instructions" = "Istruzioni di navigazione";
 
 /* No comment provided by engineer. */
-"NAVIGATION ROUTES" = "ITINERARI DI NAVIGAZIONE";
+"Navigation Routes" = "Percorsi di navigazione";
 
 /* No comment provided by engineer. */
 "Navigation Routes Calculated" = "Itinerari di navigazione calcolati";
@@ -1571,6 +1622,9 @@
 /* No comment provided by engineer. */
 "No track found in this GPX file" = "Nessun percorso trovato in questo file GPX";
 
+/* Visual assistance empty response error */
+"No useful visual description could be generated." = "Non è stato possibile generare una descrizione visiva utile.";
+
 /* No comment provided by engineer. */
 "No Waypoints Defined" = "Nessun waypoint definito";
 
@@ -1616,14 +1670,17 @@
 /* No comment provided by engineer. */
 "Objects" = "Oggetti";
 
+/* voiceSetting.on_foot_rate */
+"On Foot Speaking Rate" = "Tariffa oraria a piedi";
+
 /* No comment provided by engineer. */
 "On foot speaking rate" = "Velocità della voce a piedi";
 
-/* voiceSetting.on_foot_rate */
-"ON FOOT SPEAKING RATE" = "Velocità della voce a piedi";
-
 /* No comment provided by engineer. */
 "On foot speaking rate. How does this sound?" = "Velocità della voce a piedi. Come ti sembra?";
+
+/* Visual assistance unavailable error */
+"On-device visual assistance is unavailable." = "L'assistenza visiva sul dispositivo non è disponibile.";
 
 /* No comment provided by engineer. */
 "Oops! Something went wrong." = "Ops! Si è verificato un errore.";
@@ -1635,10 +1692,16 @@
 "Open in Google Maps" = "Apri in Google Maps";
 
 /* No comment provided by engineer. */
+"Open route details to review navigatoin steps and continue." = "Apri i dettagli del percorso per rivedere i passaggi di navigazione e continuare.";
+
+/* No comment provided by engineer. */
 "Open Settings" = "Apri impostazioni";
 
 /* general.error.location_services_resume */
 "Open VoiceVista to resume Location Services" = "Apri VoiceVista per riprendere i servizi di localizzazione";
+
+/* Visual assistance accessibility hint */
+"Opens the camera to describe what is in front of you" = "Apre la fotocamera per descrivere ciò che si trova di fronte a te";
 
 /* No comment provided by engineer. */
 "OpenStreetMap Tags" = "Tag OpenStreetMap";
@@ -1653,7 +1716,7 @@
 "Other Distance" = "Altra distanza";
 
 /* voiceSetting.others */
-"OTHER LANGUAGES" = "ALTRE LINGUE";
+"Other Languages" = "Altre lingue";
 
 /* No comment provided by engineer. */
 "Other Options" = "Altre opzioni";
@@ -1662,7 +1725,7 @@
 "Other Sound Effect volume" = "Volume degli altri effetti sonori";
 
 /* No comment provided by engineer. */
-"OTHER SOUNDS" = "ALTRI SUONI";
+"Other Sounds" = "Altri suoni";
 
 /* No comment provided by engineer. */
 "Others" = "Altri";
@@ -1716,9 +1779,6 @@
 "Places" = "Luoghi";
 
 /* No comment provided by engineer. */
-"PLACES" = "LUOGHI";
-
-/* No comment provided by engineer. */
 "Places data come from Apple Maps, OpenStreetMap and Overture Maps." = "I dati sui luoghi provengono da Apple Maps, OpenStreetMap e Overture Maps.";
 
 /* No comment provided by engineer. */
@@ -1737,28 +1797,25 @@
 "Please try later." = "Per favore prova più tardi.";
 
 /* No comment provided by engineer. */
-"POI ANNOUNCING OPTIONS" = "OPZIONI DI ANNUNCIO DEI PUNTI DI INTERESSE";
+"POI Announcing Options" = "Opzioni di annuncio del punto di interesse";
 
 /* No comment provided by engineer. */
-"POI SENSING RANGES" = "DISTANZE DI RILEVAMENTO DEI POI";
+"POI Sensing Ranges" = "Campi di rilevamento dei punti di interesse";
 
 /* No comment provided by engineer. */
 "POI Settings" = "Impostazioni POI";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT OPTIONS" = "OPZIONI DEGLI EFFETTI SONORI DEI POI";
+"POI Sound Effect Options" = "Opzioni per gli effetti sonori dei punti di interesse";
 
 /* No comment provided by engineer. */
-"POI SOUND EFFECT VOLUME" = "VOLUME DELL'EFFETTO SONORO DEI POI";
+"POI Sound Effect Volume" = "Volume degli effetti sonori del punto di interesse";
 
 /* No comment provided by engineer. */
 "POI Sound Settings" = "Impostazioni audio dei punti di interesse";
 
 /* No comment provided by engineer. */
 "POI Supercategory Options" = "Opzioni Supercategoria POI";
-
-/* No comment provided by engineer. */
-"POI SUPERCATEGORY OPTIONS" = "OPZIONI SUPERCATEGORIA POI";
 
 /* No comment provided by engineer. */
 "POIs" = "POI";
@@ -1771,6 +1828,9 @@
 
 /* No comment provided by engineer. */
 "Preference" = "Preferenza";
+
+/* No comment provided by engineer. */
+"Preparing Visual Assistance..." = "Preparazione del supporto visivo...";
 
 /* No comment provided by engineer. */
 "Press the play button on your headphones to wake up VoiceVista." = "Premi il pulsante di riproduzione sulle cuffie per riattivare VoiceVista.";
@@ -1807,6 +1867,9 @@
 
 /* No comment provided by engineer. */
 "Query History" = "Cronologia delle query";
+
+/* No comment provided by engineer. */
+"Question" = "Domanda";
 
 /* No comment provided by engineer. */
 "Quit Without Save" = "Esci senza salvare";
@@ -1935,7 +1998,7 @@
 "Route Updated to a Circular Journey" = "Itinerario aggiornato a un viaggio circolare";
 
 /* No comment provided by engineer. */
-"ROUTE WAYPOINTS" = "WAYPOINT DEL PERCORSO";
+"Route Waypoints" = "Punti di interesse del percorso";
 
 /* routes.title */
 "Routes" = "Percorsi";
@@ -2004,6 +2067,12 @@
 "Set and save a permanent alert distance for each marker individually. You will be notified as soon as it is closer than your defined distance." = "Imposta e salva una distanza per cui essere avvisato permanentemente per ciascun indicatore in modo individuale. Riceverai una notifica non appena ti starai avvicinando alla distanza definita.";
 
 /* No comment provided by engineer. */
+"Set the destination for this route." = "Imposta la destinazione per questo percorso.";
+
+/* No comment provided by engineer. */
+"Set the starting location for this route." = "Imposta il punto di partenza per questo percorso.";
+
+/* No comment provided by engineer. */
 "Settings" = "Impostazioni";
 
 /* No comment provided by engineer. */
@@ -2063,6 +2132,9 @@
 /* No comment provided by engineer. */
 "Snoozing" = "In modalità Posponi";
 
+/* Visual assistance uncertainty message */
+"Some details may be uncertain." = "Alcuni dettagli potrebbero essere incerti.";
+
 /* No comment provided by engineer. */
 "Sorted by Distance" = "Ordinati per distanza";
 
@@ -2108,6 +2180,9 @@
 /* No comment provided by engineer. */
 "Start Monitoring" = "Inizia il monitoraggio";
 
+/* No comment provided by engineer. */
+"Start Navigation" = "Avvia la navigazione";
+
 /* voice.action.start_route */
 "Start Route" = "Avvia Percorso";
 
@@ -2145,6 +2220,9 @@
 "Stop route" = "Percorso di arresto";
 
 /* No comment provided by engineer. */
+"Stop Visual Assistance" = "Interrompere l'assistenza visiva";
+
+/* No comment provided by engineer. */
 "Street Preview" = "Street preview";
 
 /* preview.callout.paused */
@@ -2154,28 +2232,22 @@
 "Style Settings" = "Impostazioni stile";
 
 /* No comment provided by engineer. */
-"Subscribe Now" = "Abbonati ora";
-
-/* No comment provided by engineer. */
 "Subscription Status" = "Stato dell'abbonamento";
 
 /* No comment provided by engineer. */
 "Summary" = "Riepilogo";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY DEFINITION" = "DEFINIZIONE DI SUPERCATEGORIA";
+"Supercategory Definition" = "Definizione di supercategoria";
 
 /* No comment provided by engineer. */
 "Supercategory Definitions" = "Definizioni SUPERCATEGORIE";
 
 /* No comment provided by engineer. */
-"SUPERCATEGORY SOUNDS" = "SUONI SUPERCATEGORIE";
+"Supercategory Sounds" = "Suoni della supercategoria";
 
 /* No comment provided by engineer. */
 "Surrounding Commands" = "Comandi per i dintorni";
-
-/* No comment provided by engineer. */
-"Surrounding Settings" = "Impostazioni dei dintorni";
 
 /* vicinity.title */
 "Surroundings" = "Dintorni";
@@ -2208,13 +2280,28 @@
 "The beacon will automatically mute again when you approach the destination and enter the Auto-Mute range." = "L'audiofaro si disattiverà automaticamente di nuovo quando ti avvicini alla destinazione ed entri nel raggio di disattivazione automatica.";
 
 /* No comment provided by engineer. */
+"The camera is not available on this device." = "La fotocamera non è disponibile su questo dispositivo.";
+
+/* No comment provided by engineer. */
+"The captured image could not be processed." = "L'immagine acquisita non è stata elaborata.";
+
+/* No comment provided by engineer. */
 "The distance between waypoints should not be too small." = "La distanza tra i WayPoint non dovrebbe essere troppo piccola.";
 
 /* No comment provided by engineer. */
 "The file contains both waypoints and tracks." = "Il file contiene sia waypoint che tracce.";
 
 /* No comment provided by engineer. */
+"The first launch may take a few seconds." = "Il primo avvio potrebbe richiedere alcuni secondi.";
+
+/* No comment provided by engineer. */
 "The headphones you selected are currently unavailable for connection. Please try again later." = "Gli auricolari selezionati non sono attualmente disponibili per la connessione. Riprova più tardi.";
+
+/* Visual assistance image analysis error */
+"The image could not be analyzed. Please look again." = "Impossibile analizzare l'immagine. Riprova.";
+
+/* Visual assistance low confidence message */
+"The image could not be interpreted with confidence." = "L'immagine non poteva essere interpretata con certezza.";
 
 /* No comment provided by engineer. */
 "The link appears to be invalid." = "Il link non sembra essere valido.";
@@ -2269,6 +2356,9 @@
 
 /* No comment provided by engineer. */
 "This value is an estimate of how accurately VoiceVista knows where you are located. Less than 30 feet is good. Less than 60 feet is ok. Anything else is poor. Location data is most accurate when outside and not under any structures." = "Questo valore è una stima della precisione con cui VoiceVista sa dove ti trovi. Meno di 30 piedi va bene. Meno di 60 piedi va bene. Tutto il resto è scadente. I dati sulla posizione sono più accurati quando si trova all'esterno e non sotto alcuna struttura.";
+
+/* Visual assistance missing session error */
+"This visual assistance session has ended. Look again to start a new session." = "Questa sessione di assistenza visiva è terminata. Torna qui per iniziare una nuova sessione.";
 
 /* No comment provided by engineer. */
 "This will disconnect your headphones from VoiceVista. You can connect to VoiceVista again in the future from here." = "Questa operazione disconnetterà i tuoi auricolari da VoiceVista. Puoi connetterli di nuovo a VoiceVista da qui.";
@@ -2329,7 +2419,7 @@
 "Transportation" = "Trasporto";
 
 /* No comment provided by engineer. */
-"TRIP OPTIONS" = "OPZIONI DI VIAGGIO";
+"Trip Options" = "Opzioni di viaggio";
 
 /* No comment provided by engineer. */
 "Troubleshooting" = "Risoluzione dei problemi";
@@ -2456,19 +2546,38 @@
 "View Detail" = "vedi dettagli";
 
 /* No comment provided by engineer. */
-"Visit Web" = "Visita il sito Web";
+"Virtual Location" = "Posizione virtuale";
 
 /* No comment provided by engineer. */
-"VOICE & SOUND" = "VOCE & SUONO";
+"Visit Web" = "Visita il sito Web";
+
+/* Visual assistance button
+   Visual assistance screen title */
+"Visual Assistance" = "Assistenza visiva";
+
+/* No comment provided by engineer. */
+"Visual Assistance cannot reliably identify obstacles, entrances, seating, distances, or whether a path is safe. Continue using your cane, guide dog, or other mobility aid." = "L'assistenza visiva non è in grado di identificare con certezza ostacoli, ingressi, posti a sedere, distanze o se un percorso è sicuro. Continuate a utilizzare il bastone, il cane guida o altri ausili per la mobilità.";
+
+/* Visual assistance generic error */
+"Visual Assistance could not analyze the image. Please try again." = "Visual Assistant non è riuscito ad analizzare l'immagine. Riprova.";
+
+/* Visual assistance stopped announcement */
+"Visual assistance stopped." = "Assistenza visiva disattivata.";
+
+/* No comment provided by engineer. */
+"Visual Assistance uses Apple Vision to detect objects through your camera. Your images are processed privately on your device and are not uploaded or shared." = "Assistente visivo utilizza Apple Vision per rilevare gli oggetti attraverso la fotocamera. Le immagini vengono elaborate privatamente sul tuo dispositivo e non vengono caricate o condivise.";
+
+/* No comment provided by engineer. */
+"Voice & Sound" = "Voce e suono";
 
 /* No comment provided by engineer. */
 "Voice Settings" = "Impostazioni voce";
 
 /* No comment provided by engineer. */
-"VOICE VOLUME" = "VOLUME DELLA VOCE";
+"Voice volume" = "Volume della voce";
 
 /* No comment provided by engineer. */
-"Voice volume" = "Volume della voce";
+"Voice Volume" = "Volume vocale";
 
 /* No comment provided by engineer. */
 "Voices and Sounds" = "Voci e suoni";
@@ -2477,7 +2586,7 @@
 "VoiceVista Blog" = "Blog VoiceVista";
 
 /* No comment provided by engineer. */
-"VoiceVista can calculate waypoints for reference based on the starting and destination locations." = "VoiceVista può calcolare waypoint per avere dei punti di riferimento in base alle posizioni di partenza e di destinazione.";
+"VoiceVista can calculate reference waypoints based on the starting and destination locations." = "VoiceVista è in grado di calcolare punti di riferimento in base ai punti di partenza e di arrivo.";
 
 /* No comment provided by engineer. */
 "VoiceVista can generate a new reverse route with waypoints in reverse order for your convenience. You may need to adjust the waypoints for the reversed route before starting guidance." = "VoiceVista può generare un nuovo percorso inverso con waypoint invertiti per comodità. Potrebbe essere necessario regolare i waypoint prima di avviare la guida.";
@@ -2525,7 +2634,7 @@
 "VoiceVista is searching for your AirPods. Ensure they are connected to your phone." = "VoiceVista sta cercando i tuoi auricolari AirPods. Assicurati che siano connessi al telefono.";
 
 /* No comment provided by engineer. */
-"VoiceVista only announces automatic callouts when in the surroundings tab. To modify this setting, navigate to the Settings tab." = "VoiceVista annuncia gli avvisi automatici solo nella scheda Dintorni. Per modificare questa impostazione, vai alla scheda Impostazioni.";
+"VoiceVista only announces automatic callouts when in the surroundings tab." = "VoiceVista annuncia le chiamate automatiche solo quando ci si trova nella scheda 'Dintorni'.";
 
 /* No comment provided by engineer. */
 "VoiceVista stores map data to reduce data and battery consumption. Clearing stored map data will require VoiceVista to re-download the data." = "VoiceVista memorizza i dati della mappa per ridurre il consumo di dati e batteria. La cancellazione dei dati della mappa memorizzati richiederà a VoiceVista di scaricare nuovamente i dati.";
@@ -2540,7 +2649,7 @@
 "VoiceVista was unable to connect to your headphones. Please try again later." = "VoiceVista non è riuscito a connettersi ai tuoi auricolari. Riprova più tardi.";
 
 /* No comment provided by engineer. */
-"VOLUME & STYLE" = "VOLUME & STILE";
+"Volume & Style" = "Volume e stile";
 
 /* No comment provided by engineer. */
 "Wake Up Now" = "Riattiva ora";
@@ -2616,9 +2725,6 @@
 "With the enqueue option off, intersection callouts will interrupt any current callouts." = "Se l'opzione di accodamento è disattivata, gli avvisi inerenti gli incroci interromperanno tutti gli avvisi correnti.";
 
 /* No comment provided by engineer. */
-"With the tab option enabled, VoiceVista announces callouts only in the Surroundings tab. When disabled, it announces callouts at all times." = "Con l'opzione scheda abilitata, VoiceVista annuncia gli avvisi solo nella scheda Dintorni. Quando è disabilitata, annuncia gli avvisi in ogni momento.";
-
-/* No comment provided by engineer. */
 "With verbose mode off, the same road name will not be repeated after an intersection." = "Disattivando la modalità dettagliata, non verrà ripetuto lo stesso nome della strada dopo un incrocio.";
 
 /* No comment provided by engineer. */
@@ -2668,9 +2774,6 @@
 
 /* No comment provided by engineer. */
 "You can use the actions rotor on the buttons of the Surroundings tab to perform additional actions." = "Puoi utilizzare il rotore delle azioni sui pulsanti della scheda Dintorni per eseguire azioni aggiuntive.";
-
-/* No comment provided by engineer. */
-"You can use the actions rotor on the buttons to perform additional actions." = "È possibile utilizzare il rotore delle azioni sui pulsanti per eseguire azioni aggiuntive.";
 
 /* No comment provided by engineer. */
 "You can't delete a marker while it is the current beacon." = "Non è possibile eliminare un marcatore mentre è il beacon corrente.";
